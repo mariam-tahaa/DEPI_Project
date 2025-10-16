@@ -1,0 +1,151 @@
+EmployeeID,FirstName,LastName,PositionID,DepartmentID,HireDate,TerminationDate,EmploymentStatus,Salary,HourlyRate,StandardHours,TrainingTimes,Satisfaction,Email,PhoneNumber,DateOfBirth,Gender,MaritalStatus,Country,City,DistanceFromHome,Education,EducationField,ManagerID,EmploymentType,ContractType
+1,Khaled,Wilson,1,7,2015-07-18,,Active,9395,54.2,173.33,3,48,khaled.wilson@steigenberger.com,+20 1021701997,1991-09-11,M,Married,Egypt,Giza,401,High School,Engineering,,Full-time,Permanent
+2,Salam,Lopez,2,1,2016-03-26,2019-07-19,Terminated,3488,20.12,173.33,1,89,salam.lopez@steigenberger.com,+20 1023695136,1989-06-17,F,Married,Saudi Arabia,Mansoura,294,Master,Hospitality,1,Full-time,Fixed-term
+3,Sarah,King,3,1,2018-09-22,,Active,1061,6.12,86.67,3,86,sarah.king@steigenberger.com,+20 1082278854,1975-08-22,F,Married,Sudan,Ismailia,288,Diploma,Hospitality,2,Part-time,Permanent
+4,Jihad,Garcia,4,1,2020-06-01,2021-07-18,Terminated,1256,7.25,173.33,1,80,jihad.garcia@steigenberger.com,+20 1012188862,1988-08-25,M,Widowed,Syria,Alexandria,279,Diploma,General,2,Part-time,Permanent
+5,Wael,Al-Rashid,5,2,2020-05-14,,Active,2500,14.42,86.67,2,72,wael.al-rashid@steigenberger.com,+20 1035927774,1992-12-03,M,Widowed,Egypt,Mansoura,198,High School,Engineering,1,Full-time,Permanent
+6,James,Miller,6,2,2018-06-01,,Active,683,3.94,173.33,7,44,james.miller@steigenberger.com,+20 1073419318,1979-06-22,M,Single,Egypt,Mansoura,203,Master,Business,5,Contract,Fixed-term
+7,Ola,Lee,7,4,2019-02-21,,Active,3103,17.9,173.33,1,87,ola.lee@steigenberger.com,+20 1059457647,1978-08-22,M,Divorced,Philippines,Shubra El Kheima,160,Diploma,Hospitality,1,Full-time,Permanent
+8,Susan,Al-Zahra,8,4,2015-09-24,,Active,1091,6.29,173.33,5,72,susan.al-zahra@steigenberger.com,+20 1084702674,1985-04-11,F,Widowed,Egypt,Mansoura,46,Bachelor,Engineering,7,Full-time,Internship
+9,Ali,El-Masry,13,8,2015-06-18,,Active,2451,14.14,173.33,3,90,ali.el-masry@steigenberger.com,+20 1046003878,2000-08-24,F,Single,Sudan,Zagazig,448,Diploma,Tourism,12,Full-time,Permanent
+10,Jessica,Sabry,18,6,2017-12-19,,Active,726,4.19,173.33,8,63,jessica.sabry@steigenberger.com,+20 1091839378,1996-06-12,M,Widowed,Sudan,Port Said,425,Bachelor,General,17,Seasonal,Permanent
+11,Matthew,Lewis,15,5,2017-02-10,,Active,2271,13.1,173.33,6,43,matthew.lewis@steigenberger.com,+20 1077172590,1994-01-19,F,Divorced,Egypt,Shubra El Kheima,298,Master,Business,1,Full-time,Permanent
+12,Joseph,Martinez,11,3,2017-01-06,,Active,819,4.73,173.33,3,70,joseph.martinez@steigenberger.com,+20 1043341469,1972-08-18,M,Divorced,Sudan,Port Said,311,High School,General,9,Full-time,Casual
+13,Donna,Taylor,10,3,2020-02-28,,Active,586,3.38,173.33,6,67,donna.taylor@steigenberger.com,+20 1087860351,1972-10-01,F,Married,Syria,Damietta,142,Bachelor,Management,9,Contract,Fixed-term
+14,Rana,Bin-Salem,5,2,2015-08-20,,Active,2786,16.07,173.33,2,80,rana.bin-salem@steigenberger.com,+20 1072732231,1995-07-26,F,Single,Egypt,Zagazig,226,Diploma,Engineering,1,Full-time,Permanent
+15,Nour,Shaker,5,2,2018-01-01,,Active,2829,16.32,173.33,1,55,nour.shaker@steigenberger.com,+20 1042388284,1997-12-10,M,Divorced,Egypt,Tanta,348,Master,Business,1,Full-time,Permanent
+16,Hala,Helmy,19,7,2020-07-13,,Active,2199,12.69,86.67,8,95,hala.helmy@steigenberger.com,+20 1072531431,1972-05-05,F,Single,Syria,Cairo,240,Master,Engineering,1,Full-time,Permanent
+17,Richard,Taylor,6,2,2019-02-19,,Active,642,3.7,173.33,4,64,richard.taylor@steigenberger.com,+20 1058693243,1981-07-05,F,Married,Egypt,Alexandria,408,High School,Tourism,5,Full-time,Permanent
+18,Joshua,King,4,1,2016-02-15,,Active,1068,6.16,173.33,6,68,joshua.king@steigenberger.com,+20 1036953743,1983-04-08,F,Divorced,Syria,Cairo,350,High School,Tourism,2,Full-time,Permanent
+19,Hala,Johnson,6,2,2016-05-08,,Active,600,3.46,173.33,5,66,hala.johnson@steigenberger.com,+20 1018170504,1993-06-21,M,Widowed,Egypt,Zagazig,153,Master,Tourism,5,Full-time,Permanent
+20,David,Al-Kindi,15,5,2020-03-20,,Active,2107,12.16,173.33,4,65,david.al-kindi@steigenberger.com,+20 1010389080,1974-04-07,F,Widowed,Philippines,Tanta,339,Bachelor,General,1,Full-time,Permanent
+21,Mazen,Abdel-Rahman,7,4,2020-10-04,,Active,3414,19.7,173.33,6,43,mazen.abdel-rahman@steigenberger.com,+20 1035860457,1986-06-05,F,Widowed,Egypt,Zagazig,138,High School,Management,1,Full-time,Internship
+22,Robert,Taylor,10,3,2015-02-27,,Active,551,3.18,173.33,8,93,robert.taylor@steigenberger.com,+20 1095629030,1994-06-22,M,Married,Philippines,Damietta,217,Bachelor,Business,9,Contract,Fixed-term
+23,Ashraf,Abdo,8,4,2018-05-03,2019-10-13,Terminated,936,5.4,173.33,4,59,ashraf.abdo@steigenberger.com,+20 1033441359,1989-10-18,F,Single,Syria,Tanta,150,Bachelor,General,7,Full-time,Permanent
+24,Youssef,Helmy,10,3,2015-08-19,2019-10-23,Quit,722,4.17,173.33,6,44,youssef.helmy@steigenberger.com,+20 1032837691,1983-02-15,M,Divorced,Egypt,Port Said,350,High School,Business,9,Contract,Permanent
+25,Majid,Nasser,13,8,2020-03-21,,Active,2497,14.41,173.33,2,45,majid.nasser@steigenberger.com,+20 1065268527,1972-04-05,M,Divorced,Sudan,Mansoura,220,Master,Tourism,12,Full-time,Permanent
+26,Anna,Abu-Bakr,7,4,2019-10-22,,Active,2964,17.1,173.33,4,80,anna.abu-bakr@steigenberger.com,+20 1022297584,2000-01-12,F,Widowed,Sudan,Tanta,431,Master,Business,1,Full-time,Permanent
+27,Betty,Tawfik,8,4,2015-11-20,,Active,1093,6.31,173.33,3,72,betty.tawfik@steigenberger.com,+20 1075878049,1976-08-17,M,Widowed,Sudan,Ismailia,485,Diploma,Management,7,Seasonal,Permanent
+28,Jennifer,El-Naggar,7,4,2017-01-05,,Active,3164,18.25,173.33,7,87,jennifer.el-naggar@steigenberger.com,+20 1041578477,1981-09-08,M,Widowed,Saudi Arabia,Damietta,245,Bachelor,Tourism,1,Full-time,Permanent
+29,Khalil,Wright,15,5,2017-01-21,,Active,2426,14.0,173.33,6,68,khalil.wright@steigenberger.com,+20 1040172600,1999-01-04,M,Divorced,Sudan,Ismailia,403,Bachelor,Management,1,Full-time,Permanent
+30,Elizabeth,El-Khalil,4,1,2016-03-21,,Active,1417,8.18,173.33,8,67,elizabeth.el-khalil@steigenberger.com,+20 1089000030,1970-06-21,M,Divorced,Sudan,Mansoura,164,High School,Tourism,2,Full-time,Permanent
+31,Elizabeth,Sabry,19,7,2018-07-23,,Active,1992,11.49,173.33,4,61,elizabeth.sabry@steigenberger.com,+20 1079403270,1996-12-16,M,Widowed,Egypt,Ismailia,265,Diploma,Hospitality,1,Full-time,Permanent
+32,Hisham,Rodriguez,16,5,2020-11-15,2022-08-23,Terminated,520,3.0,173.33,2,59,hisham.rodriguez@steigenberger.com,+20 1033476266,2002-07-13,F,Divorced,Sudan,Cairo,175,Bachelor,Hospitality,15,Full-time,Permanent
+33,James,Ibrahim,7,4,2017-10-16,,Active,3047,17.58,173.33,1,79,james.ibrahim@steigenberger.com,+20 1037463543,2000-03-07,F,Married,Philippines,Mansoura,118,Master,Business,1,Full-time,Permanent
+34,Robert,El-Khalil,16,5,2020-05-03,,Active,738,4.26,173.33,6,64,robert.el-khalil@steigenberger.com,+20 1094079710,1978-04-25,M,Married,Philippines,Mansoura,232,Master,Engineering,15,Full-time,Permanent
+35,Susan,Williams,20,7,2015-06-15,,Active,1638,9.45,173.33,6,84,susan.williams@steigenberger.com,+20 1066001443,1978-03-26,F,Widowed,Syria,Alexandria,237,Master,Engineering,1,Full-time,Fixed-term
+36,Ola,El-Masry,9,3,2019-08-01,,Active,3590,20.71,173.33,3,60,ola.el-masry@steigenberger.com,+20 1088930937,1972-02-08,M,Divorced,Syria,Cairo,94,Diploma,General,1,Full-time,Internship
+37,Anna,Nasser,6,2,2018-03-08,,Active,687,3.96,173.33,3,77,anna.nasser@steigenberger.com,+20 1091342523,1993-12-13,M,Widowed,Sudan,Giza,226,Bachelor,Engineering,5,Full-time,Permanent
+38,Nader,Wright,8,4,2019-03-08,,Active,1181,6.81,86.67,5,80,nader.wright@steigenberger.com,+20 1077883275,1981-12-01,F,Widowed,Syria,Mansoura,331,Bachelor,Engineering,7,Full-time,Permanent
+39,Mahmoud,Wilson,10,3,2016-10-07,2017-11-23,Quit,546,3.15,173.33,5,71,mahmoud.wilson@steigenberger.com,+20 1043755666,1974-03-15,F,Single,Philippines,Mansoura,163,High School,General,9,Full-time,Permanent
+40,Robert,Sabry,18,6,2018-06-12,2020-06-23,Terminated,830,4.79,173.33,2,46,robert.sabry@steigenberger.com,+20 1069197102,1970-11-23,F,Divorced,Philippines,Shubra El Kheima,203,Bachelor,Business,17,Full-time,Permanent
+41,Robert,Soliman,16,5,2017-07-06,,Active,793,4.58,173.33,7,74,robert.soliman@steigenberger.com,+20 1070816281,1997-11-21,M,Married,Philippines,Port Said,350,Bachelor,Business,15,Seasonal,Permanent
+42,Zeinab,Martin,17,6,2020-01-08,,Active,2336,13.48,173.33,3,71,zeinab.martin@steigenberger.com,+20 1010502119,1981-11-25,M,Married,Saudi Arabia,Alexandria,93,Master,General,1,Full-time,Permanent
+43,Helen,Young,5,2,2016-12-25,,Active,3164,18.25,173.33,2,63,helen.young@steigenberger.com,+20 1044849097,1980-07-09,F,Widowed,Saudi Arabia,Damietta,33,Bachelor,Business,1,Full-time,Permanent
+44,Sherif,Al-Mahmoud,14,8,2016-04-08,,Active,733,4.23,86.67,8,74,sherif.al-mahmoud@steigenberger.com,+20 1076347104,2001-05-21,M,Divorced,Philippines,Port Said,269,Bachelor,Business,12,Full-time,Permanent
+45,Nour,Jackson,20,7,2018-06-05,,Active,1578,9.1,173.33,4,63,nour.jackson@steigenberger.com,+20 1047532610,1976-10-15,M,Single,Sudan,Zagazig,393,High School,Management,1,Full-time,Casual
+46,Jihad,Garcia,9,3,2017-11-14,,Active,3402,19.63,173.33,4,77,jihad.garcia.46@steigenberger.com,+20 1098010452,1991-05-16,F,Widowed,Sudan,Mansoura,304,Master,Business,1,Full-time,Permanent
+47,Tariq,Gaber,14,8,2018-11-16,,Active,807,4.66,173.33,4,81,tariq.gaber@steigenberger.com,+20 1029364177,1984-03-28,M,Divorced,Syria,Giza,75,Diploma,General,12,Part-time,Casual
+48,Youssef,Johnson,18,6,2017-06-07,,Active,903,5.21,173.33,2,74,youssef.johnson@steigenberger.com,+20 1099675531,1989-11-25,F,Married,Saudi Arabia,Giza,94,Master,Business,17,Full-time,Permanent
+49,Betty,Ibrahim,17,6,2020-02-01,,Active,2839,16.38,173.33,1,65,betty.ibrahim@steigenberger.com,+20 1034844290,1974-03-23,M,Married,Sudan,Port Said,455,Master,Business,1,Full-time,Permanent
+50,Ali,Ibrahim,13,8,2019-03-23,,Active,2476,14.28,173.33,8,77,ali.ibrahim@steigenberger.com,+20 1019396841,1985-02-14,M,Widowed,Egypt,Ismailia,438,High School,Business,12,Contract,Permanent
+51,Salma,Al-Farisi,8,4,2015-05-25,,Active,848,4.89,173.33,1,83,salma.al-farisi@steigenberger.com,+20 1028776852,1986-06-12,M,Married,Saudi Arabia,Tanta,12,High School,Management,7,Part-time,Permanent
+52,Fouad,Al-Mahmoud,14,8,2017-08-28,,Active,984,5.68,173.33,1,44,fouad.al-mahmoud@steigenberger.com,+20 1097445321,1973-02-04,F,Widowed,Syria,Mansoura,434,High School,Engineering,12,Part-time,Permanent
+53,David,Helmy,12,8,2017-02-28,,Active,3886,22.42,86.67,2,56,david.helmy@steigenberger.com,+20 1027350411,1996-11-24,F,Divorced,Egypt,Alexandria,242,Bachelor,Engineering,1,Contract,Casual
+54,Ruth,White,12,8,2016-04-25,,Active,3663,21.13,173.33,2,45,ruth.white@steigenberger.com,+20 1081568189,2000-04-15,F,Married,Philippines,Tanta,170,Master,Management,1,Contract,Permanent
+55,Salam,Ali,7,4,2018-07-05,2022-12-04,Quit,3381,19.51,173.33,3,91,salam.ali@steigenberger.com,+20 1080826661,1985-02-04,F,Divorced,Syria,Ismailia,479,Diploma,Tourism,1,Full-time,Casual
+56,Helen,Nasser,4,1,2017-04-10,,Active,1277,7.37,173.33,2,53,helen.nasser@steigenberger.com,+20 1080389327,1983-11-06,F,Married,Sudan,Alexandria,150,High School,General,2,Full-time,Permanent
+57,Salam,Lopez,3,1,2020-04-15,,Active,951,5.49,173.33,1,86,salam.lopez.57@steigenberger.com,+20 1031315399,1985-08-08,M,Single,Sudan,Tanta,436,Bachelor,General,2,Contract,Permanent
+58,Rana,Mahmoud,20,7,2016-02-05,,Active,2066,11.92,173.33,1,43,rana.mahmoud@steigenberger.com,+20 1035958357,1975-04-15,F,Divorced,Syria,Giza,451,Diploma,Hospitality,1,Full-time,Permanent
+59,Carol,Davis,13,8,2020-09-19,,Active,1686,9.73,173.33,5,90,carol.davis@steigenberger.com,+20 1038524317,1981-08-01,F,Married,Sudan,Zagazig,259,Diploma,Management,12,Full-time,Permanent
+60,Magdy,Smith,9,3,2017-11-24,,Active,3104,17.91,173.33,7,42,magdy.smith@steigenberger.com,+20 1088485342,2000-08-08,M,Widowed,Egypt,Zagazig,287,Diploma,Tourism,1,Full-time,Permanent
+61,Omar,Smith,8,4,2017-07-10,,Active,1182,6.82,173.33,2,40,omar.smith@steigenberger.com,+20 1080504686,1989-09-09,F,Single,Egypt,Ismailia,346,Diploma,General,7,Seasonal,Fixed-term
+62,Nancy,Martinez,15,5,2016-12-25,,Active,2094,12.08,173.33,2,63,nancy.martinez@steigenberger.com,+20 1086293580,1983-12-02,M,Widowed,Syria,Zagazig,338,High School,Business,1,Full-time,Permanent
+63,Rami,Wilson,8,4,2019-08-28,,Active,954,5.5,173.33,7,41,rami.wilson@steigenberger.com,+20 1086645113,1974-09-02,F,Single,Sudan,Cairo,282,Bachelor,Hospitality,7,Full-time,Casual
+64,Sarah,Al-Rashid,11,3,2017-09-14,,Active,692,3.99,173.33,4,76,sarah.al-rashid@steigenberger.com,+20 1079582154,1999-07-08,M,Married,Sudan,Giza,321,Diploma,Hospitality,9,Trainee,Permanent
+65,Majid,Ibrahim,14,8,2020-06-12,,Active,981,5.66,173.33,1,47,majid.ibrahim@steigenberger.com,+20 1036488448,1981-06-09,M,Divorced,Syria,Shubra El Kheima,151,Bachelor,Tourism,12,Full-time,Fixed-term
+66,David,Hernandez,6,2,2018-09-05,,Active,749,4.32,173.33,8,44,david.hernandez@steigenberger.com,+20 1057729118,1987-05-04,M,Married,Philippines,Ismailia,78,Master,Management,5,Full-time,Fixed-term
+67,Dania,Shaker,16,5,2015-12-15,2017-09-08,Quit,530,3.06,173.33,3,51,dania.shaker@steigenberger.com,+20 1057813147,1972-11-23,M,Married,Egypt,Port Said,178,High School,Engineering,15,Part-time,Casual
+68,Jennifer,Lewis,7,4,2018-04-28,,Active,3332,19.22,173.33,2,89,jennifer.lewis@steigenberger.com,+20 1056300714,1974-01-18,M,Divorced,Syria,Shubra El Kheima,424,Diploma,General,1,Full-time,Permanent
+69,Abdullah,El-Shamy,19,7,2015-05-20,,Active,2279,13.15,173.33,8,70,abdullah.el-shamy@steigenberger.com,+20 1012403737,1989-02-05,F,Widowed,Syria,Cairo,311,Diploma,Tourism,1,Full-time,Permanent
+70,Richard,Gaber,15,5,2020-02-15,,Active,2550,14.71,173.33,8,92,richard.gaber@steigenberger.com,+20 1057506136,1974-09-11,M,Married,Philippines,Giza,383,Diploma,Management,1,Full-time,Permanent
+71,Mazen,Rodriguez,18,6,2017-11-13,,Active,861,4.97,173.33,2,53,mazen.rodriguez@steigenberger.com,+20 1078358104,1991-10-28,F,Single,Philippines,Alexandria,234,Master,Hospitality,17,Full-time,Permanent
+72,Karim,Walker,11,3,2020-03-22,2021-10-03,Terminated,784,4.52,173.33,6,73,karim.walker@steigenberger.com,+20 1079332568,1982-10-20,F,Widowed,Sudan,Port Said,279,High School,Tourism,9,Part-time,Permanent
+73,Jihad,Lewis,6,2,2016-10-15,,Active,627,3.62,173.33,4,48,jihad.lewis@steigenberger.com,+20 1046500278,1994-11-21,M,Divorced,Philippines,Cairo,153,High School,Hospitality,5,Contract,Permanent
+74,Sara,Garcia,14,8,2019-06-14,,Active,836,4.82,173.33,1,90,sara.garcia@steigenberger.com,+20 1099247901,1997-05-02,M,Divorced,Philippines,Alexandria,178,Master,General,12,Full-time,Permanent
+75,Ruth,Garcia,19,7,2017-09-18,,Active,2328,13.43,173.33,5,95,ruth.garcia@steigenberger.com,+20 1051508711,1993-12-17,M,Single,Sudan,Damietta,94,Diploma,Hospitality,1,Full-time,Permanent
+76,Noura,Sabry,6,2,2020-04-18,2021-01-20,Terminated,864,4.98,173.33,3,82,noura.sabry@steigenberger.com,+20 1037624177,1977-07-22,M,Married,Philippines,Alexandria,436,High School,Hospitality,5,Full-time,Permanent
+77,Layla,Williams,16,5,2017-06-20,,Active,509,2.94,173.33,5,76,layla.williams@steigenberger.com,+20 1022555523,2000-05-02,F,Divorced,Philippines,Damietta,166,Master,Business,15,Full-time,Permanent
+78,Maya,Sabry,17,6,2015-08-24,,Active,2849,16.44,173.33,3,66,maya.sabry@steigenberger.com,+20 1014152279,1995-10-22,F,Widowed,Saudi Arabia,Ismailia,407,Master,Tourism,1,Part-time,Permanent
+79,Anna,Martin,15,5,2016-10-06,,Active,2030,11.71,173.33,3,83,anna.martin@steigenberger.com,+20 1083164810,1990-02-25,F,Divorced,Egypt,Tanta,169,High School,Tourism,1,Full-time,Fixed-term
+80,Mazen,Al-Hashemi,11,3,2015-09-25,2017-07-24,Quit,628,3.62,173.33,7,82,mazen.al-hashemi@steigenberger.com,+20 1047537973,1975-09-20,F,Married,Syria,Zagazig,109,Master,General,9,Full-time,Permanent
+81,Ali,Ahmed,6,2,2019-08-20,,Active,766,4.42,173.33,6,44,ali.ahmed@steigenberger.com,+20 1073486895,1988-10-24,F,Widowed,Syria,Tanta,345,Bachelor,Hospitality,5,Full-time,Casual
+82,Nesma,Taylor,18,6,2020-02-10,,Active,728,4.2,173.33,2,71,nesma.taylor@steigenberger.com,+20 1040330059,1976-11-24,M,Widowed,Philippines,Cairo,42,Bachelor,Engineering,17,Full-time,Permanent
+83,Patricia,Badawy,18,6,2016-07-27,,Active,1068,6.16,173.33,8,44,patricia.badawy@steigenberger.com,+20 1061183781,1995-08-10,M,Married,Philippines,Mansoura,244,Diploma,Tourism,17,Contract,Permanent
+84,Carol,Al-Zahra,13,8,2018-02-19,,Active,1552,8.95,86.67,2,59,carol.al-zahra@steigenberger.com,+20 1048613827,1985-04-18,M,Married,Saudi Arabia,Mansoura,32,Bachelor,Management,12,Full-time,Permanent
+85,James,Salam,5,2,2015-04-24,,Active,2846,16.42,173.33,1,57,james.salam@steigenberger.com,+20 1025859305,1977-04-11,M,Divorced,Philippines,Cairo,60,Bachelor,Management,1,Full-time,Fixed-term
+86,Michael,Bin-Ahmed,12,8,2015-04-20,,Active,3076,17.75,86.67,1,67,michael.bin-ahmed@steigenberger.com,+20 1092226629,1994-12-25,F,Married,Philippines,Tanta,195,Diploma,Engineering,1,Full-time,Permanent
+87,Michelle,El-Sayed,13,8,2015-07-28,,Active,2398,13.83,173.33,5,65,michelle.el-sayed@steigenberger.com,+20 1071777869,2002-03-08,M,Widowed,Egypt,Alexandria,278,Bachelor,Business,12,Full-time,Permanent
+88,Jennifer,Garcia,17,6,2017-08-26,,Active,2856,16.48,173.33,5,79,jennifer.garcia@steigenberger.com,+20 1045311034,1977-11-19,M,Married,Egypt,Zagazig,394,Bachelor,Business,1,Full-time,Permanent
+89,Salam,Abu-Nasser,17,6,2020-11-11,2022-09-02,Terminated,2935,16.93,173.33,4,60,salam.abu-nasser@steigenberger.com,+20 1011675713,1970-07-09,F,Divorced,Syria,Shubra El Kheima,27,Master,Engineering,1,Full-time,Permanent
+90,Hisham,Salam,13,8,2016-11-08,,Active,1733,10.0,173.33,8,78,hisham.salam@steigenberger.com,+20 1067135230,1970-10-21,M,Married,Saudi Arabia,Giza,237,Master,Hospitality,12,Full-time,Permanent
+91,Rana,Sabry,16,5,2020-04-14,2021-04-09,Quit,553,3.19,173.33,6,73,rana.sabry@steigenberger.com,+20 1085292245,1974-01-25,F,Divorced,Saudi Arabia,Damietta,380,High School,Engineering,15,Full-time,Permanent
+92,Walid,Walker,8,4,2019-06-02,,Active,1075,6.2,173.33,1,91,walid.walker@steigenberger.com,+20 1031655187,1978-06-27,M,Widowed,Syria,Tanta,71,High School,General,7,Full-time,Permanent
+93,Rania,Soliman,20,7,2015-12-19,,Active,1544,8.91,173.33,8,88,rania.soliman@steigenberger.com,+20 1090388200,1970-04-22,F,Married,Egypt,Tanta,232,Master,Business,1,Part-time,Permanent
+94,James,Moore,10,3,2015-12-15,,Active,604,3.48,173.33,2,41,james.moore@steigenberger.com,+20 1098817735,1989-09-11,F,Married,Syria,Mansoura,28,Bachelor,Business,9,Full-time,Fixed-term
+95,Ali,Al-Zahra,7,4,2019-06-08,,Active,3413,19.69,173.33,5,43,ali.al-zahra@steigenberger.com,+20 1097250260,1972-04-16,M,Divorced,Egypt,Alexandria,140,Bachelor,Business,1,Contract,Permanent
+96,Hoda,Bin-Omar,15,5,2015-01-09,,Active,2524,14.56,173.33,1,66,hoda.bin-omar@steigenberger.com,+20 1023048039,1981-04-08,M,Single,Saudi Arabia,Alexandria,410,Diploma,Engineering,1,Part-time,Permanent
+97,Hisham,Garcia,13,8,2016-03-19,2021-11-27,Terminated,2297,13.25,173.33,8,87,hisham.garcia@steigenberger.com,+20 1070988120,1983-07-17,M,Single,Philippines,Alexandria,373,Bachelor,Engineering,12,Full-time,Casual
+98,Youssef,Bin-Ahmed,6,2,2018-01-18,2021-02-08,Terminated,858,4.95,173.33,8,48,youssef.bin-ahmed@steigenberger.com,+20 1012778548,1996-04-05,M,Divorced,Syria,Giza,266,Master,Engineering,5,Full-time,Permanent
+99,Sara,Tawfik,5,2,2015-08-21,2020-02-14,Terminated,2722,15.7,173.33,4,90,sara.tawfik@steigenberger.com,+20 1037412705,1996-12-23,M,Single,Egypt,Cairo,194,Master,Management,1,Full-time,Permanent
+100,Hala,El-Sayed,9,3,2019-03-15,,Active,3759,21.69,173.33,6,87,hala.el-sayed@steigenberger.com,+20 1061671349,1970-02-17,M,Widowed,Sudan,Tanta,80,Diploma,Tourism,1,Contract,Casual
+101,Nasser,Shaker,13,8,2020-09-16,,Active,1534,8.85,86.67,1,93,nasser.shaker@steigenberger.com,+20 1051893951,1976-12-13,F,Single,Saudi Arabia,Alexandria,270,High School,Business,12,Full-time,Permanent
+102,Ghada,Shaker,17,6,2015-11-15,2019-04-03,Quit,2344,13.52,173.33,3,88,ghada.shaker@steigenberger.com,+20 1073093554,1987-06-03,F,Divorced,Philippines,Cairo,315,Master,Engineering,1,Full-time,Permanent
+103,Mary,Hernandez,16,5,2018-08-13,2021-08-11,Terminated,706,4.07,173.33,4,93,mary.hernandez@steigenberger.com,+20 1078866807,1982-01-02,M,Divorced,Syria,Damietta,474,Diploma,General,15,Full-time,Fixed-term
+104,Hala,Hall,10,3,2016-10-06,,Active,729,4.21,173.33,1,42,hala.hall@steigenberger.com,+20 1080367086,1979-05-18,F,Divorced,Egypt,Damietta,369,Bachelor,Engineering,9,Full-time,Permanent
+105,Kenneth,Rizk,11,3,2019-11-17,2020-11-12,Terminated,700,4.04,173.33,1,72,kenneth.rizk@steigenberger.com,+20 1082846512,1993-01-09,M,Widowed,Syria,Cairo,481,Diploma,Tourism,9,Full-time,Fixed-term
+106,Fouad,Moore,17,6,2017-08-19,,Active,2203,12.71,173.33,3,82,fouad.moore@steigenberger.com,+20 1099211339,1976-01-08,F,Single,Sudan,Giza,119,Bachelor,General,1,Full-time,Permanent
+107,Magdy,Hernandez,8,4,2019-03-05,,Active,995,5.74,86.67,4,91,magdy.hernandez@steigenberger.com,+20 1036279551,1975-12-09,M,Single,Syria,Tanta,347,Bachelor,Business,7,Contract,Permanent
+108,Linda,Anderson,20,7,2020-06-28,,Active,1714,9.89,173.33,1,69,linda.anderson@steigenberger.com,+20 1010693390,1989-11-18,M,Single,Saudi Arabia,Ismailia,133,Diploma,Management,1,Part-time,Permanent
+109,Samir,Taylor,8,4,2019-01-01,2021-02-09,Quit,937,5.41,86.67,8,41,samir.taylor@steigenberger.com,+20 1068178330,2000-08-27,F,Widowed,Egypt,Giza,342,Bachelor,Management,7,Full-time,Permanent
+110,Rana,Helmy,13,8,2017-05-26,,Active,2321,13.39,173.33,3,42,rana.helmy@steigenberger.com,+20 1078364968,1974-01-14,M,Single,Saudi Arabia,Cairo,209,High School,General,12,Contract,Permanent
+111,Steven,Farouk,6,2,2018-01-08,,Active,805,4.64,173.33,6,69,steven.farouk@steigenberger.com,+20 1072964238,1984-09-13,F,Widowed,Philippines,Shubra El Kheima,342,Diploma,Hospitality,5,Full-time,Permanent
+112,Hassan,Wilson,11,3,2019-10-27,,Active,623,3.59,173.33,2,80,hassan.wilson@steigenberger.com,+20 1070942601,1984-11-04,F,Divorced,Syria,Port Said,253,Master,Hospitality,9,Full-time,Fixed-term
+113,Mona,Young,10,3,2016-01-08,2022-11-07,Terminated,708,4.08,173.33,7,78,mona.young@steigenberger.com,+20 1085868125,1999-11-03,M,Widowed,Saudi Arabia,Tanta,257,High School,Tourism,9,Full-time,Fixed-term
+114,Aisha,Taylor,3,1,2018-05-15,,Active,937,5.41,173.33,8,42,aisha.taylor@steigenberger.com,+20 1072429291,1972-04-18,M,Married,Sudan,Alexandria,368,Master,General,2,Full-time,Permanent
+115,Ahmed,Martin,4,1,2017-07-10,,Active,1453,8.38,173.33,2,51,ahmed.martin@steigenberger.com,+20 1051264776,1987-11-05,M,Single,Sudan,Tanta,180,Bachelor,Business,2,Seasonal,Permanent
+116,Daniel,Harris,9,3,2017-05-05,,Active,2882,16.63,173.33,3,51,daniel.harris@steigenberger.com,+20 1021889191,1994-02-22,F,Married,Philippines,Cairo,301,Diploma,Tourism,1,Full-time,Permanent
+117,Kenneth,Said,11,3,2017-12-19,2022-04-16,Terminated,758,4.37,86.67,8,53,kenneth.said@steigenberger.com,+20 1084630314,1998-06-05,F,Widowed,Sudan,Ismailia,93,Master,General,9,Full-time,Permanent
+118,Hala,Taylor,4,1,2017-07-21,2019-11-19,Terminated,1301,7.51,173.33,2,49,hala.taylor@steigenberger.com,+20 1054835863,1984-03-23,M,Single,Philippines,Zagazig,337,Bachelor,General,2,Full-time,Internship
+119,Anthony,El-Naggar,15,5,2018-02-13,,Active,2065,11.91,173.33,5,78,anthony.el-naggar@steigenberger.com,+20 1089932209,1999-05-09,F,Married,Philippines,Ismailia,6,High School,Engineering,1,Part-time,Permanent
+120,Magdy,White,8,4,2016-05-19,,Active,978,5.64,173.33,8,42,magdy.white@steigenberger.com,+20 1012101633,1987-12-27,F,Widowed,Egypt,Mansoura,234,Master,Business,7,Part-time,Permanent
+121,Mahmoud,Al-Farisi,4,1,2016-10-03,,Active,1251,7.22,86.67,6,60,mahmoud.al-farisi@steigenberger.com,+20 1011582743,1993-08-18,F,Married,Saudi Arabia,Tanta,398,Bachelor,General,2,Full-time,Permanent
+122,Farid,Khalil,15,5,2020-02-20,,Active,2672,15.42,173.33,5,55,farid.khalil@steigenberger.com,+20 1035902403,1981-12-10,F,Married,Philippines,Damietta,388,Master,Engineering,1,Full-time,Permanent
+123,Faisal,Hernandez,5,2,2020-04-01,,Active,2713,15.65,173.33,1,43,faisal.hernandez@steigenberger.com,+20 1016742927,1975-04-11,M,Single,Philippines,Zagazig,338,Master,Business,1,Part-time,Permanent
+124,Paul,Salam,19,7,2015-01-21,,Active,1985,11.45,173.33,3,75,paul.salam@steigenberger.com,+20 1084434146,1980-10-03,F,Single,Saudi Arabia,Tanta,107,High School,Business,1,Full-time,Fixed-term
+125,Michelle,Davis,17,6,2017-11-03,,Active,2968,17.12,173.33,8,92,michelle.davis@steigenberger.com,+20 1018227615,1987-11-03,M,Married,Egypt,Ismailia,484,Master,Management,1,Part-time,Permanent
+126,Ziad,Abu-Bakr,6,2,2015-04-18,,Active,876,5.05,173.33,2,42,ziad.abu-bakr@steigenberger.com,+20 1041192439,2002-04-18,M,Married,Philippines,Mansoura,12,Diploma,Business,5,Seasonal,Permanent
+127,Sherif,Bin-Salem,7,4,2018-06-12,,Active,2801,16.16,173.33,5,46,sherif.bin-salem@steigenberger.com,+20 1068945598,1977-08-16,M,Widowed,Saudi Arabia,Mansoura,11,High School,Tourism,1,Full-time,Permanent
+128,Michelle,Soliman,6,2,2016-05-08,,Active,723,4.17,173.33,4,66,michelle.soliman@steigenberger.com,+20 1034658247,1989-02-09,M,Divorced,Sudan,Shubra El Kheima,284,Bachelor,Management,5,Full-time,Permanent
+129,Mazen,Abdel-Rahman,16,5,2016-03-15,,Active,586,3.38,173.33,6,87,mazen.abdel-rahman.129@steigenberger.com,+20 1051068473,1971-07-24,F,Single,Saudi Arabia,Tanta,23,Master,Management,15,Full-time,Permanent
+130,Amr,Sabry,11,3,2016-08-05,,Active,786,4.53,173.33,8,73,amr.sabry@steigenberger.com,+20 1055808032,2001-06-03,M,Single,Sudan,Alexandria,257,Diploma,Engineering,9,Full-time,Permanent
+131,Nasser,Lewis,19,7,2019-01-14,,Active,2303,13.29,173.33,6,85,nasser.lewis@steigenberger.com,+20 1043103135,1999-07-03,F,Divorced,Saudi Arabia,Zagazig,231,Bachelor,Engineering,1,Full-time,Fixed-term
+132,Anna,Al-Hashemi,13,8,2018-12-03,2022-09-12,Quit,1523,8.79,173.33,5,68,anna.al-hashemi@steigenberger.com,+20 1049772443,1994-02-20,F,Single,Sudan,Damietta,102,Diploma,General,12,Full-time,Permanent
+133,Linda,Al-Zahra,15,5,2018-08-15,,Active,2417,13.94,173.33,2,43,linda.al-zahra@steigenberger.com,+20 1026942746,1988-09-28,M,Married,Syria,Ismailia,230,Diploma,Tourism,1,Full-time,Permanent
+134,Rania,Mohamed,12,8,2018-09-26,,Active,3433,19.81,86.67,6,95,rania.mohamed@steigenberger.com,+20 1060269448,1973-07-28,F,Widowed,Saudi Arabia,Tanta,117,Master,Business,1,Full-time,Permanent
+135,Noura,Jackson,15,5,2017-10-23,,Active,2242,12.93,86.67,7,67,noura.jackson@steigenberger.com,+20 1018575320,1985-02-24,M,Divorced,Saudi Arabia,Zagazig,136,High School,Management,1,Full-time,Fixed-term
+136,Sandra,Wilson,7,4,2015-02-22,,Active,3264,18.83,173.33,8,86,sandra.wilson@steigenberger.com,+20 1064780951,1988-10-08,M,Divorced,Egypt,Alexandria,452,Bachelor,Management,1,Full-time,Permanent
+137,Richard,Khalil,14,8,2016-09-27,2018-06-01,Terminated,1023,5.9,173.33,6,94,richard.khalil@steigenberger.com,+20 1025092712,1996-03-07,M,Married,Philippines,Alexandria,221,Master,Engineering,12,Full-time,Permanent
+138,Walid,Soliman,20,7,2020-07-08,2022-12-08,Terminated,1894,10.93,173.33,7,84,walid.soliman@steigenberger.com,+20 1036075668,1985-03-07,M,Divorced,Egypt,Cairo,335,Master,Hospitality,1,Part-time,Fixed-term
+139,Thomas,El-Sayed,9,3,2019-09-18,,Active,2900,16.73,173.33,5,81,thomas.el-sayed@steigenberger.com,+20 1040728135,1976-01-12,F,Divorced,Saudi Arabia,Port Said,80,High School,Tourism,1,Full-time,Permanent
+140,Anna,Hassan,20,7,2017-06-25,,Active,2042,11.78,173.33,8,66,anna.hassan@steigenberger.com,+20 1040047716,1991-09-22,M,Married,Egypt,Mansoura,297,Bachelor,Business,1,Trainee,Permanent
+141,Mahmoud,White,12,8,2020-05-12,,Active,3664,21.14,173.33,2,52,mahmoud.white@steigenberger.com,+20 1060971261,1995-04-06,F,Widowed,Saudi Arabia,Shubra El Kheima,233,Master,Engineering,1,Part-time,Permanent
+142,Thomas,Hall,14,8,2017-09-07,,Active,710,4.1,86.67,8,54,thomas.hall@steigenberger.com,+20 1066696093,1993-11-09,M,Widowed,Egypt,Ismailia,53,Diploma,Management,12,Part-time,Permanent
+143,Doaa,King,9,3,2016-05-25,,Active,2999,17.3,173.33,6,60,doaa.king@steigenberger.com,+20 1014777048,2000-06-11,M,Single,Egypt,Port Said,461,High School,Management,1,Full-time,Permanent
+144,Samir,Rashad,3,1,2016-12-12,,Active,1127,6.5,173.33,7,84,samir.rashad@steigenberger.com,+20 1049103666,1974-01-24,M,Single,Saudi Arabia,Shubra El Kheima,177,Master,Engineering,2,Full-time,Permanent
+145,Robert,Thompson,8,4,2017-11-16,,Active,1120,6.46,173.33,2,92,robert.thompson@steigenberger.com,+20 1084333514,1971-11-18,F,Divorced,Philippines,Damietta,94,High School,Tourism,7,Full-time,Permanent
+146,Patricia,Lee,19,7,2020-05-15,,Active,2378,13.72,173.33,1,94,patricia.lee@steigenberger.com,+20 1039145154,1995-09-16,F,Divorced,Saudi Arabia,Zagazig,233,Diploma,Engineering,1,Full-time,Fixed-term
+147,Ghada,Gaber,19,7,2018-04-28,,Active,2036,11.75,86.67,4,69,ghada.gaber@steigenberger.com,+20 1013151509,1986-07-15,F,Widowed,Philippines,Damietta,113,Master,Tourism,1,Part-time,Permanent
+148,Khalil,Hall,5,2,2019-10-01,,Active,2836,16.36,86.67,1,40,khalil.hall@steigenberger.com,+20 1033846481,1978-04-18,F,Divorced,Sudan,Tanta,473,Diploma,Management,1,Full-time,Permanent
+149,Khaled,El-Naggar,19,7,2015-07-14,,Active,2098,12.1,173.33,3,75,khaled.el-naggar@steigenberger.com,+20 1023390898,1970-01-02,F,Married,Sudan,Giza,111,Diploma,Hospitality,1,Full-time,Permanent
+150,Ziad,Abdel-Rahman,15,5,2019-11-13,,Active,2071,11.95,173.33,8,40,ziad.abdel-rahman@steigenberger.com,+20 1080251682,1989-12-07,F,Divorced,Sudan,Mansoura,231,Bachelor,Business,1,Full-time,Fixed-term

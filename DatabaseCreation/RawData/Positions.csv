@@ -1,0 +1,21 @@
+PositionID,PositionTitle,DepartmentID,SalaryRangeMin,SalaryRangeMax,Level,JobDescription
+1,General Manager,7,8000,12000,Executive,Overall hotel operations management
+2,Front Desk Manager,1,3000,4000,Managerial,Front desk operations and guest services management
+3,Receptionist,1,800,1200,Junior,Guest check-in/out and inquiries
+4,Concierge,1,1000,1500,Senior,Guest assistance and local recommendations
+5,Housekeeping Manager,2,2500,3500,Managerial,Housekeeping operations management
+6,Housekeeper,2,600,900,Junior,Room cleaning and maintenance
+7,Maintenance Manager,4,2500,3500,Managerial,Hotel maintenance oversight
+8,Maintenance Technician,4,800,1200,Junior,Equipment repair and maintenance
+9,F&B Manager,3,2800,3800,Managerial,Food and beverage operations management
+10,Waiter,3,500,800,Junior,Table service and guest assistance
+11,Bartender,3,600,900,Junior,Bar service and beverage preparation
+12,Kitchen Manager,8,3000,4000,Managerial,Kitchen operations management
+13,Chef,8,1500,2500,Senior,Food preparation and menu planning
+14,Cook,8,700,1100,Junior,Food preparation assistance
+15,Security Manager,5,2000,2800,Managerial,Security operations management
+16,Security Guard,5,500,800,Junior,Hotel security and patrol
+17,Spa Manager,6,2200,3000,Managerial,Spa operations management
+18,Spa Therapist,6,700,1200,Junior,Spa treatments and wellness services
+19,Accountant,7,1800,2500,Senior,Financial records and accounting
+20,HR Specialist,7,1500,2200,Senior,Human resources and employee relations

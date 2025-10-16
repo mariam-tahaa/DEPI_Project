@@ -1,0 +1,6 @@
+RoomTypeID,TypeName,Description,Capacity
+1,Standard Single,Comfortable single room with city view,1
+2,Standard Double,Standard double room with balcony,2
+3,Deluxe Double,Deluxe double room with sea view and premium amenities,2
+4,Junior Suite,Junior suite with separate living area and sea view,4
+5,Presidential Suite,Luxurious presidential suite with panoramic sea view and premium services,6

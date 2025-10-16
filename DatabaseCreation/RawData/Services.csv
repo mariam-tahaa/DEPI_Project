@@ -1,0 +1,16 @@
+ServiceID,ServiceName,Description,BasePrice,ServiceType,IsChargeable,UnitOfMeasure
+1,Restaurant - Breakfast,Buffet breakfast service,25,F&B,Yes,per person
+2,Restaurant - Lunch,À la carte lunch menu,35,F&B,Yes,per person
+3,Restaurant - Dinner,Fine dining dinner service,55,F&B,Yes,per person
+4,Room Service,24-hour in-room dining service,0,F&B,Yes,per order
+5,Bar Service,Premium bar and cocktail service,0,F&B,Yes,per drink
+6,Spa Treatment,Facial and body spa treatments,80,Wellness,Yes,per session
+7,Massage Therapy,Professional massage therapy,60,Wellness,Yes,per session
+8,Laundry Service,Same-day laundry and dry cleaning,15,Guest Service,Yes,per item
+9,Gym Access,Full fitness center access,10,Wellness,Yes,per day
+10,WiFi Access,High-speed internet access,5,Technology,Yes,per day
+11,Airport Transfer,Airport pickup and drop-off,30,Transportation,Yes,per trip
+12,City Tour,Guided tours of local attractions,50,Recreation,Yes,per person
+13,Babysitting,Professional childcare service,20,Guest Service,Yes,per hour
+14,Business Center,Meeting rooms and business facilities,15,Business,Yes,per hour
+15,Car Rental,Vehicle rental service,45,Transportation,Yes,per day

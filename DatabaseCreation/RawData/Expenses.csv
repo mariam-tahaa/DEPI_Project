@@ -1,0 +1,2145 @@
+ExpenseID,HotelID,ExpenseCategoryID,ExpenseDate,Description,Amount,VendorName,PaymentMethod,Status
+1,1,1,1/6/2020,Bonus payments,65166.72,Municipal Water Authority,Check,Paid
+2,1,1,1/13/2020,Overtime payments,96362.77,Tech Solutions,Check,Pending
+3,1,1,1/10/2020,Overtime payments,127839.94,Tech Solutions,Credit Card,Paid
+4,1,2,1/11/2020,Telecommunications,21639.68,Elevator Tech,Check,Paid
+5,1,2,1/2/2020,Telecommunications,22172.52,Sanitech Co.,Credit Card,Paid
+6,1,3,1/8/2020,Social media marketing,8036.68,Damietta Electric Co.,Credit Card,Paid
+7,1,3,1/25/2020,Print advertising,10605.57,Telecom Egypt,Cash,Paid
+8,1,4,1/10/2020,Elevator service,9554.18,Office Depot Egypt,Bank Transfer,Paid
+9,1,4,1/10/2020,Building maintenance,6100.01,Sanitech Co.,Cash,Paid
+10,1,5,1/9/2020,Food supplies,14587.65,Kitchen Equipment Co.,Bank Transfer,Paid
+11,1,5,1/18/2020,Food supplies,12670.28,Damietta Electric Co.,Credit Card,Paid
+12,1,5,1/9/2020,Food supplies,11022.67,Damietta Electric Co.,Check,Paid
+13,1,5,1/28/2020,Food supplies,18923.68,Training Institute,Check,Paid
+14,1,6,1/17/2020,Sanitization products,2008.15,Professional Development,Bank Transfer,Paid
+15,1,6,1/12/2020,Cleaning chemicals,3752.52,Delta Gas Company,Credit Card,Paid
+16,1,6,1/8/2020,Laundry supplies,3486.87,Marketing Solutions Ltd.,Credit Card,Paid
+17,1,7,1/4/2020,Liability insurance,3664,Liability Solutions,Credit Card,Paid
+18,1,7,1/17/2020,Property insurance,7740.96,Property Guard,Check,Paid
+19,1,7,1/26/2020,Liability insurance,3625.66,Cleaning Solutions,Check,Paid
+20,1,8,1/8/2020,Hardware purchases,7005.99,Tech Solutions,Cash,Paid
+21,1,8,1/26/2020,System upgrades,2762.17,Damietta Electric Co.,Check,Paid
+22,1,8,1/11/2020,Software licenses,5850.51,Property Guard,Cash,Paid
+23,1,8,1/23/2020,Hardware purchases,5326.57,Cleaning Solutions,Credit Card,Paid
+24,1,9,1/6/2020,Training materials,1589.19,Cleaning Solutions,Check,Overdue
+25,1,9,1/9/2020,External trainers,1579.45,Insurance Group Egypt,Bank Transfer,Paid
+26,1,9,1/18/2020,External trainers,2535.07,Legal Associates,Bank Transfer,Paid
+27,1,10,1/27/2020,Accounting services,1730.69,Building Services Co.,Cash,Paid
+28,1,10,1/1/2020,Legal fees,2185.24,Kitchen Equipment Co.,Cash,Overdue
+29,1,10,1/25/2020,Legal fees,5789.27,Damietta Electric Co.,Check,Paid
+30,1,10,1/8/2020,Office supplies,3399.88,Tech Solutions,Cash,Paid
+31,1,1,2/22/2020,Overtime payments,85867.49,Marketing Solutions Ltd.,Credit Card,Paid
+32,1,1,2/15/2020,Staff salaries,126547.15,Education Plus,Bank Transfer,Paid
+33,1,1,2/4/2020,Staff salaries,135332.4,Creative Agency,Credit Card,Pending
+34,1,2,2/13/2020,Telecommunications,7847.84,HVAC Systems Ltd.,Check,Paid
+35,1,2,2/4/2020,Electricity bill,10619.96,Damietta Electric Co.,Credit Card,Paid
+36,1,2,2/20/2020,Water bill,11381.96,Damietta Electric Co.,Credit Card,Paid
+37,1,2,2/8/2020,Electricity bill,14390.41,Delta Gas Company,Check,Overdue
+38,1,3,2/22/2020,Social media marketing,7555.5,Municipal Water Authority,Cash,Paid
+39,1,3,2/3/2020,Promotional materials,6174.01,Legal Associates,Check,Paid
+40,1,3,2/23/2020,Online advertising,5349.75,Software Corp.,Credit Card,Paid
+41,1,3,2/5/2020,Print advertising,7665.85,Telecom Egypt,Cash,Paid
+42,1,4,2/7/2020,HVAC maintenance,9574.11,Delta Gas Company,Cash,Paid
+43,1,4,2/8/2020,Equipment repair,2909.12,Sanitech Co.,Bank Transfer,Paid
+44,1,4,2/23/2020,Elevator service,5793.18,Creative Agency,Cash,Paid
+45,1,5,2/5/2020,Restaurant supplies,24839.45,Sanitech Co.,Bank Transfer,Paid
+46,1,5,2/14/2020,Beverage purchases,16749.8,Property Guard,Bank Transfer,Paid
+47,1,5,2/25/2020,Restaurant supplies,10019.59,Certification Center,Bank Transfer,Paid
+48,1,6,2/11/2020,Laundry supplies,4329.71,Office Depot Egypt,Cash,Paid
+49,1,6,2/19/2020,Housekeeping supplies,4060.69,Restaurant Supply,Bank Transfer,Pending
+50,1,6,2/26/2020,Laundry supplies,2051.21,Property Guard,Cash,Paid
+51,1,6,2/21/2020,Housekeeping supplies,2796.72,Restaurant Supply,Check,Paid
+52,1,7,2/8/2020,Liability insurance,6773.11,HVAC Systems Ltd.,Check,Pending
+53,1,7,2/21/2020,Liability insurance,7397.85,Municipal Water Authority,Bank Transfer,Paid
+54,1,7,2/25/2020,Liability insurance,6010.9,Damietta Electric Co.,Check,Paid
+55,1,7,2/20/2020,Employee insurance,9579.85,Housekeeping Supplies Ltd.,Cash,Pending
+56,1,8,2/28/2020,IT support,3179.83,Delta Gas Company,Bank Transfer,Paid
+57,1,8,2/22/2020,Software licenses,7807.21,Elevator Tech,Cash,Paid
+58,1,8,2/22/2020,Hardware purchases,4247.38,Liability Solutions,Cash,Paid
+59,1,8,2/28/2020,Hardware purchases,5861.27,Elevator Tech,Credit Card,Paid
+60,1,9,2/8/2020,Certification courses,820.18,Food Distributors Egypt,Cash,Paid
+61,1,9,2/7/2020,Certification courses,1785.1,Kitchen Equipment Co.,Credit Card,Overdue
+62,1,9,2/27/2020,Certification courses,2412.79,Marketing Solutions Ltd.,Bank Transfer,Paid
+63,1,10,2/9/2020,Office supplies,2833.74,Kitchen Equipment Co.,Check,Paid
+64,1,10,2/9/2020,Bank charges,6771.4,Software Corp.,Cash,Paid
+65,1,10,2/28/2020,Legal fees,1359.39,Digital Media Group,Check,Paid
+66,1,10,2/10/2020,Bank charges,4157.77,Training Institute,Credit Card,Paid
+67,1,1,3/26/2020,Overtime payments,135375.24,Delta Gas Company,Credit Card,Paid
+68,1,1,3/13/2020,Bonus payments,56335.36,Sanitech Co.,Cash,Paid
+69,1,1,3/15/2020,Overtime payments,106655.1,Print House Co.,Bank Transfer,Paid
+70,1,1,3/14/2020,Overtime payments,120541.07,Liability Solutions,Check,Paid
+71,1,2,3/3/2020,Electricity bill,10185.67,Damietta Electric Co.,Bank Transfer,Paid
+72,1,2,3/13/2020,Electricity bill,11153.34,Legal Associates,Credit Card,Pending
+73,1,2,3/1/2020,Electricity bill,11341.78,Municipal Water Authority,Bank Transfer,Paid
+74,1,3,3/25/2020,Social media marketing,3625.92,Legal Associates,Bank Transfer,Paid
+75,1,3,3/21/2020,Social media marketing,9862.91,Kitchen Equipment Co.,Credit Card,Paid
+76,1,3,3/9/2020,Social media marketing,11338.61,Accounting Firm,Credit Card,Paid
+77,1,4,3/1/2020,Equipment repair,8520.73,Professional Development,Cash,Overdue
+78,1,4,3/13/2020,Building maintenance,4636.97,Training Institute,Credit Card,Pending
+79,1,5,3/8/2020,Kitchen equipment,29814.39,Sanitech Co.,Check,Paid
+80,1,5,3/7/2020,Beverage purchases,15301.31,Certification Center,Check,Paid
+81,1,5,3/6/2020,Beverage purchases,26525.71,Cleaning Solutions,Check,Paid
+82,1,5,3/14/2020,Beverage purchases,18787.44,Print House Co.,Credit Card,Paid
+83,1,6,3/28/2020,Laundry supplies,4253.55,Laundry Services,Check,Paid
+84,1,6,3/26/2020,Laundry supplies,2281.9,Kitchen Equipment Co.,Credit Card,Paid
+85,1,7,3/27/2020,Property insurance,7611.91,Insurance Group Egypt,Cash,Pending
+86,1,7,3/18/2020,Property insurance,7252.31,Legal Associates,Cash,Paid
+87,1,7,3/22/2020,Property insurance,8899.57,Training Institute,Bank Transfer,Paid
+88,1,8,3/14/2020,System upgrades,4124,Delta Gas Company,Credit Card,Paid
+89,1,8,3/13/2020,Hardware purchases,2920.43,IT Support Services,Bank Transfer,Paid
+90,1,8,3/6/2020,Hardware purchases,6213.14,HVAC Systems Ltd.,Cash,Paid
+91,1,9,3/2/2020,Staff training programs,2188.91,Bank of Egypt,Credit Card,Paid
+92,1,9,3/15/2020,Staff training programs,2325.33,Education Plus,Cash,Paid
+93,1,9,3/6/2020,Certification courses,1070.97,Building Services Co.,Credit Card,Paid
+94,1,9,3/4/2020,External trainers,2518.11,Damietta Electric Co.,Check,Paid
+95,1,10,3/17/2020,Bank charges,1699.81,Bank of Egypt,Check,Pending
+96,1,10,3/24/2020,Legal fees,7873.77,Restaurant Supply,Bank Transfer,Paid
+97,1,10,3/16/2020,Office supplies,7625.91,Housekeeping Supplies Ltd.,Check,Paid
+98,1,1,4/7/2020,Overtime payments,89418.07,Elevator Tech,Credit Card,Overdue
+99,1,1,4/13/2020,Management salaries,108708.34,Liability Solutions,Check,Paid
+100,1,1,4/4/2020,Management salaries,139627.72,IT Support Services,Credit Card,Paid
+101,1,2,4/26/2020,Gas bill,21845.07,Delta Gas Company,Check,Pending
+102,1,2,4/6/2020,Water bill,16062.81,Digital Media Group,Check,Paid
+103,1,3,4/7/2020,Online advertising,12801.05,System Integrators,Bank Transfer,Paid
+104,1,3,4/1/2020,Print advertising,3482.96,Maintenance Plus,Bank Transfer,Pending
+105,1,3,4/9/2020,Print advertising,3607.64,Beverage Suppliers,Credit Card,Paid
+106,1,3,4/10/2020,Online advertising,13562.86,Municipal Water Authority,Credit Card,Pending
+107,1,4,4/18/2020,Building maintenance,2737.01,Accounting Firm,Check,Pending
+108,1,4,4/3/2020,Equipment repair,3352.26,System Integrators,Credit Card,Pending
+109,1,4,4/11/2020,Elevator service,2171.73,Insurance Group Egypt,Bank Transfer,Paid
+110,1,5,4/2/2020,Beverage purchases,25540.24,Software Corp.,Credit Card,Pending
+111,1,5,4/7/2020,Restaurant supplies,25629.31,HVAC Systems Ltd.,Credit Card,Paid
+112,1,6,4/21/2020,Cleaning chemicals,2682.73,Certification Center,Check,Paid
+113,1,6,4/18/2020,Laundry supplies,3014.33,Professional Development,Check,Paid
+114,1,7,4/22/2020,Equipment insurance,3670.69,Legal Associates,Credit Card,Paid
+115,1,7,4/10/2020,Property insurance,10409.43,Building Services Co.,Check,Pending
+116,1,7,4/4/2020,Equipment insurance,6994.98,Kitchen Equipment Co.,Cash,Paid
+117,1,7,4/3/2020,Employee insurance,3097.36,Beverage Suppliers,Bank Transfer,Pending
+118,1,8,4/25/2020,Hardware purchases,5419.58,Laundry Services,Credit Card,Paid
+119,1,8,4/20/2020,Hardware purchases,2404.46,Food Distributors Egypt,Cash,Paid
+120,1,9,4/7/2020,Certification courses,2175.42,Tech Solutions,Credit Card,Paid
+121,1,9,4/17/2020,Staff training programs,1608.18,Marketing Solutions Ltd.,Check,Paid
+122,1,10,4/5/2020,Legal fees,5291.72,Certification Center,Credit Card,Paid
+123,1,10,4/13/2020,Office supplies,2225.93,Education Plus,Check,Paid
+124,1,1,5/20/2020,Overtime payments,131360.46,Sanitech Co.,Cash,Paid
+125,1,1,5/11/2020,Bonus payments,130500.52,Cleaning Solutions,Credit Card,Paid
+126,1,2,5/13/2020,Electricity bill,5680.93,Food Distributors Egypt,Credit Card,Overdue
+127,1,2,5/4/2020,Electricity bill,20874.74,Education Plus,Credit Card,Paid
+128,1,2,5/26/2020,Water bill,24047.52,Maintenance Plus,Credit Card,Paid
+129,1,3,5/23/2020,Promotional materials,10691.31,Training Institute,Cash,Paid
+130,1,3,5/19/2020,Promotional materials,8429.6,Legal Associates,Credit Card,Paid
+131,1,3,5/6/2020,Print advertising,4292.25,Legal Associates,Cash,Paid
+132,1,3,5/24/2020,Social media marketing,13215.41,Beverage Suppliers,Credit Card,Paid
+133,1,4,5/12/2020,Building maintenance,7299.41,Food Distributors Egypt,Check,Paid
+134,1,4,5/6/2020,Building maintenance,1070.69,IT Support Services,Cash,Paid
+135,1,4,5/22/2020,Equipment repair,3668.82,Property Guard,Cash,Paid
+136,1,4,5/10/2020,Building maintenance,7980.33,Office Depot Egypt,Check,Paid
+137,1,5,5/7/2020,Beverage purchases,15031.31,Professional Development,Credit Card,Paid
+138,1,5,5/3/2020,Food supplies,28469.91,Telecom Egypt,Credit Card,Paid
+139,1,5,5/5/2020,Restaurant supplies,28407.03,Tech Solutions,Bank Transfer,Paid
+140,1,6,5/26/2020,Cleaning chemicals,1743.55,HVAC Systems Ltd.,Bank Transfer,Paid
+141,1,6,5/6/2020,Housekeeping supplies,2040.99,Software Corp.,Bank Transfer,Paid
+142,1,7,5/6/2020,Liability insurance,9386.37,Bank of Egypt,Cash,Paid
+143,1,7,5/26/2020,Equipment insurance,3854.54,Beverage Suppliers,Credit Card,Paid
+144,1,7,5/10/2020,Liability insurance,11894.63,Accounting Firm,Check,Pending
+145,1,7,5/9/2020,Equipment insurance,10075.17,Elevator Tech,Check,Paid
+146,1,8,5/11/2020,IT support,7119.57,System Integrators,Cash,Paid
+147,1,8,5/15/2020,Software licenses,6915.61,Laundry Services,Bank Transfer,Paid
+148,1,9,5/27/2020,Certification courses,2475.83,Delta Gas Company,Cash,Paid
+149,1,9,5/18/2020,Training materials,2907.05,Sanitech Co.,Credit Card,Paid
+150,1,9,5/19/2020,Training materials,1178.67,Delta Gas Company,Credit Card,Paid
+151,1,10,5/24/2020,Accounting services,2254.61,Municipal Water Authority,Check,Paid
+152,1,10,5/19/2020,Legal fees,5939.84,Education Plus,Check,Pending
+153,1,10,5/26/2020,Legal fees,6619.76,Office Depot Egypt,Credit Card,Pending
+154,1,10,5/24/2020,Accounting services,5858.02,Print House Co.,Bank Transfer,Paid
+155,1,1,6/20/2020,Bonus payments,60703.18,Professional Development,Cash,Paid
+156,1,1,6/2/2020,Staff salaries,50878.53,Telecom Egypt,Bank Transfer,Paid
+157,1,1,6/12/2020,Management salaries,124429.83,Bank of Egypt,Credit Card,Paid
+158,1,1,6/4/2020,Overtime payments,128913.48,Damietta Electric Co.,Cash,Paid
+159,1,2,6/3/2020,Water bill,7467.83,Kitchen Equipment Co.,Bank Transfer,Paid
+160,1,2,6/28/2020,Water bill,6843.14,Training Institute,Credit Card,Paid
+161,1,2,6/12/2020,Gas bill,7837.96,Tech Solutions,Credit Card,Paid
+162,1,3,6/6/2020,Print advertising,6374.5,Elevator Tech,Credit Card,Pending
+163,1,3,6/21/2020,Promotional materials,12395.8,Kitchen Equipment Co.,Cash,Paid
+164,1,4,6/17/2020,HVAC maintenance,7449.64,Education Plus,Credit Card,Paid
+165,1,4,6/20/2020,HVAC maintenance,1873.13,IT Support Services,Check,Paid
+166,1,4,6/12/2020,Equipment repair,3259.01,Cleaning Solutions,Cash,Paid
+167,1,4,6/9/2020,HVAC maintenance,7220.52,Software Corp.,Bank Transfer,Paid
+168,1,5,6/22/2020,Beverage purchases,24106.59,Beverage Suppliers,Cash,Paid
+169,1,5,6/11/2020,Food supplies,26119.37,Damietta Electric Co.,Check,Paid
+170,1,5,6/4/2020,Food supplies,19992.09,Print House Co.,Bank Transfer,Paid
+171,1,5,6/9/2020,Food supplies,27765.9,Delta Gas Company,Bank Transfer,Paid
+172,1,6,6/2/2020,Cleaning chemicals,4413.75,Food Distributors Egypt,Check,Pending
+173,1,6,6/8/2020,Laundry supplies,4313.32,Cleaning Solutions,Cash,Pending
+174,1,7,6/17/2020,Employee insurance,11237.83,Maintenance Plus,Credit Card,Paid
+175,1,7,6/6/2020,Liability insurance,4804.92,Building Services Co.,Cash,Paid
+176,1,7,6/3/2020,Equipment insurance,7958.99,Building Services Co.,Check,Paid
+177,1,8,6/5/2020,Software licenses,7950.02,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+178,1,8,6/16/2020,IT support,5611.56,Legal Associates,Bank Transfer,Paid
+179,1,8,6/19/2020,Software licenses,2742.77,Elevator Tech,Credit Card,Paid
+180,1,9,6/16/2020,External trainers,2444.76,Maintenance Plus,Cash,Paid
+181,1,9,6/22/2020,External trainers,2101.32,Legal Associates,Check,Paid
+182,1,9,6/25/2020,Staff training programs,2764.79,Professional Development,Check,Paid
+183,1,10,6/20/2020,Accounting services,4669.79,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+184,1,10,6/4/2020,Accounting services,2190.22,Damietta Electric Co.,Cash,Paid
+185,1,10,6/2/2020,Accounting services,5709.24,Legal Associates,Bank Transfer,Paid
+186,1,10,6/8/2020,Office supplies,5150.79,Delta Gas Company,Check,Paid
+187,1,1,7/11/2020,Overtime payments,69828.82,Education Plus,Check,Paid
+188,1,1,7/28/2020,Overtime payments,89072.83,Sanitech Co.,Credit Card,Paid
+189,1,2,7/1/2020,Water bill,23935.05,Damietta Electric Co.,Cash,Pending
+190,1,2,7/20/2020,Water bill,22670.81,Building Services Co.,Cash,Paid
+191,1,2,7/10/2020,Water bill,12595.5,Food Distributors Egypt,Bank Transfer,Paid
+192,1,3,7/28/2020,Promotional materials,6965.86,Certification Center,Credit Card,Paid
+193,1,3,7/26/2020,Promotional materials,7452.64,Office Depot Egypt,Cash,Paid
+194,1,3,7/20/2020,Promotional materials,7206.6,Liability Solutions,Cash,Paid
+195,1,4,7/8/2020,Equipment repair,1777.14,Professional Development,Check,Paid
+196,1,4,7/2/2020,Elevator service,5721.75,Marketing Solutions Ltd.,Check,Paid
+197,1,4,7/21/2020,Building maintenance,5231.38,Certification Center,Credit Card,Paid
+198,1,4,7/25/2020,HVAC maintenance,2699.72,Education Plus,Check,Pending
+199,1,5,7/26/2020,Beverage purchases,19884.57,Telecom Egypt,Check,Paid
+200,1,5,7/18/2020,Food supplies,13036.85,Software Corp.,Credit Card,Paid
+201,1,5,7/1/2020,Beverage purchases,16413.69,Education Plus,Cash,Pending
+202,1,5,7/16/2020,Restaurant supplies,18407.24,Restaurant Supply,Bank Transfer,Paid
+203,1,6,7/9/2020,Cleaning chemicals,4758.21,Food Distributors Egypt,Cash,Paid
+204,1,6,7/7/2020,Cleaning chemicals,1849.33,Housekeeping Supplies Ltd.,Credit Card,Paid
+205,1,6,7/13/2020,Cleaning chemicals,4887.87,Certification Center,Credit Card,Paid
+206,1,7,7/1/2020,Liability insurance,3122.81,Marketing Solutions Ltd.,Check,Paid
+207,1,7,7/15/2020,Equipment insurance,6039.4,Maintenance Plus,Cash,Paid
+208,1,8,7/15/2020,Hardware purchases,5035.62,Accounting Firm,Check,Paid
+209,1,8,7/3/2020,IT support,3844.9,HVAC Systems Ltd.,Check,Paid
+210,1,9,7/18/2020,External trainers,862.42,Tech Solutions,Credit Card,Paid
+211,1,9,7/26/2020,Training materials,1703.82,Legal Associates,Cash,Paid
+212,1,9,7/1/2020,Certification courses,2447.39,Liability Solutions,Cash,Overdue
+213,1,9,7/7/2020,Training materials,2636.05,IT Support Services,Bank Transfer,Paid
+214,1,10,7/16/2020,Legal fees,3443.24,Beverage Suppliers,Check,Paid
+215,1,10,7/16/2020,Bank charges,4599.92,Telecom Egypt,Cash,Pending
+216,1,10,7/10/2020,Office supplies,6240.96,HVAC Systems Ltd.,Bank Transfer,Paid
+217,1,1,8/15/2020,Staff salaries,142858.92,Municipal Water Authority,Check,Paid
+218,1,1,8/11/2020,Bonus payments,93000.2,Training Institute,Credit Card,Paid
+219,1,2,8/9/2020,Electricity bill,21344.11,Training Institute,Credit Card,Paid
+220,1,2,8/16/2020,Telecommunications,10504.5,Marketing Solutions Ltd.,Check,Paid
+221,1,2,8/15/2020,Telecommunications,24950.88,System Integrators,Check,Paid
+222,1,3,8/10/2020,Print advertising,3475.56,Property Guard,Bank Transfer,Paid
+223,1,3,8/8/2020,Social media marketing,11261.21,Property Guard,Credit Card,Paid
+224,1,3,8/20/2020,Social media marketing,4113.49,Restaurant Supply,Check,Paid
+225,1,3,8/27/2020,Promotional materials,14642.51,Beverage Suppliers,Cash,Paid
+226,1,4,8/9/2020,Building maintenance,6735.95,Maintenance Plus,Bank Transfer,Paid
+227,1,4,8/1/2020,Elevator service,7368.37,Maintenance Plus,Check,Paid
+228,1,5,8/16/2020,Beverage purchases,9516.44,Office Depot Egypt,Check,Pending
+229,1,5,8/2/2020,Beverage purchases,22022.86,Legal Associates,Credit Card,Paid
+230,1,5,8/3/2020,Restaurant supplies,24272.54,Print House Co.,Bank Transfer,Pending
+231,1,6,8/26/2020,Cleaning chemicals,4496.8,Insurance Group Egypt,Cash,Paid
+232,1,6,8/4/2020,Cleaning chemicals,4314.81,Property Guard,Bank Transfer,Paid
+233,1,6,8/1/2020,Laundry supplies,3514.02,Office Depot Egypt,Credit Card,Paid
+234,1,6,8/15/2020,Cleaning chemicals,4906.99,Property Guard,Bank Transfer,Paid
+235,1,7,8/12/2020,Employee insurance,11443.63,Housekeeping Supplies Ltd.,Check,Paid
+236,1,7,8/27/2020,Employee insurance,11041.7,Cleaning Solutions,Bank Transfer,Pending
+237,1,7,8/21/2020,Property insurance,11422.69,Sanitech Co.,Bank Transfer,Paid
+238,1,7,8/5/2020,Liability insurance,6546.51,Elevator Tech,Check,Paid
+239,1,8,8/23/2020,System upgrades,2846.91,Kitchen Equipment Co.,Check,Paid
+240,1,8,8/2/2020,IT support,2815.05,Office Depot Egypt,Check,Paid
+241,1,8,8/4/2020,System upgrades,4589.43,Print House Co.,Cash,Paid
+242,1,9,8/14/2020,Training materials,2974.38,Insurance Group Egypt,Bank Transfer,Paid
+243,1,9,8/5/2020,Certification courses,1097.26,Bank of Egypt,Bank Transfer,Paid
+244,1,9,8/15/2020,Training materials,2631.64,Kitchen Equipment Co.,Cash,Paid
+245,1,10,8/16/2020,Legal fees,4805.49,Beverage Suppliers,Check,Paid
+246,1,10,8/17/2020,Office supplies,5991.98,System Integrators,Credit Card,Paid
+247,1,10,8/14/2020,Bank charges,2992.18,Training Institute,Credit Card,Paid
+248,1,1,9/7/2020,Staff salaries,134121.66,Marketing Solutions Ltd.,Cash,Paid
+249,1,1,9/26/2020,Staff salaries,105717.62,Professional Development,Check,Paid
+250,1,2,9/16/2020,Gas bill,11307.1,Office Depot Egypt,Credit Card,Overdue
+251,1,2,9/28/2020,Gas bill,23051.82,Print House Co.,Cash,Pending
+252,1,2,9/13/2020,Water bill,6719.99,Telecom Egypt,Bank Transfer,Paid
+253,1,3,9/24/2020,Print advertising,5921.1,Tech Solutions,Bank Transfer,Paid
+254,1,3,9/27/2020,Social media marketing,5340.52,Delta Gas Company,Credit Card,Paid
+255,1,3,9/4/2020,Social media marketing,7977.97,Print House Co.,Cash,Paid
+256,1,4,9/27/2020,Elevator service,1245.34,HVAC Systems Ltd.,Credit Card,Paid
+257,1,4,9/27/2020,Equipment repair,9896.67,Elevator Tech,Cash,Paid
+258,1,5,9/6/2020,Beverage purchases,28686.34,Bank of Egypt,Credit Card,Paid
+259,1,5,9/25/2020,Food supplies,15123.77,Building Services Co.,Cash,Paid
+260,1,5,9/4/2020,Restaurant supplies,22462.41,Maintenance Plus,Credit Card,Paid
+261,1,6,9/23/2020,Cleaning chemicals,1832.16,Employee Benefits Co.,Cash,Paid
+262,1,6,9/2/2020,Laundry supplies,1806.1,IT Support Services,Cash,Pending
+263,1,7,9/3/2020,Equipment insurance,9366.01,Accounting Firm,Check,Paid
+264,1,7,9/26/2020,Property insurance,6970.05,Accounting Firm,Check,Paid
+265,1,8,9/16/2020,System upgrades,5425.58,Software Corp.,Check,Paid
+266,1,8,9/21/2020,Hardware purchases,3714.81,Certification Center,Check,Paid
+267,1,9,9/1/2020,Certification courses,512.03,Cleaning Solutions,Credit Card,Paid
+268,1,9,9/10/2020,Staff training programs,2039.41,Print House Co.,Bank Transfer,Paid
+269,1,10,9/6/2020,Legal fees,4178,Professional Development,Cash,Paid
+270,1,10,9/22/2020,Office supplies,5493.73,Bank of Egypt,Bank Transfer,Pending
+271,1,1,10/10/2020,Overtime payments,114226.84,Property Guard,Check,Paid
+272,1,1,10/17/2020,Bonus payments,78399,Delta Gas Company,Cash,Paid
+273,1,1,10/5/2020,Management salaries,109216.52,Food Distributors Egypt,Bank Transfer,Paid
+274,1,2,10/7/2020,Telecommunications,16804.37,Food Distributors Egypt,Credit Card,Paid
+275,1,2,10/28/2020,Telecommunications,22015.74,Maintenance Plus,Credit Card,Paid
+276,1,2,10/26/2020,Gas bill,16190.17,Delta Gas Company,Credit Card,Paid
+277,1,3,10/1/2020,Print advertising,11530.47,Print House Co.,Credit Card,Pending
+278,1,3,10/5/2020,Print advertising,4520.54,Marketing Solutions Ltd.,Credit Card,Paid
+279,1,3,10/7/2020,Print advertising,11905.8,Beverage Suppliers,Bank Transfer,Paid
+280,1,4,10/15/2020,HVAC maintenance,2842.91,Marketing Solutions Ltd.,Cash,Paid
+281,1,4,10/26/2020,Elevator service,3734.55,Legal Associates,Check,Paid
+282,1,4,10/21/2020,Equipment repair,1046.34,Employee Benefits Co.,Bank Transfer,Paid
+283,1,4,10/12/2020,Elevator service,4843.07,Elevator Tech,Check,Paid
+284,1,5,10/20/2020,Food supplies,26357.5,Telecom Egypt,Check,Paid
+285,1,5,10/7/2020,Food supplies,22318.48,System Integrators,Credit Card,Paid
+286,1,5,10/3/2020,Kitchen equipment,19096.75,Municipal Water Authority,Bank Transfer,Paid
+287,1,5,10/26/2020,Beverage purchases,28461.22,Liability Solutions,Bank Transfer,Paid
+288,1,6,10/3/2020,Laundry supplies,4878.9,Bank of Egypt,Credit Card,Paid
+289,1,6,10/2/2020,Sanitization products,4845.31,Kitchen Equipment Co.,Credit Card,Paid
+290,1,7,10/8/2020,Liability insurance,6629.35,Property Guard,Credit Card,Paid
+291,1,7,10/23/2020,Equipment insurance,10590.99,Tech Solutions,Credit Card,Paid
+292,1,8,10/21/2020,System upgrades,4033.62,IT Support Services,Check,Pending
+293,1,8,10/15/2020,Hardware purchases,2557.41,Food Distributors Egypt,Credit Card,Paid
+294,1,9,10/15/2020,Training materials,1251.48,Laundry Services,Cash,Overdue
+295,1,9,10/23/2020,Certification courses,2090.82,Property Guard,Check,Paid
+296,1,9,10/10/2020,External trainers,2110.56,Training Institute,Cash,Paid
+297,1,10,10/12/2020,Office supplies,3818.37,Liability Solutions,Cash,Pending
+298,1,10,10/27/2020,Legal fees,4735.73,Liability Solutions,Credit Card,Pending
+299,1,1,11/20/2020,Staff salaries,143346.44,Restaurant Supply,Check,Paid
+300,1,1,11/9/2020,Staff salaries,82883.86,Maintenance Plus,Cash,Paid
+301,1,1,11/5/2020,Overtime payments,72625.32,Marketing Solutions Ltd.,Bank Transfer,Paid
+302,1,1,11/19/2020,Management salaries,92611.05,Training Institute,Cash,Paid
+303,1,2,11/4/2020,Telecommunications,24554.1,Sanitech Co.,Check,Paid
+304,1,2,11/25/2020,Telecommunications,5433.08,System Integrators,Check,Paid
+305,1,2,11/28/2020,Telecommunications,24760.19,Elevator Tech,Check,Pending
+306,1,2,11/11/2020,Water bill,19933.35,Maintenance Plus,Bank Transfer,Paid
+307,1,3,11/3/2020,Social media marketing,9791.43,IT Support Services,Cash,Paid
+308,1,3,11/17/2020,Social media marketing,12054.46,Municipal Water Authority,Credit Card,Paid
+309,1,3,11/13/2020,Print advertising,9440.47,System Integrators,Bank Transfer,Paid
+310,1,4,11/27/2020,Building maintenance,2382.55,Software Corp.,Bank Transfer,Paid
+311,1,4,11/9/2020,Building maintenance,3201.22,Sanitech Co.,Bank Transfer,Paid
+312,1,4,11/28/2020,Elevator service,2249.78,Office Depot Egypt,Cash,Paid
+313,1,5,11/27/2020,Kitchen equipment,22735.29,Bank of Egypt,Cash,Paid
+314,1,5,11/11/2020,Restaurant supplies,18742.7,System Integrators,Check,Paid
+315,1,6,11/15/2020,Cleaning chemicals,4029.92,Restaurant Supply,Bank Transfer,Paid
+316,1,6,11/15/2020,Cleaning chemicals,2916.95,Building Services Co.,Check,Paid
+317,1,6,11/9/2020,Housekeeping supplies,4152.5,Print House Co.,Cash,Pending
+318,1,7,11/23/2020,Liability insurance,8764.37,Creative Agency,Credit Card,Paid
+319,1,7,11/18/2020,Property insurance,5136.28,Cleaning Solutions,Cash,Pending
+320,1,8,11/16/2020,IT support,3267.29,Insurance Group Egypt,Cash,Paid
+321,1,8,11/6/2020,IT support,4317.86,IT Support Services,Check,Overdue
+322,1,8,11/25/2020,Software licenses,5212.21,Housekeeping Supplies Ltd.,Credit Card,Paid
+323,1,8,11/24/2020,Hardware purchases,4404.87,System Integrators,Check,Paid
+324,1,9,11/24/2020,External trainers,939.83,System Integrators,Bank Transfer,Paid
+325,1,9,11/10/2020,Staff training programs,954.31,System Integrators,Cash,Paid
+326,1,9,11/23/2020,Staff training programs,2542.77,System Integrators,Cash,Paid
+327,1,10,11/28/2020,Office supplies,6148.79,Food Distributors Egypt,Credit Card,Paid
+328,1,10,11/28/2020,Legal fees,4421.85,Damietta Electric Co.,Bank Transfer,Paid
+329,1,10,11/23/2020,Accounting services,6490.02,Insurance Group Egypt,Bank Transfer,Pending
+330,1,10,11/27/2020,Accounting services,6689.24,Software Corp.,Cash,Paid
+331,1,1,12/7/2020,Bonus payments,54310.79,Sanitech Co.,Check,Paid
+332,1,1,12/4/2020,Staff salaries,139877.89,Professional Development,Cash,Paid
+333,1,1,12/2/2020,Management salaries,99622.11,Property Guard,Check,Paid
+334,1,1,12/2/2020,Bonus payments,98949.55,Creative Agency,Bank Transfer,Paid
+335,1,2,12/8/2020,Water bill,11721.53,HVAC Systems Ltd.,Cash,Paid
+336,1,2,12/10/2020,Telecommunications,13134.67,Training Institute,Bank Transfer,Paid
+337,1,2,12/8/2020,Electricity bill,17273.05,Creative Agency,Check,Paid
+338,1,2,12/27/2020,Telecommunications,9202.4,Damietta Electric Co.,Bank Transfer,Paid
+339,1,3,12/1/2020,Online advertising,2964.63,Elevator Tech,Cash,Pending
+340,1,3,12/15/2020,Promotional materials,3278.24,Housekeeping Supplies Ltd.,Check,Pending
+341,1,4,12/15/2020,Elevator service,5610.1,Housekeeping Supplies Ltd.,Check,Pending
+342,1,4,12/9/2020,Building maintenance,5945.99,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+343,1,5,12/17/2020,Kitchen equipment,11723.72,Maintenance Plus,Credit Card,Paid
+344,1,5,12/26/2020,Food supplies,27601.04,Digital Media Group,Credit Card,Paid
+345,1,5,12/18/2020,Beverage purchases,21407.81,Certification Center,Credit Card,Pending
+346,1,6,12/16/2020,Housekeeping supplies,4675.01,Liability Solutions,Credit Card,Paid
+347,1,6,12/16/2020,Cleaning chemicals,4832.72,Elevator Tech,Check,Paid
+348,1,6,12/26/2020,Housekeeping supplies,3144.9,Damietta Electric Co.,Credit Card,Pending
+349,1,6,12/2/2020,Housekeeping supplies,3395.14,Housekeeping Supplies Ltd.,Credit Card,Paid
+350,1,7,12/5/2020,Liability insurance,4514.46,Education Plus,Check,Pending
+351,1,7,12/10/2020,Property insurance,7905.55,Telecom Egypt,Check,Paid
+352,1,7,12/8/2020,Employee insurance,11550.75,Food Distributors Egypt,Bank Transfer,Paid
+353,1,7,12/28/2020,Liability insurance,10644.99,Liability Solutions,Credit Card,Paid
+354,1,8,12/8/2020,Software licenses,4198.57,Damietta Electric Co.,Cash,Paid
+355,1,8,12/4/2020,Software licenses,4267.8,Digital Media Group,Credit Card,Paid
+356,1,8,12/9/2020,Software licenses,4838.01,Liability Solutions,Bank Transfer,Paid
+357,1,8,12/26/2020,Hardware purchases,7851.27,Print House Co.,Check,Paid
+358,1,9,12/26/2020,Staff training programs,2838.64,HVAC Systems Ltd.,Cash,Paid
+359,1,9,12/20/2020,External trainers,2667.22,Accounting Firm,Check,Paid
+360,1,9,12/6/2020,Certification courses,1477.58,Building Services Co.,Cash,Paid
+361,1,10,12/14/2020,Office supplies,5398.59,Certification Center,Cash,Paid
+362,1,10,12/21/2020,Bank charges,3115.41,Building Services Co.,Check,Paid
+363,1,1,1/14/2021,Staff salaries,78014.17,Education Plus,Cash,Paid
+364,1,1,1/21/2021,Staff salaries,50002.8,Beverage Suppliers,Cash,Paid
+365,1,1,1/9/2021,Management salaries,75462.77,Marketing Solutions Ltd.,Check,Paid
+366,1,2,1/6/2021,Electricity bill,16733.3,Telecom Egypt,Cash,Paid
+367,1,2,1/24/2021,Water bill,22879.23,Delta Gas Company,Bank Transfer,Paid
+368,1,2,1/19/2021,Water bill,11946.43,Kitchen Equipment Co.,Check,Paid
+369,1,2,1/20/2021,Water bill,7274.1,Digital Media Group,Credit Card,Pending
+370,1,3,1/20/2021,Social media marketing,10800.39,HVAC Systems Ltd.,Credit Card,Paid
+371,1,3,1/20/2021,Online advertising,9463.36,Insurance Group Egypt,Bank Transfer,Overdue
+372,1,3,1/7/2021,Online advertising,10803.23,Sanitech Co.,Credit Card,Paid
+373,1,3,1/2/2021,Social media marketing,13824.18,Beverage Suppliers,Bank Transfer,Paid
+374,1,4,1/12/2021,Elevator service,9887.23,Cleaning Solutions,Credit Card,Paid
+375,1,4,1/15/2021,HVAC maintenance,2501.97,Liability Solutions,Check,Paid
+376,1,5,1/16/2021,Food supplies,23157.3,Sanitech Co.,Bank Transfer,Paid
+377,1,5,1/5/2021,Beverage purchases,24296.64,Housekeeping Supplies Ltd.,Credit Card,Paid
+378,1,5,1/28/2021,Beverage purchases,25490.52,Print House Co.,Cash,Paid
+379,1,6,1/10/2021,Cleaning chemicals,4161.58,Beverage Suppliers,Cash,Paid
+380,1,6,1/7/2021,Sanitization products,4783.1,System Integrators,Bank Transfer,Overdue
+381,1,6,1/10/2021,Housekeeping supplies,4845.56,HVAC Systems Ltd.,Bank Transfer,Paid
+382,1,6,1/9/2021,Sanitization products,2089.7,Delta Gas Company,Cash,Paid
+383,1,7,1/4/2021,Property insurance,3659.19,Insurance Group Egypt,Cash,Paid
+384,1,7,1/14/2021,Liability insurance,5489.87,Tech Solutions,Cash,Paid
+385,1,8,1/24/2021,System upgrades,7190.62,Telecom Egypt,Check,Paid
+386,1,8,1/17/2021,Software licenses,7120.64,Property Guard,Bank Transfer,Paid
+387,1,8,1/7/2021,IT support,3483.4,Insurance Group Egypt,Check,Paid
+388,1,8,1/2/2021,Hardware purchases,5919.53,Legal Associates,Check,Paid
+389,1,9,1/28/2021,Staff training programs,1842.75,Insurance Group Egypt,Credit Card,Pending
+390,1,9,1/10/2021,External trainers,1795.13,Kitchen Equipment Co.,Check,Paid
+391,1,9,1/26/2021,Training materials,2865.44,Education Plus,Credit Card,Paid
+392,1,9,1/28/2021,Staff training programs,2829.38,Legal Associates,Bank Transfer,Paid
+393,1,10,1/5/2021,Bank charges,5030.38,Laundry Services,Bank Transfer,Paid
+394,1,10,1/5/2021,Office supplies,4009.17,Software Corp.,Cash,Paid
+395,1,10,1/1/2021,Bank charges,1484.26,Sanitech Co.,Bank Transfer,Paid
+396,1,10,1/4/2021,Bank charges,7747.28,Building Services Co.,Credit Card,Pending
+397,1,1,2/12/2021,Overtime payments,102126.05,Tech Solutions,Credit Card,Paid
+398,1,1,2/7/2021,Management salaries,110261.62,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+399,1,2,2/18/2021,Gas bill,13205.55,Marketing Solutions Ltd.,Bank Transfer,Pending
+400,1,2,2/9/2021,Water bill,12861.28,Certification Center,Check,Paid
+401,1,2,2/17/2021,Electricity bill,22926.89,Insurance Group Egypt,Credit Card,Paid
+402,1,3,2/26/2021,Social media marketing,4232.07,Tech Solutions,Check,Overdue
+403,1,3,2/13/2021,Promotional materials,9175.37,Maintenance Plus,Check,Paid
+404,1,4,2/12/2021,Equipment repair,6519.75,Housekeeping Supplies Ltd.,Cash,Pending
+405,1,4,2/16/2021,Building maintenance,9018.79,Digital Media Group,Credit Card,Paid
+406,1,4,2/3/2021,Elevator service,2901.79,Certification Center,Bank Transfer,Paid
+407,1,5,2/6/2021,Beverage purchases,25618.32,Marketing Solutions Ltd.,Cash,Paid
+408,1,5,2/27/2021,Restaurant supplies,29468.92,Laundry Services,Check,Paid
+409,1,6,2/4/2021,Laundry supplies,3819.85,IT Support Services,Bank Transfer,Overdue
+410,1,6,2/4/2021,Laundry supplies,4104.65,Software Corp.,Check,Paid
+411,1,6,2/27/2021,Laundry supplies,3735.31,Sanitech Co.,Bank Transfer,Paid
+412,1,7,2/24/2021,Liability insurance,5904.89,Marketing Solutions Ltd.,Cash,Paid
+413,1,7,2/23/2021,Property insurance,4743.97,Insurance Group Egypt,Credit Card,Paid
+414,1,7,2/9/2021,Equipment insurance,7868.72,Telecom Egypt,Cash,Paid
+415,1,8,2/21/2021,IT support,4948.19,Housekeeping Supplies Ltd.,Check,Paid
+416,1,8,2/23/2021,Hardware purchases,2578.8,HVAC Systems Ltd.,Credit Card,Paid
+417,1,8,2/16/2021,Hardware purchases,5035,IT Support Services,Credit Card,Overdue
+418,1,9,2/23/2021,Staff training programs,689.58,Education Plus,Cash,Paid
+419,1,9,2/10/2021,Training materials,1975.17,Kitchen Equipment Co.,Credit Card,Pending
+420,1,10,2/20/2021,Office supplies,1062.61,Bank of Egypt,Credit Card,Paid
+421,1,10,2/25/2021,Legal fees,4258.54,Telecom Egypt,Credit Card,Paid
+422,1,1,3/11/2021,Overtime payments,82246.18,Print House Co.,Check,Paid
+423,1,1,3/9/2021,Staff salaries,75255.56,Employee Benefits Co.,Check,Paid
+424,1,1,3/15/2021,Management salaries,135446.28,Maintenance Plus,Credit Card,Paid
+425,1,1,3/18/2021,Overtime payments,92731.64,Kitchen Equipment Co.,Cash,Paid
+426,1,2,3/6/2021,Gas bill,8172.75,Building Services Co.,Check,Paid
+427,1,2,3/18/2021,Gas bill,20055.17,System Integrators,Bank Transfer,Paid
+428,1,2,3/2/2021,Gas bill,19551.66,Digital Media Group,Bank Transfer,Paid
+429,1,3,3/14/2021,Promotional materials,9197.47,Print House Co.,Credit Card,Paid
+430,1,3,3/28/2021,Online advertising,10112.51,Elevator Tech,Check,Paid
+431,1,3,3/9/2021,Print advertising,7695.4,Software Corp.,Bank Transfer,Paid
+432,1,4,3/12/2021,Equipment repair,7017.88,Laundry Services,Credit Card,Paid
+433,1,4,3/25/2021,HVAC maintenance,4271.89,Elevator Tech,Check,Paid
+434,1,4,3/18/2021,Building maintenance,7010.2,Professional Development,Credit Card,Paid
+435,1,4,3/20/2021,Building maintenance,8161.98,Certification Center,Credit Card,Paid
+436,1,5,3/7/2021,Restaurant supplies,8747.7,Liability Solutions,Cash,Paid
+437,1,5,3/11/2021,Food supplies,27376.71,Building Services Co.,Check,Paid
+438,1,5,3/5/2021,Food supplies,24966.26,Tech Solutions,Bank Transfer,Paid
+439,1,6,3/1/2021,Cleaning chemicals,4981.79,Sanitech Co.,Bank Transfer,Paid
+440,1,6,3/22/2021,Sanitization products,2645.53,Legal Associates,Cash,Paid
+441,1,7,3/11/2021,Property insurance,5798.32,Insurance Group Egypt,Credit Card,Paid
+442,1,7,3/13/2021,Equipment insurance,6239.19,Food Distributors Egypt,Check,Paid
+443,1,8,3/3/2021,Software licenses,2239.6,Legal Associates,Check,Paid
+444,1,8,3/17/2021,IT support,6313.43,HVAC Systems Ltd.,Bank Transfer,Paid
+445,1,9,3/1/2021,Training materials,1079.1,Creative Agency,Bank Transfer,Paid
+446,1,9,3/23/2021,Staff training programs,2053.76,Food Distributors Egypt,Bank Transfer,Paid
+447,1,9,3/11/2021,External trainers,2449.67,Digital Media Group,Check,Pending
+448,1,9,3/1/2021,External trainers,2076.25,Food Distributors Egypt,Credit Card,Paid
+449,1,10,3/8/2021,Accounting services,1419.23,Laundry Services,Credit Card,Paid
+450,1,10,3/18/2021,Office supplies,5920.93,Restaurant Supply,Cash,Paid
+451,1,1,4/6/2021,Staff salaries,86700.99,HVAC Systems Ltd.,Credit Card,Paid
+452,1,1,4/2/2021,Overtime payments,102029.45,Telecom Egypt,Check,Paid
+453,1,1,4/28/2021,Overtime payments,74451.79,Elevator Tech,Credit Card,Pending
+454,1,1,4/11/2021,Overtime payments,83914.58,Print House Co.,Cash,Paid
+455,1,2,4/15/2021,Telecommunications,14790.38,Delta Gas Company,Cash,Paid
+456,1,2,4/19/2021,Water bill,8797.21,Laundry Services,Check,Overdue
+457,1,3,4/21/2021,Social media marketing,8804.72,Insurance Group Egypt,Credit Card,Paid
+458,1,3,4/8/2021,Print advertising,8270.36,Training Institute,Credit Card,Pending
+459,1,3,4/26/2021,Online advertising,7760.95,Education Plus,Bank Transfer,Paid
+460,1,3,4/13/2021,Social media marketing,7120.71,Tech Solutions,Check,Paid
+461,1,4,4/21/2021,Equipment repair,4181.91,Tech Solutions,Check,Paid
+462,1,4,4/7/2021,Equipment repair,6084.6,Municipal Water Authority,Check,Paid
+463,1,4,4/17/2021,Elevator service,9535.69,System Integrators,Bank Transfer,Paid
+464,1,4,4/14/2021,Building maintenance,1760.35,Municipal Water Authority,Bank Transfer,Paid
+465,1,5,4/23/2021,Beverage purchases,18103.23,Elevator Tech,Check,Paid
+466,1,5,4/13/2021,Restaurant supplies,9095.33,Beverage Suppliers,Credit Card,Paid
+467,1,5,4/27/2021,Food supplies,22644.75,Bank of Egypt,Credit Card,Paid
+468,1,6,4/16/2021,Laundry supplies,2832.4,Sanitech Co.,Cash,Paid
+469,1,6,4/12/2021,Sanitization products,1652.82,Accounting Firm,Check,Paid
+470,1,6,4/18/2021,Housekeeping supplies,2099.25,Software Corp.,Credit Card,Paid
+471,1,6,4/17/2021,Sanitization products,4132.6,Tech Solutions,Credit Card,Paid
+472,1,7,4/2/2021,Equipment insurance,9650.18,Property Guard,Bank Transfer,Paid
+473,1,7,4/28/2021,Liability insurance,9972.64,Office Depot Egypt,Credit Card,Paid
+474,1,7,4/27/2021,Employee insurance,11482.62,Software Corp.,Credit Card,Paid
+475,1,7,4/3/2021,Employee insurance,8541.54,Education Plus,Bank Transfer,Paid
+476,1,8,4/6/2021,Hardware purchases,5447.52,Liability Solutions,Bank Transfer,Paid
+477,1,8,4/27/2021,Hardware purchases,4272.15,Kitchen Equipment Co.,Bank Transfer,Paid
+478,1,9,4/4/2021,Staff training programs,1620.7,HVAC Systems Ltd.,Credit Card,Pending
+479,1,9,4/10/2021,Staff training programs,1924.78,Municipal Water Authority,Bank Transfer,Paid
+480,1,10,4/20/2021,Legal fees,2608.17,Kitchen Equipment Co.,Credit Card,Paid
+481,1,10,4/26/2021,Bank charges,4661.81,Restaurant Supply,Cash,Pending
+482,1,10,4/16/2021,Accounting services,7807.81,Software Corp.,Cash,Paid
+483,1,10,4/23/2021,Bank charges,1943.69,Laundry Services,Check,Paid
+484,1,1,5/13/2021,Bonus payments,136429.03,Telecom Egypt,Cash,Paid
+485,1,1,5/18/2021,Management salaries,98274.39,Delta Gas Company,Credit Card,Paid
+486,1,1,5/19/2021,Staff salaries,138494.96,Certification Center,Check,Paid
+487,1,1,5/23/2021,Bonus payments,62466.87,Laundry Services,Check,Paid
+488,1,2,5/22/2021,Electricity bill,5394.2,Housekeeping Supplies Ltd.,Check,Paid
+489,1,2,5/26/2021,Electricity bill,24042.93,Sanitech Co.,Check,Paid
+490,1,3,5/9/2021,Promotional materials,8037.27,Municipal Water Authority,Bank Transfer,Paid
+491,1,3,5/7/2021,Promotional materials,11087.55,Food Distributors Egypt,Check,Overdue
+492,1,4,5/15/2021,HVAC maintenance,2420.85,HVAC Systems Ltd.,Cash,Paid
+493,1,4,5/16/2021,Elevator service,9129.95,Food Distributors Egypt,Cash,Paid
+494,1,5,5/23/2021,Beverage purchases,22017.49,Bank of Egypt,Check,Paid
+495,1,5,5/27/2021,Restaurant supplies,16521.4,Telecom Egypt,Check,Pending
+496,1,5,5/13/2021,Restaurant supplies,18552.04,Restaurant Supply,Bank Transfer,Paid
+497,1,6,5/20/2021,Housekeeping supplies,3075.68,Accounting Firm,Credit Card,Paid
+498,1,6,5/14/2021,Laundry supplies,4431.46,Accounting Firm,Check,Paid
+499,1,6,5/16/2021,Laundry supplies,2234.42,Kitchen Equipment Co.,Bank Transfer,Paid
+500,1,7,5/11/2021,Employee insurance,4695.66,Tech Solutions,Cash,Pending
+501,1,7,5/12/2021,Equipment insurance,8151.63,Elevator Tech,Bank Transfer,Paid
+502,1,7,5/28/2021,Liability insurance,11063.62,Elevator Tech,Cash,Overdue
+503,1,7,5/22/2021,Liability insurance,3852.8,Tech Solutions,Bank Transfer,Paid
+504,1,8,5/21/2021,IT support,4778.34,Insurance Group Egypt,Credit Card,Paid
+505,1,8,5/11/2021,Hardware purchases,5825.01,HVAC Systems Ltd.,Credit Card,Pending
+506,1,8,5/13/2021,System upgrades,4606.67,Laundry Services,Check,Paid
+507,1,8,5/18/2021,Hardware purchases,5751.47,Cleaning Solutions,Bank Transfer,Paid
+508,1,9,5/11/2021,Training materials,950.3,Training Institute,Cash,Paid
+509,1,9,5/21/2021,Certification courses,2983.31,Elevator Tech,Cash,Overdue
+510,1,9,5/7/2021,Certification courses,1934.09,Kitchen Equipment Co.,Check,Pending
+511,1,10,5/5/2021,Bank charges,5989.47,Tech Solutions,Bank Transfer,Paid
+512,1,10,5/3/2021,Legal fees,3014.54,Kitchen Equipment Co.,Cash,Paid
+513,1,1,6/28/2021,Overtime payments,64507.77,Telecom Egypt,Check,Paid
+514,1,1,6/13/2021,Bonus payments,77996.56,Municipal Water Authority,Check,Paid
+515,1,1,6/21/2021,Overtime payments,59297.88,Training Institute,Cash,Paid
+516,1,2,6/18/2021,Electricity bill,10130.98,Property Guard,Check,Paid
+517,1,2,6/9/2021,Water bill,8725.7,Delta Gas Company,Credit Card,Paid
+518,1,3,6/10/2021,Social media marketing,8201.61,Creative Agency,Bank Transfer,Paid
+519,1,3,6/3/2021,Social media marketing,12140.5,Telecom Egypt,Credit Card,Paid
+520,1,4,6/17/2021,Equipment repair,7350.52,Liability Solutions,Check,Paid
+521,1,4,6/16/2021,Equipment repair,7548.39,Building Services Co.,Cash,Paid
+522,1,4,6/15/2021,Equipment repair,8363.84,Print House Co.,Check,Paid
+523,1,5,6/21/2021,Food supplies,27996.14,Maintenance Plus,Bank Transfer,Pending
+524,1,5,6/10/2021,Kitchen equipment,10695.91,Legal Associates,Cash,Paid
+525,1,6,6/19/2021,Housekeeping supplies,4397.97,Liability Solutions,Credit Card,Paid
+526,1,6,6/9/2021,Cleaning chemicals,3889.67,Kitchen Equipment Co.,Cash,Paid
+527,1,6,6/19/2021,Cleaning chemicals,3430.8,Telecom Egypt,Credit Card,Paid
+528,1,6,6/6/2021,Sanitization products,3371.04,Creative Agency,Bank Transfer,Paid
+529,1,7,6/18/2021,Liability insurance,6611.57,System Integrators,Credit Card,Paid
+530,1,7,6/2/2021,Equipment insurance,4257.92,Building Services Co.,Bank Transfer,Paid
+531,1,7,6/1/2021,Property insurance,3265.5,Damietta Electric Co.,Check,Pending
+532,1,8,6/4/2021,Software licenses,2358.15,Cleaning Solutions,Cash,Paid
+533,1,8,6/6/2021,Hardware purchases,7978.48,Restaurant Supply,Cash,Paid
+534,1,8,6/18/2021,Hardware purchases,2194.72,Accounting Firm,Bank Transfer,Paid
+535,1,9,6/21/2021,Training materials,1471,Accounting Firm,Credit Card,Paid
+536,1,9,6/8/2021,Certification courses,1961.29,Food Distributors Egypt,Bank Transfer,Paid
+537,1,10,6/25/2021,Bank charges,5339.72,Food Distributors Egypt,Cash,Paid
+538,1,10,6/19/2021,Accounting services,6360.06,Maintenance Plus,Check,Paid
+539,1,10,6/3/2021,Accounting services,1116.98,HVAC Systems Ltd.,Credit Card,Paid
+540,1,1,7/8/2021,Overtime payments,52144.72,Training Institute,Bank Transfer,Paid
+541,1,1,7/16/2021,Management salaries,65065.99,Insurance Group Egypt,Credit Card,Paid
+542,1,2,7/7/2021,Water bill,14448.16,Restaurant Supply,Cash,Paid
+543,1,2,7/7/2021,Electricity bill,17242.46,Certification Center,Credit Card,Overdue
+544,1,3,7/11/2021,Online advertising,5362.19,HVAC Systems Ltd.,Check,Paid
+545,1,3,7/3/2021,Promotional materials,7181.35,Software Corp.,Cash,Paid
+546,1,4,7/19/2021,HVAC maintenance,8756.22,Elevator Tech,Cash,Paid
+547,1,4,7/8/2021,Building maintenance,9505.45,Laundry Services,Check,Paid
+548,1,4,7/4/2021,Equipment repair,6365.57,Sanitech Co.,Credit Card,Paid
+549,1,4,7/15/2021,HVAC maintenance,5856.72,Tech Solutions,Credit Card,Paid
+550,1,5,7/21/2021,Kitchen equipment,25269.91,Sanitech Co.,Bank Transfer,Paid
+551,1,5,7/3/2021,Beverage purchases,13518.38,Office Depot Egypt,Bank Transfer,Paid
+552,1,5,7/10/2021,Restaurant supplies,20964.42,System Integrators,Bank Transfer,Paid
+553,1,6,7/14/2021,Sanitization products,3293.46,Delta Gas Company,Credit Card,Paid
+554,1,6,7/28/2021,Sanitization products,2198.97,IT Support Services,Bank Transfer,Paid
+555,1,7,7/1/2021,Liability insurance,4228.55,Property Guard,Bank Transfer,Paid
+556,1,7,7/5/2021,Equipment insurance,5901.9,Cleaning Solutions,Bank Transfer,Paid
+557,1,7,7/12/2021,Equipment insurance,5905.85,Maintenance Plus,Cash,Paid
+558,1,7,7/6/2021,Property insurance,11556.38,Office Depot Egypt,Check,Paid
+559,1,8,7/3/2021,Software licenses,6804.9,IT Support Services,Credit Card,Paid
+560,1,8,7/18/2021,System upgrades,7957.32,Software Corp.,Credit Card,Paid
+561,1,8,7/23/2021,Software licenses,4362.53,Housekeeping Supplies Ltd.,Cash,Paid
+562,1,9,7/19/2021,External trainers,2279.04,Damietta Electric Co.,Cash,Paid
+563,1,9,7/15/2021,Staff training programs,2156.95,IT Support Services,Bank Transfer,Pending
+564,1,9,7/8/2021,Training materials,1529.78,Delta Gas Company,Cash,Paid
+565,1,10,7/17/2021,Accounting services,2055.93,Liability Solutions,Check,Paid
+566,1,10,7/2/2021,Office supplies,4962.01,Insurance Group Egypt,Cash,Paid
+567,1,10,7/14/2021,Accounting services,5422.65,Laundry Services,Credit Card,Paid
+568,1,10,7/1/2021,Bank charges,7175.03,Food Distributors Egypt,Credit Card,Paid
+569,1,1,8/7/2021,Management salaries,92213.39,Legal Associates,Credit Card,Paid
+570,1,1,8/5/2021,Bonus payments,96558.06,Training Institute,Credit Card,Paid
+571,1,1,8/13/2021,Overtime payments,138248.9,IT Support Services,Bank Transfer,Paid
+572,1,1,8/28/2021,Bonus payments,118572.38,Delta Gas Company,Check,Paid
+573,1,2,8/8/2021,Electricity bill,14920.33,Tech Solutions,Check,Paid
+574,1,2,8/26/2021,Electricity bill,7184.16,Software Corp.,Bank Transfer,Paid
+575,1,2,8/11/2021,Telecommunications,22822.36,Certification Center,Bank Transfer,Paid
+576,1,2,8/12/2021,Telecommunications,5933.82,Restaurant Supply,Check,Pending
+577,1,3,8/28/2021,Social media marketing,7413.6,IT Support Services,Credit Card,Paid
+578,1,3,8/26/2021,Promotional materials,2655.73,Office Depot Egypt,Bank Transfer,Paid
+579,1,3,8/23/2021,Social media marketing,13264.23,System Integrators,Check,Paid
+580,1,4,8/14/2021,HVAC maintenance,6384.71,Laundry Services,Check,Pending
+581,1,4,8/17/2021,HVAC maintenance,7495.91,Kitchen Equipment Co.,Cash,Paid
+582,1,4,8/4/2021,Equipment repair,3160.67,Employee Benefits Co.,Bank Transfer,Paid
+583,1,5,8/9/2021,Beverage purchases,29617.79,Elevator Tech,Cash,Paid
+584,1,5,8/4/2021,Restaurant supplies,21387.6,Elevator Tech,Check,Paid
+585,1,5,8/14/2021,Food supplies,18120.61,Restaurant Supply,Credit Card,Paid
+586,1,5,8/8/2021,Kitchen equipment,27574.69,Maintenance Plus,Cash,Paid
+587,1,6,8/28/2021,Sanitization products,3888.26,Delta Gas Company,Cash,Paid
+588,1,6,8/20/2021,Sanitization products,1617.22,HVAC Systems Ltd.,Bank Transfer,Paid
+589,1,7,8/17/2021,Employee insurance,11136.9,Creative Agency,Check,Paid
+590,1,7,8/18/2021,Liability insurance,10195.74,System Integrators,Bank Transfer,Paid
+591,1,7,8/23/2021,Liability insurance,5767.38,Certification Center,Bank Transfer,Paid
+592,1,7,8/12/2021,Property insurance,7110.17,Certification Center,Check,Pending
+593,1,8,8/7/2021,System upgrades,7246.17,Liability Solutions,Bank Transfer,Paid
+594,1,8,8/11/2021,Hardware purchases,4637.19,Employee Benefits Co.,Bank Transfer,Paid
+595,1,9,8/10/2021,Training materials,2980.94,Software Corp.,Credit Card,Paid
+596,1,9,8/14/2021,Certification courses,2230.06,Cleaning Solutions,Bank Transfer,Paid
+597,1,10,8/18/2021,Legal fees,2047.63,Print House Co.,Bank Transfer,Paid
+598,1,10,8/17/2021,Accounting services,3819.75,Insurance Group Egypt,Cash,Paid
+599,1,10,8/21/2021,Office supplies,2668.39,Liability Solutions,Bank Transfer,Paid
+600,1,1,9/6/2021,Management salaries,95262.47,Cleaning Solutions,Credit Card,Paid
+601,1,1,9/2/2021,Staff salaries,128517.93,Property Guard,Credit Card,Paid
+602,1,1,9/18/2021,Staff salaries,79060.74,Accounting Firm,Bank Transfer,Paid
+603,1,2,9/24/2021,Electricity bill,18730.84,Maintenance Plus,Credit Card,Pending
+604,1,2,9/12/2021,Gas bill,12707.29,Sanitech Co.,Cash,Paid
+605,1,3,9/6/2021,Online advertising,2272.44,Telecom Egypt,Check,Paid
+606,1,3,9/19/2021,Online advertising,13505.29,Laundry Services,Bank Transfer,Paid
+607,1,4,9/15/2021,HVAC maintenance,6897.08,Municipal Water Authority,Check,Paid
+608,1,4,9/8/2021,Equipment repair,6550.29,Office Depot Egypt,Credit Card,Paid
+609,1,5,9/22/2021,Beverage purchases,13339.9,Delta Gas Company,Check,Paid
+610,1,5,9/5/2021,Beverage purchases,11159.8,Cleaning Solutions,Cash,Pending
+611,1,6,9/22/2021,Laundry supplies,2247.66,Tech Solutions,Credit Card,Paid
+612,1,6,9/25/2021,Housekeeping supplies,3268.28,Training Institute,Check,Paid
+613,1,6,9/11/2021,Housekeeping supplies,3054.72,Beverage Suppliers,Cash,Paid
+614,1,6,9/2/2021,Laundry supplies,1562.98,Building Services Co.,Credit Card,Paid
+615,1,7,9/26/2021,Property insurance,7492.52,Restaurant Supply,Cash,Paid
+616,1,7,9/2/2021,Liability insurance,8885.56,Accounting Firm,Bank Transfer,Paid
+617,1,7,9/6/2021,Equipment insurance,9764.76,Restaurant Supply,Credit Card,Paid
+618,1,7,9/17/2021,Employee insurance,3437.74,Food Distributors Egypt,Bank Transfer,Paid
+619,1,8,9/17/2021,Hardware purchases,5684.03,Accounting Firm,Check,Paid
+620,1,8,9/23/2021,System upgrades,3160.86,Beverage Suppliers,Credit Card,Paid
+621,1,8,9/27/2021,IT support,3461.12,Telecom Egypt,Credit Card,Paid
+622,1,8,9/16/2021,IT support,3586.84,Liability Solutions,Credit Card,Paid
+623,1,9,9/6/2021,Staff training programs,2208.73,Tech Solutions,Cash,Paid
+624,1,9,9/7/2021,Certification courses,1080.16,IT Support Services,Check,Paid
+625,1,9,9/28/2021,Staff training programs,1728.36,Print House Co.,Check,Paid
+626,1,10,9/16/2021,Office supplies,3428.17,Housekeeping Supplies Ltd.,Cash,Paid
+627,1,10,9/11/2021,Legal fees,2484.69,Office Depot Egypt,Bank Transfer,Paid
+628,1,10,9/5/2021,Office supplies,1349.25,Kitchen Equipment Co.,Check,Paid
+629,1,10,9/8/2021,Office supplies,5063.59,Liability Solutions,Bank Transfer,Paid
+630,1,1,10/21/2021,Management salaries,59833.61,Telecom Egypt,Bank Transfer,Paid
+631,1,1,10/16/2021,Bonus payments,120867.19,Digital Media Group,Bank Transfer,Paid
+632,1,1,10/4/2021,Management salaries,115963.9,Software Corp.,Check,Paid
+633,1,1,10/7/2021,Management salaries,63661.32,Delta Gas Company,Check,Paid
+634,1,2,10/25/2021,Water bill,23015.41,Beverage Suppliers,Cash,Paid
+635,1,2,10/14/2021,Electricity bill,23207.79,Education Plus,Credit Card,Paid
+636,1,2,10/1/2021,Telecommunications,18617.96,Marketing Solutions Ltd.,Bank Transfer,Paid
+637,1,2,10/16/2021,Gas bill,20538.52,Accounting Firm,Cash,Paid
+638,1,3,10/3/2021,Social media marketing,7382.58,Food Distributors Egypt,Check,Paid
+639,1,3,10/19/2021,Online advertising,5560.04,Digital Media Group,Credit Card,Overdue
+640,1,3,10/8/2021,Online advertising,10821.74,Telecom Egypt,Check,Pending
+641,1,4,10/9/2021,Elevator service,8958.51,Building Services Co.,Bank Transfer,Pending
+642,1,4,10/21/2021,Elevator service,3613.13,Marketing Solutions Ltd.,Credit Card,Paid
+643,1,4,10/12/2021,Equipment repair,6657.41,Education Plus,Cash,Paid
+644,1,5,10/20/2021,Restaurant supplies,12404.57,Liability Solutions,Check,Paid
+645,1,5,10/25/2021,Kitchen equipment,28876.21,Legal Associates,Credit Card,Paid
+646,1,6,10/5/2021,Laundry supplies,4926.11,Employee Benefits Co.,Credit Card,Paid
+647,1,6,10/25/2021,Housekeeping supplies,3060.31,Liability Solutions,Check,Paid
+648,1,6,10/3/2021,Cleaning chemicals,1985.34,Marketing Solutions Ltd.,Bank Transfer,Pending
+649,1,7,10/19/2021,Employee insurance,4726.44,Building Services Co.,Credit Card,Paid
+650,1,7,10/12/2021,Property insurance,7367.86,Maintenance Plus,Cash,Paid
+651,1,8,10/19/2021,IT support,3997.11,Insurance Group Egypt,Credit Card,Paid
+652,1,8,10/23/2021,Hardware purchases,6228.28,Digital Media Group,Bank Transfer,Paid
+653,1,9,10/7/2021,External trainers,2347.16,Laundry Services,Bank Transfer,Paid
+654,1,9,10/20/2021,Staff training programs,2008.43,Office Depot Egypt,Credit Card,Paid
+655,1,10,10/25/2021,Accounting services,3336.32,Damietta Electric Co.,Check,Paid
+656,1,10,10/8/2021,Accounting services,3069.1,Digital Media Group,Check,Paid
+657,1,10,10/5/2021,Bank charges,4897.74,Digital Media Group,Cash,Paid
+658,1,1,11/27/2021,Staff salaries,145875.79,Tech Solutions,Check,Paid
+659,1,1,11/15/2021,Overtime payments,124955.84,Bank of Egypt,Credit Card,Paid
+660,1,1,11/10/2021,Staff salaries,84816.41,Sanitech Co.,Credit Card,Paid
+661,1,1,11/21/2021,Staff salaries,67987.78,Elevator Tech,Bank Transfer,Pending
+662,1,2,11/27/2021,Electricity bill,20593.77,Accounting Firm,Credit Card,Overdue
+663,1,2,11/1/2021,Telecommunications,19821.82,Digital Media Group,Bank Transfer,Paid
+664,1,2,11/20/2021,Telecommunications,13490.28,Housekeeping Supplies Ltd.,Credit Card,Paid
+665,1,3,11/24/2021,Print advertising,3263.42,Delta Gas Company,Check,Paid
+666,1,3,11/13/2021,Online advertising,8573.25,Kitchen Equipment Co.,Check,Pending
+667,1,3,11/13/2021,Online advertising,9197.95,Professional Development,Bank Transfer,Paid
+668,1,3,11/18/2021,Print advertising,3363.2,Tech Solutions,Bank Transfer,Paid
+669,1,4,11/6/2021,Building maintenance,4921.39,Restaurant Supply,Bank Transfer,Paid
+670,1,4,11/11/2021,Elevator service,7679.05,Certification Center,Bank Transfer,Paid
+671,1,5,11/5/2021,Restaurant supplies,17267.14,Telecom Egypt,Bank Transfer,Paid
+672,1,5,11/7/2021,Beverage purchases,23642.68,Food Distributors Egypt,Credit Card,Paid
+673,1,5,11/16/2021,Kitchen equipment,26403.61,Software Corp.,Cash,Paid
+674,1,5,11/16/2021,Food supplies,12596.68,Laundry Services,Cash,Paid
+675,1,6,11/5/2021,Sanitization products,3492.76,Property Guard,Credit Card,Paid
+676,1,6,11/15/2021,Cleaning chemicals,3965.49,Training Institute,Check,Pending
+677,1,6,11/27/2021,Laundry supplies,4820.87,Delta Gas Company,Bank Transfer,Paid
+678,1,7,11/4/2021,Property insurance,7412.97,Municipal Water Authority,Credit Card,Paid
+679,1,7,11/22/2021,Equipment insurance,6952.7,Elevator Tech,Check,Paid
+680,1,7,11/23/2021,Liability insurance,10626.5,Liability Solutions,Check,Paid
+681,1,7,11/21/2021,Property insurance,4938.21,Training Institute,Bank Transfer,Paid
+682,1,8,11/21/2021,IT support,5666.19,HVAC Systems Ltd.,Cash,Paid
+683,1,8,11/20/2021,System upgrades,6084.32,Insurance Group Egypt,Credit Card,Paid
+684,1,8,11/15/2021,IT support,7047.94,Building Services Co.,Credit Card,Pending
+685,1,9,11/17/2021,External trainers,2356.63,Maintenance Plus,Credit Card,Paid
+686,1,9,11/18/2021,Certification courses,1581.33,Laundry Services,Bank Transfer,Paid
+687,1,9,11/27/2021,Staff training programs,1286.85,Restaurant Supply,Credit Card,Overdue
+688,1,10,11/8/2021,Legal fees,7536.75,Maintenance Plus,Credit Card,Paid
+689,1,10,11/18/2021,Office supplies,2399.82,Marketing Solutions Ltd.,Cash,Paid
+690,1,1,12/1/2021,Overtime payments,90512.25,Education Plus,Bank Transfer,Pending
+691,1,1,12/12/2021,Bonus payments,122279.32,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+692,1,2,12/17/2021,Gas bill,9590.87,Damietta Electric Co.,Check,Paid
+693,1,2,12/6/2021,Electricity bill,17759.63,Liability Solutions,Bank Transfer,Paid
+694,1,2,12/4/2021,Gas bill,10533.89,Tech Solutions,Bank Transfer,Paid
+695,1,2,12/5/2021,Water bill,14403.09,Telecom Egypt,Check,Paid
+696,1,3,12/8/2021,Promotional materials,4928.31,Tech Solutions,Bank Transfer,Paid
+697,1,3,12/15/2021,Online advertising,3345.95,Creative Agency,Check,Paid
+698,1,4,12/12/2021,HVAC maintenance,6714.11,Employee Benefits Co.,Cash,Pending
+699,1,4,12/21/2021,Elevator service,4567.03,Maintenance Plus,Check,Overdue
+700,1,5,12/15/2021,Beverage purchases,17772.08,Cleaning Solutions,Credit Card,Paid
+701,1,5,12/16/2021,Kitchen equipment,9131.34,IT Support Services,Bank Transfer,Paid
+702,1,5,12/14/2021,Kitchen equipment,21155.02,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+703,1,6,12/19/2021,Housekeeping supplies,1693.49,HVAC Systems Ltd.,Credit Card,Paid
+704,1,6,12/24/2021,Sanitization products,3328.96,System Integrators,Cash,Paid
+705,1,6,12/19/2021,Cleaning chemicals,3630.14,Professional Development,Cash,Paid
+706,1,7,12/26/2021,Employee insurance,5074.12,Education Plus,Credit Card,Pending
+707,1,7,12/8/2021,Equipment insurance,5917.44,Bank of Egypt,Credit Card,Pending
+708,1,7,12/24/2021,Liability insurance,6314.2,Tech Solutions,Bank Transfer,Paid
+709,1,7,12/19/2021,Equipment insurance,8615.8,Building Services Co.,Bank Transfer,Paid
+710,1,8,12/7/2021,IT support,4021.54,Professional Development,Cash,Paid
+711,1,8,12/25/2021,Software licenses,6966.6,Tech Solutions,Check,Paid
+712,1,8,12/26/2021,Software licenses,5100.56,Maintenance Plus,Cash,Paid
+713,1,9,12/22/2021,External trainers,2349.97,Training Institute,Check,Paid
+714,1,9,12/10/2021,External trainers,2441.76,Delta Gas Company,Cash,Paid
+715,1,10,12/17/2021,Legal fees,4406.2,Education Plus,Check,Paid
+716,1,10,12/11/2021,Legal fees,4647.22,Professional Development,Credit Card,Paid
+717,1,1,1/23/2022,Bonus payments,127686.09,Software Corp.,Cash,Paid
+718,1,1,1/13/2022,Bonus payments,64708.42,Training Institute,Check,Paid
+719,1,2,1/20/2022,Electricity bill,11439.56,Delta Gas Company,Bank Transfer,Paid
+720,1,2,1/9/2022,Water bill,8323.71,Marketing Solutions Ltd.,Cash,Paid
+721,1,2,1/17/2022,Gas bill,11364.17,Creative Agency,Cash,Paid
+722,1,2,1/19/2022,Gas bill,9008.9,Digital Media Group,Check,Paid
+723,1,3,1/7/2022,Print advertising,8014.29,Laundry Services,Bank Transfer,Paid
+724,1,3,1/11/2022,Online advertising,4616.1,Digital Media Group,Bank Transfer,Overdue
+725,1,3,1/14/2022,Print advertising,4523.48,Training Institute,Credit Card,Paid
+726,1,3,1/25/2022,Print advertising,4899.21,Sanitech Co.,Cash,Paid
+727,1,4,1/16/2022,Elevator service,2982.59,Telecom Egypt,Bank Transfer,Paid
+728,1,4,1/15/2022,Elevator service,2630.04,Insurance Group Egypt,Check,Pending
+729,1,4,1/25/2022,Building maintenance,4848.01,Marketing Solutions Ltd.,Check,Pending
+730,1,4,1/28/2022,Equipment repair,2536.15,Employee Benefits Co.,Cash,Paid
+731,1,5,1/23/2022,Kitchen equipment,23482.76,Creative Agency,Cash,Paid
+732,1,5,1/24/2022,Beverage purchases,19828.17,Training Institute,Bank Transfer,Paid
+733,1,5,1/5/2022,Restaurant supplies,10139.11,System Integrators,Credit Card,Pending
+734,1,6,1/8/2022,Laundry supplies,4020.99,Restaurant Supply,Credit Card,Paid
+735,1,6,1/10/2022,Cleaning chemicals,2841.13,Marketing Solutions Ltd.,Credit Card,Paid
+736,1,7,1/12/2022,Employee insurance,3351.04,HVAC Systems Ltd.,Bank Transfer,Paid
+737,1,7,1/2/2022,Equipment insurance,7335.98,Digital Media Group,Credit Card,Paid
+738,1,7,1/7/2022,Employee insurance,10809.9,Maintenance Plus,Bank Transfer,Paid
+739,1,7,1/17/2022,Liability insurance,4433.62,Maintenance Plus,Credit Card,Paid
+740,1,8,1/6/2022,Software licenses,4988.09,Education Plus,Cash,Overdue
+741,1,8,1/12/2022,Software licenses,5900.21,HVAC Systems Ltd.,Bank Transfer,Paid
+742,1,8,1/7/2022,IT support,3853.32,Sanitech Co.,Check,Paid
+743,1,9,1/19/2022,Staff training programs,1931.45,Delta Gas Company,Check,Paid
+744,1,9,1/27/2022,Training materials,2925.54,Digital Media Group,Credit Card,Pending
+745,1,9,1/7/2022,Staff training programs,762.44,Kitchen Equipment Co.,Check,Paid
+746,1,10,1/12/2022,Bank charges,2864.07,Print House Co.,Credit Card,Paid
+747,1,10,1/14/2022,Legal fees,2067.04,Kitchen Equipment Co.,Cash,Paid
+748,1,10,1/24/2022,Legal fees,1569.97,Accounting Firm,Bank Transfer,Paid
+749,1,10,1/12/2022,Bank charges,5701.21,Tech Solutions,Credit Card,Paid
+750,1,1,2/3/2022,Bonus payments,94273.58,Municipal Water Authority,Cash,Paid
+751,1,1,2/9/2022,Overtime payments,148464.62,Municipal Water Authority,Bank Transfer,Paid
+752,1,2,2/6/2022,Gas bill,12597.25,Office Depot Egypt,Cash,Paid
+753,1,2,2/6/2022,Electricity bill,22782.28,Tech Solutions,Credit Card,Paid
+754,1,2,2/16/2022,Electricity bill,10300.19,Elevator Tech,Bank Transfer,Pending
+755,1,2,2/22/2022,Telecommunications,17961.29,Liability Solutions,Credit Card,Paid
+756,1,3,2/27/2022,Promotional materials,10308.84,Professional Development,Cash,Paid
+757,1,3,2/22/2022,Print advertising,3662.31,Kitchen Equipment Co.,Check,Paid
+758,1,3,2/5/2022,Promotional materials,13625.64,Delta Gas Company,Cash,Paid
+759,1,3,2/5/2022,Online advertising,8172.25,Tech Solutions,Check,Paid
+760,1,4,2/11/2022,Elevator service,2755.39,Telecom Egypt,Cash,Paid
+761,1,4,2/4/2022,Building maintenance,6943.79,Telecom Egypt,Cash,Paid
+762,1,4,2/12/2022,Equipment repair,5478.35,Tech Solutions,Credit Card,Pending
+763,1,4,2/13/2022,Building maintenance,4468.69,Elevator Tech,Bank Transfer,Paid
+764,1,5,2/3/2022,Restaurant supplies,12667.22,Food Distributors Egypt,Credit Card,Paid
+765,1,5,2/18/2022,Kitchen equipment,23870.01,Employee Benefits Co.,Credit Card,Paid
+766,1,5,2/11/2022,Restaurant supplies,9203.91,Software Corp.,Check,Paid
+767,1,6,2/22/2022,Sanitization products,4921,Legal Associates,Credit Card,Paid
+768,1,6,2/4/2022,Laundry supplies,1705.81,Property Guard,Credit Card,Paid
+769,1,7,2/3/2022,Liability insurance,8240.04,Education Plus,Check,Paid
+770,1,7,2/2/2022,Property insurance,11207.01,Education Plus,Bank Transfer,Paid
+771,1,7,2/24/2022,Property insurance,6784.93,Accounting Firm,Cash,Paid
+772,1,7,2/24/2022,Liability insurance,10164.01,Marketing Solutions Ltd.,Cash,Paid
+773,1,8,2/3/2022,Software licenses,5975.98,Office Depot Egypt,Credit Card,Pending
+774,1,8,2/23/2022,System upgrades,2945.61,Tech Solutions,Check,Pending
+775,1,8,2/27/2022,IT support,2784.83,Building Services Co.,Bank Transfer,Paid
+776,1,8,2/8/2022,System upgrades,2006.28,Delta Gas Company,Credit Card,Paid
+777,1,9,2/15/2022,External trainers,1303.86,Digital Media Group,Bank Transfer,Paid
+778,1,9,2/20/2022,External trainers,2620.81,Tech Solutions,Cash,Paid
+779,1,10,2/25/2022,Office supplies,5800.39,Municipal Water Authority,Credit Card,Pending
+780,1,10,2/10/2022,Bank charges,6209.04,Tech Solutions,Check,Paid
+781,1,10,2/22/2022,Office supplies,4216.68,Software Corp.,Cash,Paid
+782,1,1,3/18/2022,Staff salaries,110582.37,Sanitech Co.,Cash,Paid
+783,1,1,3/5/2022,Overtime payments,76012.24,Municipal Water Authority,Check,Paid
+784,1,1,3/24/2022,Bonus payments,105600.75,Tech Solutions,Bank Transfer,Paid
+785,1,1,3/22/2022,Management salaries,133098.01,System Integrators,Credit Card,Paid
+786,1,2,3/24/2022,Gas bill,19882.03,Tech Solutions,Check,Paid
+787,1,2,3/14/2022,Water bill,14249.08,Tech Solutions,Bank Transfer,Pending
+788,1,2,3/28/2022,Water bill,21041.4,Kitchen Equipment Co.,Bank Transfer,Paid
+789,1,3,3/2/2022,Print advertising,13068.79,Sanitech Co.,Cash,Paid
+790,1,3,3/8/2022,Print advertising,11909.18,Software Corp.,Cash,Paid
+791,1,4,3/7/2022,HVAC maintenance,6856.76,Food Distributors Egypt,Check,Paid
+792,1,4,3/13/2022,Building maintenance,5872.41,Education Plus,Bank Transfer,Paid
+793,1,4,3/19/2022,HVAC maintenance,6096.24,Sanitech Co.,Bank Transfer,Paid
+794,1,5,3/4/2022,Kitchen equipment,17636.34,Employee Benefits Co.,Cash,Paid
+795,1,5,3/1/2022,Kitchen equipment,14068.61,HVAC Systems Ltd.,Credit Card,Paid
+796,1,5,3/15/2022,Kitchen equipment,17509.54,Creative Agency,Bank Transfer,Pending
+797,1,5,3/10/2022,Kitchen equipment,23064.22,Property Guard,Credit Card,Paid
+798,1,6,3/27/2022,Housekeeping supplies,3065.88,Education Plus,Cash,Paid
+799,1,6,3/22/2022,Housekeeping supplies,2310.99,Legal Associates,Check,Paid
+800,1,6,3/8/2022,Laundry supplies,4402.09,Creative Agency,Bank Transfer,Paid
+801,1,7,3/20/2022,Equipment insurance,5209.33,Liability Solutions,Credit Card,Paid
+802,1,7,3/16/2022,Liability insurance,10661.23,Food Distributors Egypt,Credit Card,Paid
+803,1,7,3/4/2022,Liability insurance,11981.15,Municipal Water Authority,Check,Paid
+804,1,7,3/8/2022,Employee insurance,10595.11,Elevator Tech,Check,Paid
+805,1,8,3/26/2022,Software licenses,2653.39,Creative Agency,Credit Card,Paid
+806,1,8,3/24/2022,Software licenses,4842.65,Professional Development,Check,Paid
+807,1,8,3/9/2022,IT support,3236.73,Beverage Suppliers,Check,Paid
+808,1,8,3/28/2022,IT support,4561.24,Office Depot Egypt,Check,Paid
+809,1,9,3/21/2022,External trainers,684.63,Certification Center,Credit Card,Paid
+810,1,9,3/11/2022,External trainers,1048.45,Sanitech Co.,Credit Card,Paid
+811,1,10,3/9/2022,Office supplies,3595.22,Office Depot Egypt,Check,Paid
+812,1,10,3/12/2022,Office supplies,3962.25,System Integrators,Check,Paid
+813,1,10,3/6/2022,Office supplies,7659.96,Property Guard,Cash,Paid
+814,1,1,4/8/2022,Staff salaries,87543.96,Digital Media Group,Check,Paid
+815,1,1,4/15/2022,Overtime payments,53848.19,Housekeeping Supplies Ltd.,Cash,Paid
+816,1,1,4/8/2022,Management salaries,121416.28,Property Guard,Check,Overdue
+817,1,2,4/28/2022,Water bill,21720.62,Restaurant Supply,Bank Transfer,Paid
+818,1,2,4/25/2022,Gas bill,24658.64,Liability Solutions,Credit Card,Paid
+819,1,2,4/10/2022,Telecommunications,13337.96,Software Corp.,Check,Paid
+820,1,2,4/25/2022,Water bill,8360.6,Accounting Firm,Check,Paid
+821,1,3,4/10/2022,Social media marketing,5690.19,Marketing Solutions Ltd.,Check,Paid
+822,1,3,4/2/2022,Online advertising,12810.14,Elevator Tech,Cash,Pending
+823,1,3,4/5/2022,Social media marketing,11399.83,Beverage Suppliers,Check,Paid
+824,1,3,4/21/2022,Promotional materials,5639.99,IT Support Services,Check,Paid
+825,1,4,4/28/2022,HVAC maintenance,8048.71,Cleaning Solutions,Credit Card,Paid
+826,1,4,4/27/2022,Elevator service,9254.04,Laundry Services,Cash,Paid
+827,1,5,4/15/2022,Beverage purchases,21286.46,Delta Gas Company,Cash,Pending
+828,1,5,4/28/2022,Kitchen equipment,18141.76,Sanitech Co.,Bank Transfer,Pending
+829,1,6,4/27/2022,Sanitization products,4842.83,Restaurant Supply,Credit Card,Paid
+830,1,6,4/22/2022,Housekeeping supplies,2217.23,Bank of Egypt,Cash,Paid
+831,1,7,4/6/2022,Employee insurance,4931.29,Property Guard,Cash,Paid
+832,1,7,4/16/2022,Employee insurance,3958.34,Delta Gas Company,Bank Transfer,Paid
+833,1,8,4/17/2022,System upgrades,7671.3,Marketing Solutions Ltd.,Credit Card,Pending
+834,1,8,4/27/2022,Software licenses,4688.54,Delta Gas Company,Cash,Paid
+835,1,8,4/8/2022,System upgrades,2868.4,Beverage Suppliers,Check,Paid
+836,1,8,4/7/2022,Hardware purchases,5394.95,Cleaning Solutions,Credit Card,Paid
+837,1,9,4/28/2022,Training materials,2451.63,Housekeeping Supplies Ltd.,Check,Paid
+838,1,9,4/5/2022,Training materials,650.23,IT Support Services,Bank Transfer,Pending
+839,1,10,4/22/2022,Office supplies,3164.44,Property Guard,Credit Card,Paid
+840,1,10,4/1/2022,Legal fees,2463.07,Education Plus,Credit Card,Paid
+841,1,10,4/16/2022,Bank charges,3325.48,Print House Co.,Credit Card,Paid
+842,1,10,4/22/2022,Office supplies,3138.47,Sanitech Co.,Bank Transfer,Paid
+843,1,1,5/24/2022,Staff salaries,64760.62,Property Guard,Bank Transfer,Paid
+844,1,1,5/8/2022,Overtime payments,139569.38,Damietta Electric Co.,Credit Card,Paid
+845,1,2,5/1/2022,Telecommunications,5253.34,Building Services Co.,Credit Card,Paid
+846,1,2,5/15/2022,Gas bill,23490.61,Education Plus,Credit Card,Paid
+847,1,3,5/21/2022,Online advertising,12679.94,Creative Agency,Cash,Paid
+848,1,3,5/5/2022,Social media marketing,13447.73,Print House Co.,Check,Paid
+849,1,3,5/7/2022,Print advertising,4318.78,Marketing Solutions Ltd.,Credit Card,Paid
+850,1,3,5/11/2022,Online advertising,3746.64,Print House Co.,Bank Transfer,Paid
+851,1,4,5/28/2022,Equipment repair,7593.85,Certification Center,Check,Paid
+852,1,4,5/14/2022,Equipment repair,8189.97,Building Services Co.,Check,Paid
+853,1,5,5/9/2022,Food supplies,9986.37,Sanitech Co.,Bank Transfer,Paid
+854,1,5,5/3/2022,Beverage purchases,27093.41,Food Distributors Egypt,Check,Paid
+855,1,6,5/1/2022,Sanitization products,4517,Digital Media Group,Bank Transfer,Paid
+856,1,6,5/2/2022,Cleaning chemicals,3540.05,Telecom Egypt,Cash,Paid
+857,1,6,5/10/2022,Sanitization products,2619.41,Professional Development,Cash,Paid
+858,1,6,5/9/2022,Housekeeping supplies,2469.6,Laundry Services,Credit Card,Paid
+859,1,7,5/17/2022,Employee insurance,11440.09,Laundry Services,Check,Paid
+860,1,7,5/12/2022,Property insurance,3245.24,Kitchen Equipment Co.,Bank Transfer,Paid
+861,1,7,5/11/2022,Equipment insurance,8338.8,Legal Associates,Bank Transfer,Paid
+862,1,8,5/24/2022,Software licenses,5525.48,System Integrators,Check,Paid
+863,1,8,5/19/2022,Software licenses,5793.58,Beverage Suppliers,Cash,Paid
+864,1,9,5/20/2022,Certification courses,1740.07,Sanitech Co.,Credit Card,Paid
+865,1,9,5/18/2022,Certification courses,1426.44,Damietta Electric Co.,Credit Card,Paid
+866,1,10,5/7/2022,Office supplies,7111.81,Marketing Solutions Ltd.,Bank Transfer,Paid
+867,1,10,5/22/2022,Legal fees,4224.65,Kitchen Equipment Co.,Credit Card,Paid
+868,1,10,5/18/2022,Bank charges,7954.63,Certification Center,Credit Card,Paid
+869,1,1,6/13/2022,Management salaries,57509.25,Employee Benefits Co.,Cash,Paid
+870,1,1,6/25/2022,Overtime payments,122187.05,Cleaning Solutions,Cash,Paid
+871,1,2,6/1/2022,Telecommunications,17949.22,Certification Center,Check,Paid
+872,1,2,6/10/2022,Gas bill,8822.62,Creative Agency,Bank Transfer,Paid
+873,1,2,6/23/2022,Telecommunications,16171.22,Accounting Firm,Check,Paid
+874,1,2,6/25/2022,Telecommunications,18096.72,Beverage Suppliers,Credit Card,Paid
+875,1,3,6/5/2022,Print advertising,12308.48,Print House Co.,Bank Transfer,Paid
+876,1,3,6/20/2022,Promotional materials,6306.44,Education Plus,Check,Pending
+877,1,3,6/1/2022,Print advertising,10823.78,Restaurant Supply,Cash,Paid
+878,1,4,6/16/2022,Elevator service,8825.99,Employee Benefits Co.,Bank Transfer,Paid
+879,1,4,6/3/2022,Elevator service,7044.69,HVAC Systems Ltd.,Credit Card,Pending
+880,1,4,6/18/2022,Building maintenance,1932.65,Marketing Solutions Ltd.,Check,Paid
+881,1,4,6/20/2022,Building maintenance,5828.1,Certification Center,Cash,Paid
+882,1,5,6/7/2022,Food supplies,27913.81,Food Distributors Egypt,Check,Paid
+883,1,5,6/9/2022,Beverage purchases,19507.88,Telecom Egypt,Cash,Paid
+884,1,5,6/10/2022,Food supplies,18345.66,Tech Solutions,Check,Overdue
+885,1,6,6/3/2022,Cleaning chemicals,4424.83,Property Guard,Check,Paid
+886,1,6,6/1/2022,Sanitization products,3844.86,Software Corp.,Check,Paid
+887,1,7,6/28/2022,Property insurance,3591.03,Marketing Solutions Ltd.,Cash,Paid
+888,1,7,6/19/2022,Equipment insurance,11347.85,Bank of Egypt,Cash,Paid
+889,1,7,6/19/2022,Equipment insurance,9159.49,Laundry Services,Check,Paid
+890,1,8,6/16/2022,IT support,6792.15,Creative Agency,Bank Transfer,Overdue
+891,1,8,6/13/2022,Software licenses,3060.54,Sanitech Co.,Check,Paid
+892,1,8,6/22/2022,System upgrades,4949.58,Marketing Solutions Ltd.,Bank Transfer,Paid
+893,1,9,6/10/2022,External trainers,694.94,Property Guard,Credit Card,Paid
+894,1,9,6/12/2022,Training materials,1595.18,HVAC Systems Ltd.,Credit Card,Pending
+895,1,9,6/17/2022,External trainers,2708.49,IT Support Services,Credit Card,Paid
+896,1,9,6/6/2022,Certification courses,1933.8,Print House Co.,Cash,Paid
+897,1,10,6/27/2022,Bank charges,5116.7,Restaurant Supply,Credit Card,Paid
+898,1,10,6/9/2022,Office supplies,2799.8,Housekeeping Supplies Ltd.,Check,Pending
+899,1,1,7/26/2022,Management salaries,125234.38,Housekeeping Supplies Ltd.,Cash,Paid
+900,1,1,7/16/2022,Overtime payments,56237.55,Digital Media Group,Bank Transfer,Paid
+901,1,2,7/11/2022,Electricity bill,13493.25,Digital Media Group,Credit Card,Pending
+902,1,2,7/20/2022,Electricity bill,7559.6,Legal Associates,Cash,Paid
+903,1,3,7/14/2022,Online advertising,5395.18,Sanitech Co.,Bank Transfer,Paid
+904,1,3,7/3/2022,Print advertising,14579.46,Liability Solutions,Credit Card,Paid
+905,1,4,7/11/2022,Elevator service,4101.49,Restaurant Supply,Cash,Paid
+906,1,4,7/23/2022,Elevator service,7858.01,Elevator Tech,Credit Card,Paid
+907,1,5,7/1/2022,Kitchen equipment,22296.78,Tech Solutions,Cash,Paid
+908,1,5,7/25/2022,Restaurant supplies,16585.12,Training Institute,Credit Card,Pending
+909,1,5,7/23/2022,Food supplies,10305.56,Certification Center,Credit Card,Paid
+910,1,5,7/6/2022,Restaurant supplies,21609.02,Municipal Water Authority,Check,Paid
+911,1,6,7/10/2022,Sanitization products,4425.88,Municipal Water Authority,Bank Transfer,Paid
+912,1,6,7/8/2022,Laundry supplies,3349.59,Office Depot Egypt,Cash,Paid
+913,1,7,7/9/2022,Property insurance,8725.55,Telecom Egypt,Credit Card,Paid
+914,1,7,7/4/2022,Employee insurance,3138.62,Education Plus,Bank Transfer,Pending
+915,1,7,7/28/2022,Employee insurance,11752.21,Education Plus,Bank Transfer,Paid
+916,1,7,7/22/2022,Employee insurance,10573.38,Creative Agency,Cash,Paid
+917,1,8,7/19/2022,System upgrades,4669.16,Accounting Firm,Bank Transfer,Paid
+918,1,8,7/4/2022,Software licenses,2754.39,Training Institute,Bank Transfer,Paid
+919,1,8,7/17/2022,IT support,7239.26,Elevator Tech,Check,Paid
+920,1,9,7/9/2022,External trainers,2699.24,HVAC Systems Ltd.,Cash,Paid
+921,1,9,7/28/2022,Training materials,1764.58,Creative Agency,Credit Card,Paid
+922,1,9,7/28/2022,Certification courses,500.95,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+923,1,9,7/3/2022,External trainers,1170.61,Delta Gas Company,Check,Paid
+924,1,10,7/2/2022,Legal fees,5026.81,Training Institute,Bank Transfer,Paid
+925,1,10,7/6/2022,Legal fees,1791.79,Accounting Firm,Cash,Paid
+926,1,10,7/15/2022,Bank charges,3012.51,Employee Benefits Co.,Bank Transfer,Paid
+927,1,1,8/5/2022,Staff salaries,98623.79,Restaurant Supply,Bank Transfer,Paid
+928,1,1,8/17/2022,Overtime payments,94323.78,Digital Media Group,Credit Card,Pending
+929,1,1,8/10/2022,Staff salaries,57061.46,Professional Development,Check,Paid
+930,1,1,8/4/2022,Overtime payments,55019.37,IT Support Services,Cash,Paid
+931,1,2,8/9/2022,Electricity bill,14699.83,System Integrators,Cash,Pending
+932,1,2,8/12/2022,Gas bill,18119.62,Marketing Solutions Ltd.,Credit Card,Paid
+933,1,3,8/11/2022,Online advertising,4363.87,Maintenance Plus,Cash,Paid
+934,1,3,8/3/2022,Promotional materials,7476.98,Software Corp.,Bank Transfer,Pending
+935,1,4,8/24/2022,Elevator service,5715.48,Office Depot Egypt,Bank Transfer,Pending
+936,1,4,8/6/2022,Equipment repair,6990.22,Marketing Solutions Ltd.,Check,Pending
+937,1,4,8/15/2022,Elevator service,6895.77,Office Depot Egypt,Credit Card,Paid
+938,1,4,8/27/2022,Building maintenance,5208.93,Digital Media Group,Credit Card,Paid
+939,1,5,8/6/2022,Beverage purchases,21315.4,Education Plus,Check,Paid
+940,1,5,8/27/2022,Food supplies,27122,Training Institute,Credit Card,Paid
+941,1,5,8/25/2022,Food supplies,18135.84,Laundry Services,Credit Card,Paid
+942,1,6,8/21/2022,Cleaning chemicals,4911.28,Food Distributors Egypt,Bank Transfer,Pending
+943,1,6,8/26/2022,Housekeeping supplies,1999.07,Laundry Services,Credit Card,Paid
+944,1,6,8/2/2022,Housekeeping supplies,2902.41,Municipal Water Authority,Cash,Paid
+945,1,7,8/12/2022,Property insurance,10099.51,Employee Benefits Co.,Cash,Paid
+946,1,7,8/14/2022,Employee insurance,11864.48,Restaurant Supply,Credit Card,Paid
+947,1,8,8/4/2022,IT support,3794.65,Accounting Firm,Check,Paid
+948,1,8,8/23/2022,System upgrades,2267.4,Employee Benefits Co.,Credit Card,Paid
+949,1,8,8/2/2022,Hardware purchases,7480.02,Telecom Egypt,Credit Card,Overdue
+950,1,8,8/19/2022,System upgrades,6462.72,Insurance Group Egypt,Credit Card,Paid
+951,1,9,8/27/2022,Staff training programs,1003.52,Software Corp.,Bank Transfer,Pending
+952,1,9,8/19/2022,External trainers,709.92,Sanitech Co.,Check,Paid
+953,1,10,8/15/2022,Office supplies,4449.84,Insurance Group Egypt,Credit Card,Pending
+954,1,10,8/24/2022,Bank charges,4874.67,Accounting Firm,Bank Transfer,Paid
+955,1,10,8/12/2022,Legal fees,1644.65,Print House Co.,Check,Paid
+956,1,10,8/22/2022,Accounting services,6761.67,Print House Co.,Check,Paid
+957,1,1,9/21/2022,Management salaries,95050.77,Restaurant Supply,Check,Paid
+958,1,1,9/14/2022,Staff salaries,120114.91,Kitchen Equipment Co.,Bank Transfer,Paid
+959,1,1,9/14/2022,Management salaries,68861.02,Legal Associates,Check,Paid
+960,1,1,9/8/2022,Overtime payments,122357.76,Kitchen Equipment Co.,Check,Pending
+961,1,2,9/2/2022,Water bill,18210.26,Property Guard,Credit Card,Paid
+962,1,2,9/7/2022,Electricity bill,18999.79,Marketing Solutions Ltd.,Bank Transfer,Pending
+963,1,2,9/13/2022,Gas bill,16930.79,Creative Agency,Cash,Paid
+964,1,2,9/12/2022,Electricity bill,20884.06,Building Services Co.,Check,Paid
+965,1,3,9/21/2022,Online advertising,9689.13,Certification Center,Bank Transfer,Overdue
+966,1,3,9/9/2022,Print advertising,7089.74,Beverage Suppliers,Bank Transfer,Paid
+967,1,3,9/7/2022,Print advertising,8202.76,Digital Media Group,Credit Card,Paid
+968,1,4,9/12/2022,Building maintenance,3617.92,Kitchen Equipment Co.,Credit Card,Paid
+969,1,4,9/5/2022,Equipment repair,6959.34,Certification Center,Bank Transfer,Paid
+970,1,4,9/3/2022,Building maintenance,1917.87,Digital Media Group,Bank Transfer,Paid
+971,1,4,9/11/2022,Building maintenance,6839.59,Creative Agency,Credit Card,Paid
+972,1,5,9/17/2022,Restaurant supplies,18269.99,Marketing Solutions Ltd.,Credit Card,Paid
+973,1,5,9/20/2022,Food supplies,25420.99,Creative Agency,Cash,Paid
+974,1,5,9/24/2022,Food supplies,27099.05,Laundry Services,Cash,Paid
+975,1,5,9/13/2022,Kitchen equipment,10768.44,Cleaning Solutions,Credit Card,Paid
+976,1,6,9/28/2022,Sanitization products,1652.42,Property Guard,Bank Transfer,Paid
+977,1,6,9/2/2022,Cleaning chemicals,3507.36,Property Guard,Cash,Paid
+978,1,6,9/5/2022,Housekeeping supplies,3505.93,Cleaning Solutions,Credit Card,Paid
+979,1,7,9/25/2022,Property insurance,4276.78,Cleaning Solutions,Cash,Paid
+980,1,7,9/9/2022,Liability insurance,10139.28,Tech Solutions,Check,Paid
+981,1,7,9/20/2022,Equipment insurance,8420.69,Software Corp.,Check,Paid
+982,1,7,9/9/2022,Liability insurance,6609.07,Creative Agency,Bank Transfer,Paid
+983,1,8,9/15/2022,Hardware purchases,3754.64,Accounting Firm,Credit Card,Paid
+984,1,8,9/7/2022,IT support,3381.34,Kitchen Equipment Co.,Credit Card,Pending
+985,1,8,9/10/2022,IT support,3633.41,Bank of Egypt,Cash,Paid
+986,1,9,9/4/2022,Staff training programs,768.29,Accounting Firm,Credit Card,Paid
+987,1,9,9/14/2022,External trainers,1232.36,Marketing Solutions Ltd.,Bank Transfer,Paid
+988,1,9,9/12/2022,Certification courses,1829.46,Delta Gas Company,Cash,Pending
+989,1,10,9/13/2022,Accounting services,2216.45,Bank of Egypt,Credit Card,Paid
+990,1,10,9/20/2022,Accounting services,1963.29,Restaurant Supply,Cash,Pending
+991,1,10,9/21/2022,Bank charges,5526.52,Education Plus,Cash,Paid
+992,1,10,9/4/2022,Bank charges,5398.04,Insurance Group Egypt,Credit Card,Paid
+993,1,1,10/23/2022,Bonus payments,128370.65,Maintenance Plus,Credit Card,Paid
+994,1,1,10/14/2022,Management salaries,146618.22,Certification Center,Bank Transfer,Paid
+995,1,2,10/1/2022,Electricity bill,18793.47,Bank of Egypt,Cash,Pending
+996,1,2,10/26/2022,Telecommunications,9802.82,Laundry Services,Credit Card,Paid
+997,1,3,10/7/2022,Social media marketing,11834.78,Elevator Tech,Cash,Paid
+998,1,3,10/14/2022,Online advertising,14436.95,Elevator Tech,Cash,Pending
+999,1,4,10/6/2022,Building maintenance,6022.35,Damietta Electric Co.,Cash,Paid
+1000,1,4,10/22/2022,HVAC maintenance,4457.57,HVAC Systems Ltd.,Check,Paid
+1001,1,5,10/8/2022,Food supplies,27496.32,Software Corp.,Check,Paid
+1002,1,5,10/1/2022,Restaurant supplies,14607.51,Creative Agency,Cash,Paid
+1003,1,5,10/22/2022,Food supplies,27747.1,Professional Development,Credit Card,Pending
+1004,1,6,10/2/2022,Laundry supplies,2377.71,System Integrators,Bank Transfer,Pending
+1005,1,6,10/2/2022,Laundry supplies,1673.36,Digital Media Group,Credit Card,Paid
+1006,1,7,10/2/2022,Employee insurance,8704.73,Insurance Group Egypt,Cash,Paid
+1007,1,7,10/21/2022,Equipment insurance,4503.51,Telecom Egypt,Bank Transfer,Paid
+1008,1,7,10/4/2022,Employee insurance,5397.48,Delta Gas Company,Check,Paid
+1009,1,8,10/19/2022,IT support,7026.45,Accounting Firm,Cash,Paid
+1010,1,8,10/2/2022,System upgrades,7517.49,Bank of Egypt,Check,Pending
+1011,1,9,10/22/2022,Training materials,900.1,Employee Benefits Co.,Check,Paid
+1012,1,9,10/23/2022,Training materials,2486.67,Education Plus,Bank Transfer,Paid
+1013,1,9,10/19/2022,Staff training programs,2123.32,Cleaning Solutions,Bank Transfer,Paid
+1014,1,9,10/22/2022,Certification courses,518.81,Professional Development,Check,Paid
+1015,1,10,10/13/2022,Accounting services,5437.51,HVAC Systems Ltd.,Cash,Paid
+1016,1,10,10/24/2022,Accounting services,2428.04,Office Depot Egypt,Check,Paid
+1017,1,10,10/14/2022,Legal fees,6349.11,Municipal Water Authority,Bank Transfer,Paid
+1018,1,10,10/2/2022,Accounting services,1868.34,Food Distributors Egypt,Cash,Paid
+1019,1,1,11/26/2022,Bonus payments,111630.37,Liability Solutions,Bank Transfer,Paid
+1020,1,1,11/26/2022,Bonus payments,83767.73,Software Corp.,Check,Paid
+1021,1,1,11/20/2022,Staff salaries,81126.54,Delta Gas Company,Cash,Paid
+1022,1,2,11/20/2022,Water bill,12027.89,Print House Co.,Check,Paid
+1023,1,2,11/18/2022,Gas bill,18020.03,Software Corp.,Check,Pending
+1024,1,2,11/20/2022,Telecommunications,5124.44,Food Distributors Egypt,Check,Pending
+1025,1,3,11/27/2022,Promotional materials,6709.65,Delta Gas Company,Check,Pending
+1026,1,3,11/18/2022,Online advertising,7620.44,Digital Media Group,Credit Card,Paid
+1027,1,4,11/15/2022,Equipment repair,8751.88,Delta Gas Company,Credit Card,Paid
+1028,1,4,11/3/2022,HVAC maintenance,2353.59,HVAC Systems Ltd.,Credit Card,Paid
+1029,1,4,11/27/2022,HVAC maintenance,6386.48,Education Plus,Check,Paid
+1030,1,5,11/18/2022,Restaurant supplies,25444.17,Professional Development,Check,Paid
+1031,1,5,11/13/2022,Restaurant supplies,19251.93,Accounting Firm,Credit Card,Paid
+1032,1,5,11/15/2022,Kitchen equipment,14302.15,System Integrators,Check,Paid
+1033,1,6,11/27/2022,Sanitization products,2882.1,Delta Gas Company,Bank Transfer,Paid
+1034,1,6,11/26/2022,Housekeeping supplies,3466.89,Beverage Suppliers,Bank Transfer,Paid
+1035,1,7,11/10/2022,Employee insurance,3260.53,Sanitech Co.,Check,Overdue
+1036,1,7,11/20/2022,Employee insurance,11867.03,Cleaning Solutions,Cash,Paid
+1037,1,8,11/8/2022,Hardware purchases,6579.74,Employee Benefits Co.,Check,Paid
+1038,1,8,11/8/2022,Hardware purchases,3254.64,Building Services Co.,Cash,Paid
+1039,1,8,11/28/2022,IT support,4841.08,Cleaning Solutions,Bank Transfer,Paid
+1040,1,9,11/22/2022,External trainers,2395.36,Maintenance Plus,Bank Transfer,Paid
+1041,1,9,11/11/2022,Certification courses,2061.24,Liability Solutions,Credit Card,Paid
+1042,1,10,11/4/2022,Legal fees,5875.22,Education Plus,Credit Card,Paid
+1043,1,10,11/28/2022,Accounting services,1333.15,Tech Solutions,Bank Transfer,Pending
+1044,1,10,11/9/2022,Legal fees,2524.44,Liability Solutions,Bank Transfer,Paid
+1045,1,1,12/9/2022,Bonus payments,134391.54,Elevator Tech,Credit Card,Paid
+1046,1,1,12/26/2022,Management salaries,146378.46,HVAC Systems Ltd.,Credit Card,Pending
+1047,1,1,12/23/2022,Bonus payments,80996.74,HVAC Systems Ltd.,Cash,Paid
+1048,1,1,12/16/2022,Management salaries,123941.76,Liability Solutions,Bank Transfer,Paid
+1049,1,2,12/1/2022,Telecommunications,11663.25,Municipal Water Authority,Cash,Pending
+1050,1,2,12/1/2022,Electricity bill,19957.52,Maintenance Plus,Bank Transfer,Paid
+1051,1,2,12/12/2022,Telecommunications,9642.28,IT Support Services,Cash,Paid
+1052,1,2,12/17/2022,Gas bill,24569.69,Marketing Solutions Ltd.,Bank Transfer,Paid
+1053,1,3,12/26/2022,Promotional materials,9387.81,Accounting Firm,Bank Transfer,Paid
+1054,1,3,12/4/2022,Social media marketing,12104.8,Delta Gas Company,Cash,Paid
+1055,1,4,12/27/2022,HVAC maintenance,2848.71,Maintenance Plus,Credit Card,Paid
+1056,1,4,12/12/2022,Elevator service,1280.64,System Integrators,Cash,Paid
+1057,1,5,12/6/2022,Beverage purchases,13039.21,Maintenance Plus,Bank Transfer,Paid
+1058,1,5,12/26/2022,Food supplies,17710.5,Digital Media Group,Check,Paid
+1059,1,6,12/3/2022,Sanitization products,2244.6,System Integrators,Check,Paid
+1060,1,6,12/24/2022,Laundry supplies,2637.04,Telecom Egypt,Check,Paid
+1061,1,6,12/15/2022,Sanitization products,4534.4,Elevator Tech,Bank Transfer,Paid
+1062,1,7,12/5/2022,Liability insurance,9666.48,Bank of Egypt,Bank Transfer,Pending
+1063,1,7,12/24/2022,Employee insurance,7734.22,Beverage Suppliers,Cash,Paid
+1064,1,7,12/23/2022,Property insurance,8937.2,Beverage Suppliers,Bank Transfer,Paid
+1065,1,8,12/16/2022,Software licenses,5499.16,Housekeeping Supplies Ltd.,Cash,Paid
+1066,1,8,12/10/2022,IT support,4956.67,Delta Gas Company,Credit Card,Paid
+1067,1,8,12/27/2022,System upgrades,6754.33,Professional Development,Check,Paid
+1068,1,8,12/21/2022,System upgrades,7060.43,Building Services Co.,Bank Transfer,Paid
+1069,1,9,12/3/2022,Training materials,1065.64,Training Institute,Credit Card,Paid
+1070,1,9,12/21/2022,Certification courses,2300,Maintenance Plus,Cash,Paid
+1071,1,10,12/27/2022,Accounting services,2513.05,Training Institute,Credit Card,Paid
+1072,1,10,12/18/2022,Legal fees,6903.93,Liability Solutions,Bank Transfer,Paid
+1073,1,10,12/20/2022,Legal fees,6881.25,Property Guard,Cash,Paid
+1074,1,1,1/22/2023,Management salaries,130057.58,Office Depot Egypt,Check,Paid
+1075,1,1,1/21/2023,Bonus payments,128568.83,Bank of Egypt,Check,Paid
+1076,1,2,1/4/2023,Electricity bill,8512.81,Insurance Group Egypt,Check,Paid
+1077,1,2,1/13/2023,Electricity bill,13685.86,Beverage Suppliers,Check,Paid
+1078,1,3,1/26/2023,Online advertising,13605.11,Kitchen Equipment Co.,Bank Transfer,Overdue
+1079,1,3,1/23/2023,Social media marketing,11327.01,HVAC Systems Ltd.,Check,Paid
+1080,1,4,1/21/2023,Equipment repair,9084.31,Delta Gas Company,Cash,Paid
+1081,1,4,1/2/2023,Equipment repair,6956.97,Insurance Group Egypt,Cash,Paid
+1082,1,4,1/1/2023,HVAC maintenance,8247.28,Print House Co.,Bank Transfer,Paid
+1083,1,4,1/3/2023,Elevator service,7556.04,Professional Development,Bank Transfer,Pending
+1084,1,5,1/19/2023,Restaurant supplies,9700.58,Municipal Water Authority,Credit Card,Paid
+1085,1,5,1/1/2023,Food supplies,9223.35,Liability Solutions,Cash,Pending
+1086,1,6,1/10/2023,Sanitization products,4083.62,Training Institute,Check,Paid
+1087,1,6,1/13/2023,Cleaning chemicals,1710.78,Delta Gas Company,Bank Transfer,Paid
+1088,1,6,1/12/2023,Cleaning chemicals,3818.78,Maintenance Plus,Credit Card,Paid
+1089,1,6,1/22/2023,Cleaning chemicals,1819.78,Cleaning Solutions,Credit Card,Paid
+1090,1,7,1/20/2023,Employee insurance,10121.39,Professional Development,Credit Card,Paid
+1091,1,7,1/23/2023,Liability insurance,10872.59,System Integrators,Bank Transfer,Paid
+1092,1,7,1/16/2023,Liability insurance,11734.64,HVAC Systems Ltd.,Cash,Pending
+1093,1,8,1/23/2023,System upgrades,2462.3,Restaurant Supply,Bank Transfer,Paid
+1094,1,8,1/23/2023,Software licenses,7479.27,Insurance Group Egypt,Check,Pending
+1095,1,8,1/10/2023,IT support,7780.85,HVAC Systems Ltd.,Check,Pending
+1096,1,9,1/26/2023,Training materials,757.39,Employee Benefits Co.,Cash,Paid
+1097,1,9,1/15/2023,Training materials,2578.02,Professional Development,Credit Card,Paid
+1098,1,10,1/18/2023,Bank charges,4686.54,Telecom Egypt,Cash,Paid
+1099,1,10,1/3/2023,Office supplies,4849.58,Telecom Egypt,Credit Card,Paid
+1100,1,1,2/19/2023,Management salaries,143016.48,HVAC Systems Ltd.,Bank Transfer,Paid
+1101,1,1,2/27/2023,Management salaries,85590.31,Digital Media Group,Credit Card,Paid
+1102,1,1,2/5/2023,Management salaries,55348.15,Tech Solutions,Bank Transfer,Paid
+1103,1,2,2/1/2023,Gas bill,11531.96,HVAC Systems Ltd.,Cash,Paid
+1104,1,2,2/27/2023,Water bill,22747.68,Marketing Solutions Ltd.,Cash,Paid
+1105,1,3,2/16/2023,Print advertising,11612.95,Beverage Suppliers,Bank Transfer,Paid
+1106,1,3,2/10/2023,Social media marketing,2815.48,Sanitech Co.,Bank Transfer,Paid
+1107,1,3,2/17/2023,Promotional materials,3311.11,Delta Gas Company,Cash,Paid
+1108,1,4,2/1/2023,Elevator service,9002.1,IT Support Services,Credit Card,Paid
+1109,1,4,2/25/2023,Equipment repair,5475.98,Liability Solutions,Cash,Pending
+1110,1,4,2/5/2023,Equipment repair,4842.25,HVAC Systems Ltd.,Check,Pending
+1111,1,5,2/11/2023,Kitchen equipment,25842.84,Sanitech Co.,Bank Transfer,Paid
+1112,1,5,2/22/2023,Food supplies,21871.26,Laundry Services,Cash,Paid
+1113,1,6,2/23/2023,Cleaning chemicals,1902.57,HVAC Systems Ltd.,Credit Card,Paid
+1114,1,6,2/26/2023,Sanitization products,3945.33,Maintenance Plus,Check,Paid
+1115,1,6,2/3/2023,Laundry supplies,1899.51,Liability Solutions,Check,Paid
+1116,1,7,2/12/2023,Liability insurance,10546.92,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+1117,1,7,2/2/2023,Equipment insurance,8389.32,Software Corp.,Check,Paid
+1118,1,7,2/2/2023,Employee insurance,8553.01,Tech Solutions,Check,Pending
+1119,1,7,2/3/2023,Equipment insurance,5377.04,Bank of Egypt,Check,Paid
+1120,1,8,2/3/2023,Hardware purchases,2181.81,Education Plus,Bank Transfer,Paid
+1121,1,8,2/13/2023,IT support,4439.78,Office Depot Egypt,Credit Card,Paid
+1122,1,9,2/8/2023,Certification courses,1970.99,Creative Agency,Check,Paid
+1123,1,9,2/13/2023,External trainers,1699.22,Damietta Electric Co.,Cash,Paid
+1124,1,10,2/17/2023,Bank charges,3537.99,Restaurant Supply,Cash,Paid
+1125,1,10,2/28/2023,Bank charges,6543.81,Insurance Group Egypt,Bank Transfer,Paid
+1126,1,10,2/3/2023,Legal fees,7244.27,Software Corp.,Bank Transfer,Overdue
+1127,1,10,2/22/2023,Accounting services,5137.17,Print House Co.,Bank Transfer,Paid
+1128,1,1,3/21/2023,Overtime payments,97859.74,Beverage Suppliers,Credit Card,Paid
+1129,1,1,3/20/2023,Staff salaries,94007.18,Elevator Tech,Cash,Paid
+1130,1,1,3/23/2023,Management salaries,55605.22,Creative Agency,Bank Transfer,Paid
+1131,1,2,3/19/2023,Telecommunications,10488.81,Certification Center,Cash,Paid
+1132,1,2,3/26/2023,Telecommunications,20566.14,Sanitech Co.,Check,Paid
+1133,1,2,3/2/2023,Water bill,20708.76,Property Guard,Cash,Paid
+1134,1,3,3/13/2023,Promotional materials,2690.49,Elevator Tech,Check,Pending
+1135,1,3,3/20/2023,Social media marketing,7460.35,Bank of Egypt,Credit Card,Paid
+1136,1,3,3/27/2023,Promotional materials,4513.57,Property Guard,Credit Card,Paid
+1137,1,4,3/10/2023,Elevator service,6610.75,Tech Solutions,Check,Paid
+1138,1,4,3/27/2023,HVAC maintenance,8236.18,Digital Media Group,Bank Transfer,Paid
+1139,1,5,3/28/2023,Beverage purchases,19445.73,Print House Co.,Check,Paid
+1140,1,5,3/27/2023,Kitchen equipment,8254.94,Creative Agency,Bank Transfer,Paid
+1141,1,5,3/12/2023,Food supplies,22849.76,Legal Associates,Credit Card,Paid
+1142,1,5,3/5/2023,Kitchen equipment,15676.93,Legal Associates,Bank Transfer,Paid
+1143,1,6,3/11/2023,Sanitization products,3671.05,Sanitech Co.,Check,Paid
+1144,1,6,3/14/2023,Laundry supplies,3711.15,Print House Co.,Bank Transfer,Pending
+1145,1,6,3/21/2023,Laundry supplies,4942.03,Legal Associates,Bank Transfer,Paid
+1146,1,6,3/3/2023,Laundry supplies,4176.44,Marketing Solutions Ltd.,Cash,Paid
+1147,1,7,3/9/2023,Equipment insurance,7431.78,Bank of Egypt,Check,Pending
+1148,1,7,3/23/2023,Property insurance,7348.09,IT Support Services,Cash,Pending
+1149,1,8,3/8/2023,Hardware purchases,6946.75,Food Distributors Egypt,Bank Transfer,Pending
+1150,1,8,3/6/2023,Hardware purchases,7552.11,Telecom Egypt,Bank Transfer,Paid
+1151,1,9,3/15/2023,Staff training programs,2381.67,Kitchen Equipment Co.,Check,Paid
+1152,1,9,3/20/2023,External trainers,2180.41,Certification Center,Credit Card,Paid
+1153,1,9,3/4/2023,Certification courses,1325.72,Bank of Egypt,Cash,Paid
+1154,1,10,3/6/2023,Legal fees,5189.69,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+1155,1,10,3/14/2023,Legal fees,4327.85,Insurance Group Egypt,Check,Paid
+1156,1,10,3/9/2023,Accounting services,7562.99,Digital Media Group,Credit Card,Overdue
+1157,1,10,3/26/2023,Accounting services,7023.44,System Integrators,Check,Pending
+1158,1,1,4/21/2023,Overtime payments,86630.26,Bank of Egypt,Bank Transfer,Paid
+1159,1,1,4/17/2023,Bonus payments,132992.05,Bank of Egypt,Cash,Paid
+1160,1,1,4/26/2023,Bonus payments,101505.84,Insurance Group Egypt,Check,Paid
+1161,1,1,4/21/2023,Staff salaries,107171.22,Print House Co.,Check,Paid
+1162,1,2,4/24/2023,Telecommunications,6955.05,Liability Solutions,Check,Paid
+1163,1,2,4/18/2023,Water bill,17629.52,Kitchen Equipment Co.,Bank Transfer,Paid
+1164,1,3,4/1/2023,Print advertising,10762.11,Elevator Tech,Credit Card,Pending
+1165,1,3,4/11/2023,Online advertising,8871.59,Tech Solutions,Cash,Paid
+1166,1,4,4/2/2023,Building maintenance,3458.79,Beverage Suppliers,Bank Transfer,Paid
+1167,1,4,4/5/2023,Building maintenance,7310.17,Education Plus,Bank Transfer,Paid
+1168,1,4,4/6/2023,Building maintenance,8076.02,Sanitech Co.,Bank Transfer,Paid
+1169,1,5,4/18/2023,Beverage purchases,10142.76,Print House Co.,Cash,Paid
+1170,1,5,4/2/2023,Restaurant supplies,17958.38,Training Institute,Check,Paid
+1171,1,5,4/9/2023,Restaurant supplies,10098.53,Telecom Egypt,Credit Card,Paid
+1172,1,6,4/10/2023,Laundry supplies,2199.46,HVAC Systems Ltd.,Cash,Paid
+1173,1,6,4/22/2023,Cleaning chemicals,1595.16,Professional Development,Check,Paid
+1174,1,7,4/13/2023,Employee insurance,3180.14,System Integrators,Credit Card,Paid
+1175,1,7,4/14/2023,Liability insurance,5142.92,Tech Solutions,Credit Card,Paid
+1176,1,7,4/9/2023,Liability insurance,7764.16,Insurance Group Egypt,Check,Paid
+1177,1,7,4/15/2023,Employee insurance,9411.58,HVAC Systems Ltd.,Bank Transfer,Paid
+1178,1,8,4/8/2023,Software licenses,3606.29,Certification Center,Bank Transfer,Paid
+1179,1,8,4/5/2023,Software licenses,3534.71,Food Distributors Egypt,Check,Paid
+1180,1,8,4/3/2023,Hardware purchases,2471.25,Delta Gas Company,Credit Card,Pending
+1181,1,9,4/28/2023,External trainers,2441.99,Employee Benefits Co.,Check,Paid
+1182,1,9,4/6/2023,External trainers,1015.36,Education Plus,Cash,Pending
+1183,1,9,4/9/2023,Training materials,2151.57,Elevator Tech,Check,Paid
+1184,1,10,4/10/2023,Office supplies,6933.76,Property Guard,Check,Paid
+1185,1,10,4/1/2023,Accounting services,5260.64,Beverage Suppliers,Credit Card,Paid
+1186,1,10,4/10/2023,Legal fees,1537.65,Property Guard,Credit Card,Paid
+1187,1,1,5/14/2023,Staff salaries,55360.82,Laundry Services,Bank Transfer,Paid
+1188,1,1,5/18/2023,Staff salaries,128001.32,Insurance Group Egypt,Credit Card,Paid
+1189,1,2,5/25/2023,Telecommunications,17417.1,Delta Gas Company,Cash,Paid
+1190,1,2,5/27/2023,Gas bill,20071.98,Beverage Suppliers,Bank Transfer,Paid
+1191,1,3,5/14/2023,Promotional materials,6577.83,Print House Co.,Credit Card,Paid
+1192,1,3,5/14/2023,Print advertising,6658.33,Liability Solutions,Cash,Paid
+1193,1,3,5/11/2023,Online advertising,12246.75,Training Institute,Cash,Paid
+1194,1,4,5/2/2023,Equipment repair,5846.4,Education Plus,Bank Transfer,Paid
+1195,1,4,5/4/2023,Equipment repair,3165.41,Digital Media Group,Credit Card,Paid
+1196,1,5,5/2/2023,Restaurant supplies,15607.2,Employee Benefits Co.,Cash,Paid
+1197,1,5,5/16/2023,Restaurant supplies,17530.18,Accounting Firm,Cash,Paid
+1198,1,6,5/27/2023,Sanitization products,2601.28,Software Corp.,Cash,Paid
+1199,1,6,5/28/2023,Sanitization products,4624.55,Legal Associates,Credit Card,Paid
+1200,1,6,5/1/2023,Sanitization products,3582.81,Print House Co.,Check,Paid
+1201,1,7,5/20/2023,Employee insurance,6019.8,Certification Center,Bank Transfer,Paid
+1202,1,7,5/19/2023,Equipment insurance,10658.72,Legal Associates,Cash,Paid
+1203,1,7,5/28/2023,Liability insurance,9707.39,Damietta Electric Co.,Check,Paid
+1204,1,7,5/15/2023,Liability insurance,9956.05,Sanitech Co.,Check,Paid
+1205,1,8,5/15/2023,System upgrades,2348.8,Property Guard,Cash,Paid
+1206,1,8,5/4/2023,Hardware purchases,6367.35,Digital Media Group,Cash,Paid
+1207,1,9,5/25/2023,External trainers,2188.37,System Integrators,Credit Card,Paid
+1208,1,9,5/15/2023,Certification courses,1690.44,Telecom Egypt,Cash,Paid
+1209,1,10,5/21/2023,Legal fees,2943.22,Food Distributors Egypt,Check,Paid
+1210,1,10,5/17/2023,Office supplies,2669.22,Restaurant Supply,Credit Card,Pending
+1211,1,10,5/15/2023,Bank charges,3320.3,Marketing Solutions Ltd.,Check,Pending
+1212,1,1,6/11/2023,Bonus payments,65299.01,Laundry Services,Cash,Paid
+1213,1,1,6/22/2023,Staff salaries,78121.19,Certification Center,Credit Card,Pending
+1214,1,2,6/2/2023,Telecommunications,21680.92,Print House Co.,Cash,Paid
+1215,1,2,6/17/2023,Telecommunications,22054.2,Insurance Group Egypt,Check,Paid
+1216,1,2,6/2/2023,Telecommunications,12068.74,Accounting Firm,Check,Paid
+1217,1,3,6/5/2023,Print advertising,13861.74,Telecom Egypt,Cash,Paid
+1218,1,3,6/17/2023,Online advertising,4938.91,Laundry Services,Check,Paid
+1219,1,3,6/8/2023,Promotional materials,14755.73,Digital Media Group,Bank Transfer,Paid
+1220,1,4,6/1/2023,HVAC maintenance,3829.45,Delta Gas Company,Bank Transfer,Paid
+1221,1,4,6/19/2023,Elevator service,1108.2,Telecom Egypt,Bank Transfer,Paid
+1222,1,4,6/16/2023,Elevator service,8632.22,Property Guard,Bank Transfer,Paid
+1223,1,5,6/16/2023,Kitchen equipment,19798.21,Software Corp.,Cash,Pending
+1224,1,5,6/5/2023,Food supplies,26934.56,Beverage Suppliers,Credit Card,Pending
+1225,1,5,6/11/2023,Kitchen equipment,25371.92,Creative Agency,Cash,Paid
+1226,1,5,6/25/2023,Food supplies,29923.94,Food Distributors Egypt,Bank Transfer,Paid
+1227,1,6,6/18/2023,Housekeeping supplies,4637.76,Building Services Co.,Bank Transfer,Paid
+1228,1,6,6/17/2023,Cleaning chemicals,3994.49,Beverage Suppliers,Check,Paid
+1229,1,7,6/21/2023,Employee insurance,5797.05,Print House Co.,Bank Transfer,Pending
+1230,1,7,6/7/2023,Employee insurance,11675.7,Elevator Tech,Cash,Pending
+1231,1,7,6/20/2023,Property insurance,3132.17,Laundry Services,Credit Card,Paid
+1232,1,8,6/6/2023,Software licenses,7989.41,Restaurant Supply,Cash,Paid
+1233,1,8,6/25/2023,Hardware purchases,4822.65,Telecom Egypt,Cash,Paid
+1234,1,8,6/1/2023,IT support,7090.29,Bank of Egypt,Credit Card,Paid
+1235,1,9,6/21/2023,External trainers,528.81,HVAC Systems Ltd.,Bank Transfer,Pending
+1236,1,9,6/8/2023,Staff training programs,1253.21,System Integrators,Cash,Paid
+1237,1,9,6/2/2023,External trainers,1257.72,Cleaning Solutions,Bank Transfer,Paid
+1238,1,10,6/14/2023,Office supplies,7269.73,Building Services Co.,Credit Card,Paid
+1239,1,10,6/14/2023,Bank charges,3432.38,Print House Co.,Cash,Paid
+1240,1,1,7/24/2023,Staff salaries,63503.97,Kitchen Equipment Co.,Bank Transfer,Paid
+1241,1,1,7/7/2023,Management salaries,146382.86,Elevator Tech,Cash,Paid
+1242,1,1,7/19/2023,Overtime payments,125162.03,Laundry Services,Check,Overdue
+1243,1,1,7/28/2023,Overtime payments,56951,Professional Development,Check,Overdue
+1244,1,2,7/11/2023,Water bill,6861.08,HVAC Systems Ltd.,Check,Pending
+1245,1,2,7/17/2023,Telecommunications,12791.87,Office Depot Egypt,Bank Transfer,Paid
+1246,1,2,7/14/2023,Telecommunications,10637,Housekeeping Supplies Ltd.,Credit Card,Paid
+1247,1,3,7/3/2023,Print advertising,8425.42,Legal Associates,Credit Card,Pending
+1248,1,3,7/8/2023,Promotional materials,5398.39,Software Corp.,Bank Transfer,Paid
+1249,1,3,7/17/2023,Promotional materials,9919.95,HVAC Systems Ltd.,Check,Paid
+1250,1,3,7/17/2023,Promotional materials,5634.28,Creative Agency,Credit Card,Paid
+1251,1,4,7/4/2023,Equipment repair,6502.44,Accounting Firm,Credit Card,Paid
+1252,1,4,7/27/2023,Building maintenance,5873.03,Accounting Firm,Credit Card,Paid
+1253,1,5,7/13/2023,Beverage purchases,23933.36,Telecom Egypt,Bank Transfer,Paid
+1254,1,5,7/20/2023,Kitchen equipment,26854.65,Marketing Solutions Ltd.,Cash,Paid
+1255,1,6,7/17/2023,Cleaning chemicals,4313.61,Property Guard,Cash,Paid
+1256,1,6,7/21/2023,Sanitization products,2944.55,Print House Co.,Credit Card,Paid
+1257,1,7,7/16/2023,Property insurance,6600.51,Kitchen Equipment Co.,Credit Card,Paid
+1258,1,7,7/10/2023,Equipment insurance,9431.98,Legal Associates,Cash,Paid
+1259,1,7,7/25/2023,Equipment insurance,4199.28,System Integrators,Bank Transfer,Paid
+1260,1,7,7/18/2023,Property insurance,5995.9,Property Guard,Cash,Paid
+1261,1,8,7/9/2023,IT support,5742.82,Beverage Suppliers,Credit Card,Paid
+1262,1,8,7/6/2023,IT support,5937.66,Restaurant Supply,Bank Transfer,Paid
+1263,1,8,7/21/2023,IT support,6384.27,Restaurant Supply,Check,Paid
+1264,1,8,7/11/2023,Hardware purchases,7133.18,Tech Solutions,Cash,Paid
+1265,1,9,7/2/2023,Certification courses,1576.76,Beverage Suppliers,Check,Paid
+1266,1,9,7/15/2023,Certification courses,1345.78,System Integrators,Credit Card,Pending
+1267,1,9,7/8/2023,Staff training programs,2125.13,Creative Agency,Cash,Overdue
+1268,1,9,7/15/2023,Certification courses,2225.33,Municipal Water Authority,Credit Card,Paid
+1269,1,10,7/6/2023,Bank charges,3729.12,Building Services Co.,Cash,Paid
+1270,1,10,7/19/2023,Office supplies,4927.85,Software Corp.,Check,Paid
+1271,1,10,7/21/2023,Office supplies,5187.98,IT Support Services,Cash,Paid
+1272,1,10,7/28/2023,Accounting services,1189.84,Legal Associates,Check,Paid
+1273,1,1,8/22/2023,Management salaries,85797.49,Beverage Suppliers,Credit Card,Pending
+1274,1,1,8/6/2023,Management salaries,92716.7,Telecom Egypt,Bank Transfer,Paid
+1275,1,2,8/12/2023,Electricity bill,22074.4,IT Support Services,Check,Paid
+1276,1,2,8/19/2023,Telecommunications,14458.88,Cleaning Solutions,Cash,Paid
+1277,1,3,8/28/2023,Social media marketing,9248.06,Digital Media Group,Cash,Paid
+1278,1,3,8/22/2023,Online advertising,3838.38,Building Services Co.,Check,Paid
+1279,1,3,8/15/2023,Social media marketing,10711.66,Liability Solutions,Credit Card,Paid
+1280,1,4,8/6/2023,Elevator service,4899.87,Marketing Solutions Ltd.,Credit Card,Paid
+1281,1,4,8/17/2023,Building maintenance,4761.61,System Integrators,Credit Card,Paid
+1282,1,5,8/21/2023,Restaurant supplies,24498.74,Restaurant Supply,Check,Paid
+1283,1,5,8/15/2023,Food supplies,10180.6,Bank of Egypt,Credit Card,Overdue
+1284,1,5,8/10/2023,Food supplies,13140.53,Municipal Water Authority,Credit Card,Pending
+1285,1,5,8/24/2023,Food supplies,18099.33,Delta Gas Company,Bank Transfer,Overdue
+1286,1,6,8/7/2023,Sanitization products,2671.38,IT Support Services,Cash,Paid
+1287,1,6,8/7/2023,Laundry supplies,2087.27,Marketing Solutions Ltd.,Cash,Paid
+1288,1,6,8/18/2023,Sanitization products,3511.13,Digital Media Group,Check,Paid
+1289,1,7,8/11/2023,Employee insurance,4821.33,Delta Gas Company,Bank Transfer,Paid
+1290,1,7,8/26/2023,Liability insurance,3663.71,Education Plus,Check,Paid
+1291,1,7,8/17/2023,Property insurance,6041.83,Kitchen Equipment Co.,Cash,Paid
+1292,1,7,8/8/2023,Equipment insurance,7858.3,Office Depot Egypt,Cash,Overdue
+1293,1,8,8/4/2023,Hardware purchases,2651.01,Employee Benefits Co.,Bank Transfer,Paid
+1294,1,8,8/15/2023,IT support,5534.52,Creative Agency,Check,Paid
+1295,1,8,8/7/2023,Hardware purchases,4618.4,Telecom Egypt,Bank Transfer,Paid
+1296,1,8,8/10/2023,Software licenses,7500.84,Software Corp.,Check,Paid
+1297,1,9,8/27/2023,Staff training programs,800.47,Tech Solutions,Credit Card,Paid
+1298,1,9,8/17/2023,Staff training programs,1488.06,Telecom Egypt,Bank Transfer,Paid
+1299,1,10,8/6/2023,Bank charges,3698.96,Training Institute,Credit Card,Paid
+1300,1,10,8/17/2023,Legal fees,6330.1,Print House Co.,Bank Transfer,Paid
+1301,1,1,9/5/2023,Management salaries,91568.05,Damietta Electric Co.,Credit Card,Paid
+1302,1,1,9/8/2023,Bonus payments,83667.8,Office Depot Egypt,Cash,Paid
+1303,1,1,9/15/2023,Overtime payments,147009.04,Cleaning Solutions,Credit Card,Paid
+1304,1,1,9/18/2023,Overtime payments,88681.05,Tech Solutions,Credit Card,Paid
+1305,1,2,9/6/2023,Telecommunications,23391.32,Housekeeping Supplies Ltd.,Cash,Paid
+1306,1,2,9/27/2023,Gas bill,10616.09,System Integrators,Cash,Paid
+1307,1,2,9/8/2023,Electricity bill,24519.48,Tech Solutions,Check,Paid
+1308,1,2,9/28/2023,Water bill,14554.14,Restaurant Supply,Cash,Paid
+1309,1,3,9/26/2023,Social media marketing,9194.86,Legal Associates,Credit Card,Paid
+1310,1,3,9/13/2023,Online advertising,6630.76,Insurance Group Egypt,Bank Transfer,Overdue
+1311,1,3,9/11/2023,Promotional materials,14992.2,Property Guard,Credit Card,Paid
+1312,1,3,9/4/2023,Social media marketing,7086.22,Employee Benefits Co.,Bank Transfer,Pending
+1313,1,4,9/28/2023,HVAC maintenance,3825.9,Certification Center,Cash,Paid
+1314,1,4,9/15/2023,HVAC maintenance,8243.79,Digital Media Group,Cash,Paid
+1315,1,5,9/21/2023,Restaurant supplies,8243.3,Creative Agency,Cash,Paid
+1316,1,5,9/9/2023,Restaurant supplies,17664.78,Restaurant Supply,Credit Card,Pending
+1317,1,6,9/1/2023,Laundry supplies,4157.11,Municipal Water Authority,Check,Paid
+1318,1,6,9/4/2023,Housekeeping supplies,3118.54,Food Distributors Egypt,Credit Card,Paid
+1319,1,7,9/5/2023,Equipment insurance,6967.7,Creative Agency,Cash,Paid
+1320,1,7,9/20/2023,Liability insurance,6389.77,Municipal Water Authority,Credit Card,Paid
+1321,1,7,9/28/2023,Liability insurance,7937.57,Marketing Solutions Ltd.,Credit Card,Paid
+1322,1,8,9/5/2023,Software licenses,5764.42,Accounting Firm,Cash,Pending
+1323,1,8,9/9/2023,IT support,5372.52,Education Plus,Cash,Paid
+1324,1,9,9/2/2023,Staff training programs,2824.17,Restaurant Supply,Cash,Paid
+1325,1,9,9/22/2023,Staff training programs,2979.9,Municipal Water Authority,Bank Transfer,Pending
+1326,1,9,9/25/2023,Certification courses,2365.29,Delta Gas Company,Credit Card,Paid
+1327,1,10,9/10/2023,Office supplies,2699.99,Property Guard,Bank Transfer,Paid
+1328,1,10,9/3/2023,Bank charges,7472.35,Telecom Egypt,Check,Paid
+1329,1,10,9/16/2023,Legal fees,1462.02,Legal Associates,Check,Paid
+1330,1,10,9/22/2023,Office supplies,4010.09,Bank of Egypt,Cash,Paid
+1331,1,1,10/18/2023,Staff salaries,146305.96,Education Plus,Bank Transfer,Paid
+1332,1,1,10/16/2023,Bonus payments,129891.9,Beverage Suppliers,Check,Pending
+1333,1,2,10/3/2023,Gas bill,11743.64,Legal Associates,Bank Transfer,Paid
+1334,1,2,10/25/2023,Water bill,17320.93,Restaurant Supply,Check,Paid
+1335,1,2,10/2/2023,Telecommunications,17852.49,Restaurant Supply,Cash,Paid
+1336,1,2,10/23/2023,Water bill,11916.97,IT Support Services,Credit Card,Paid
+1337,1,3,10/11/2023,Social media marketing,12016.4,IT Support Services,Check,Paid
+1338,1,3,10/6/2023,Promotional materials,11971.3,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+1339,1,4,10/12/2023,Building maintenance,2696.49,Training Institute,Credit Card,Paid
+1340,1,4,10/15/2023,Equipment repair,6660.44,Legal Associates,Credit Card,Paid
+1341,1,5,10/6/2023,Food supplies,16438.18,Sanitech Co.,Credit Card,Paid
+1342,1,5,10/22/2023,Restaurant supplies,23556.25,Marketing Solutions Ltd.,Bank Transfer,Paid
+1343,1,5,10/9/2023,Food supplies,25901.61,Delta Gas Company,Credit Card,Paid
+1344,1,5,10/4/2023,Food supplies,15573.22,IT Support Services,Credit Card,Paid
+1345,1,6,10/11/2023,Laundry supplies,2840.64,Insurance Group Egypt,Cash,Paid
+1346,1,6,10/21/2023,Housekeeping supplies,2290.04,Sanitech Co.,Credit Card,Paid
+1347,1,7,10/9/2023,Equipment insurance,11405.74,Legal Associates,Cash,Paid
+1348,1,7,10/20/2023,Equipment insurance,9566.95,Elevator Tech,Bank Transfer,Overdue
+1349,1,8,10/24/2023,Software licenses,5943.63,Delta Gas Company,Bank Transfer,Paid
+1350,1,8,10/23/2023,Hardware purchases,3381.42,Software Corp.,Cash,Paid
+1351,1,8,10/4/2023,System upgrades,2188.2,Municipal Water Authority,Cash,Pending
+1352,1,8,10/16/2023,System upgrades,2997.11,Creative Agency,Check,Paid
+1353,1,9,10/23/2023,External trainers,2722.43,Software Corp.,Cash,Paid
+1354,1,9,10/10/2023,Training materials,1743.22,Cleaning Solutions,Check,Paid
+1355,1,10,10/12/2023,Accounting services,1214.56,Education Plus,Credit Card,Paid
+1356,1,10,10/18/2023,Office supplies,4183.28,Laundry Services,Cash,Paid
+1357,1,1,11/19/2023,Overtime payments,80699.98,Telecom Egypt,Cash,Paid
+1358,1,1,11/16/2023,Management salaries,89226.16,Delta Gas Company,Check,Paid
+1359,1,2,11/13/2023,Telecommunications,15090.29,HVAC Systems Ltd.,Credit Card,Pending
+1360,1,2,11/22/2023,Gas bill,11074.57,Professional Development,Check,Paid
+1361,1,2,11/24/2023,Telecommunications,20976.3,Certification Center,Check,Paid
+1362,1,3,11/25/2023,Promotional materials,3774.23,Maintenance Plus,Credit Card,Paid
+1363,1,3,11/4/2023,Social media marketing,8917,Elevator Tech,Bank Transfer,Paid
+1364,1,3,11/11/2023,Online advertising,8100.33,Beverage Suppliers,Check,Paid
+1365,1,3,11/15/2023,Online advertising,8542.66,Legal Associates,Cash,Paid
+1366,1,4,11/13/2023,Equipment repair,9127.77,Software Corp.,Credit Card,Paid
+1367,1,4,11/18/2023,Elevator service,4404.27,Property Guard,Check,Paid
+1368,1,5,11/27/2023,Food supplies,22427.84,Cleaning Solutions,Credit Card,Paid
+1369,1,5,11/26/2023,Kitchen equipment,27613.36,Food Distributors Egypt,Bank Transfer,Paid
+1370,1,5,11/13/2023,Food supplies,18942.42,Marketing Solutions Ltd.,Credit Card,Paid
+1371,1,6,11/26/2023,Laundry supplies,4719.25,Beverage Suppliers,Credit Card,Paid
+1372,1,6,11/22/2023,Sanitization products,3928.32,Print House Co.,Cash,Paid
+1373,1,6,11/25/2023,Laundry supplies,1603.15,Property Guard,Bank Transfer,Paid
+1374,1,6,11/5/2023,Sanitization products,1827.38,HVAC Systems Ltd.,Credit Card,Pending
+1375,1,7,11/22/2023,Liability insurance,5016.77,Property Guard,Cash,Paid
+1376,1,7,11/7/2023,Liability insurance,7913.59,HVAC Systems Ltd.,Cash,Paid
+1377,1,8,11/27/2023,System upgrades,3788.12,Professional Development,Check,Paid
+1378,1,8,11/14/2023,IT support,3883.38,Delta Gas Company,Cash,Paid
+1379,1,8,11/14/2023,System upgrades,5859.63,Digital Media Group,Cash,Paid
+1380,1,8,11/26/2023,IT support,7472.95,Sanitech Co.,Credit Card,Paid
+1381,1,9,11/9/2023,Training materials,1030.31,Tech Solutions,Bank Transfer,Paid
+1382,1,9,11/25/2023,Staff training programs,1810.48,Accounting Firm,Bank Transfer,Paid
+1383,1,9,11/13/2023,Certification courses,2599.27,Cleaning Solutions,Check,Paid
+1384,1,9,11/4/2023,External trainers,2206.95,Food Distributors Egypt,Check,Paid
+1385,1,10,11/20/2023,Office supplies,3306.85,Laundry Services,Credit Card,Paid
+1386,1,10,11/21/2023,Office supplies,7947.78,Certification Center,Credit Card,Paid
+1387,1,10,11/8/2023,Accounting services,4787,Digital Media Group,Bank Transfer,Paid
+1388,1,1,12/15/2023,Overtime payments,135127.99,Marketing Solutions Ltd.,Credit Card,Paid
+1389,1,1,12/9/2023,Staff salaries,86218.7,Restaurant Supply,Credit Card,Pending
+1390,1,1,12/1/2023,Management salaries,54598.37,Laundry Services,Cash,Paid
+1391,1,1,12/10/2023,Management salaries,112836.66,Training Institute,Cash,Paid
+1392,1,2,12/23/2023,Gas bill,13282.54,Housekeeping Supplies Ltd.,Check,Paid
+1393,1,2,12/7/2023,Telecommunications,10925.06,Liability Solutions,Check,Paid
+1394,1,3,12/4/2023,Social media marketing,2503.83,Creative Agency,Check,Paid
+1395,1,3,12/11/2023,Online advertising,7913.02,Liability Solutions,Bank Transfer,Paid
+1396,1,3,12/10/2023,Print advertising,7769.7,Marketing Solutions Ltd.,Cash,Paid
+1397,1,4,12/9/2023,HVAC maintenance,3538.01,Professional Development,Cash,Paid
+1398,1,4,12/11/2023,HVAC maintenance,1782.82,Accounting Firm,Bank Transfer,Paid
+1399,1,5,12/5/2023,Food supplies,13713.19,Accounting Firm,Bank Transfer,Paid
+1400,1,5,12/19/2023,Restaurant supplies,28488.62,Food Distributors Egypt,Check,Paid
+1401,1,6,12/23/2023,Cleaning chemicals,4945.95,Professional Development,Check,Paid
+1402,1,6,12/16/2023,Housekeeping supplies,4054.38,Restaurant Supply,Check,Paid
+1403,1,6,12/23/2023,Housekeeping supplies,3730.89,Beverage Suppliers,Credit Card,Paid
+1404,1,6,12/26/2023,Laundry supplies,4813.9,Maintenance Plus,Bank Transfer,Paid
+1405,1,7,12/26/2023,Equipment insurance,6766.92,Elevator Tech,Cash,Paid
+1406,1,7,12/16/2023,Property insurance,7899.48,Building Services Co.,Check,Overdue
+1407,1,7,12/15/2023,Equipment insurance,9301.49,Certification Center,Bank Transfer,Paid
+1408,1,8,12/27/2023,IT support,4752.4,Cleaning Solutions,Cash,Pending
+1409,1,8,12/3/2023,IT support,3987.93,Municipal Water Authority,Check,Paid
+1410,1,8,12/25/2023,System upgrades,2210.21,Professional Development,Credit Card,Overdue
+1411,1,8,12/20/2023,System upgrades,5062.06,Beverage Suppliers,Check,Paid
+1412,1,9,12/9/2023,Staff training programs,2607.56,Kitchen Equipment Co.,Bank Transfer,Paid
+1413,1,9,12/18/2023,Certification courses,1447.98,Property Guard,Credit Card,Paid
+1414,1,9,12/5/2023,External trainers,2495.07,Damietta Electric Co.,Cash,Paid
+1415,1,9,12/9/2023,External trainers,1356.35,Maintenance Plus,Check,Paid
+1416,1,10,12/20/2023,Accounting services,1153.77,Software Corp.,Cash,Paid
+1417,1,10,12/26/2023,Legal fees,1725.65,Cleaning Solutions,Cash,Paid
+1418,1,10,12/4/2023,Legal fees,2175.65,Delta Gas Company,Bank Transfer,Pending
+1419,1,10,12/28/2023,Office supplies,1506.9,Certification Center,Credit Card,Paid
+1420,1,1,1/24/2024,Bonus payments,68950.61,Liability Solutions,Credit Card,Pending
+1421,1,1,1/19/2024,Management salaries,116495.3,System Integrators,Check,Pending
+1422,1,2,1/18/2024,Water bill,9424.67,Accounting Firm,Bank Transfer,Paid
+1423,1,2,1/13/2024,Water bill,9274.48,Damietta Electric Co.,Credit Card,Paid
+1424,1,3,1/16/2024,Social media marketing,3903.35,IT Support Services,Bank Transfer,Paid
+1425,1,3,1/7/2024,Promotional materials,7070.64,Digital Media Group,Credit Card,Paid
+1426,1,4,1/26/2024,Elevator service,9417.37,IT Support Services,Credit Card,Paid
+1427,1,4,1/11/2024,HVAC maintenance,8739.86,Telecom Egypt,Cash,Paid
+1428,1,4,1/26/2024,Elevator service,1050.39,Building Services Co.,Credit Card,Pending
+1429,1,5,1/10/2024,Kitchen equipment,21215.9,Professional Development,Cash,Paid
+1430,1,5,1/1/2024,Beverage purchases,27200.25,HVAC Systems Ltd.,Cash,Paid
+1431,1,5,1/4/2024,Kitchen equipment,20765.67,Damietta Electric Co.,Credit Card,Overdue
+1432,1,6,1/25/2024,Housekeeping supplies,3452.09,Professional Development,Cash,Overdue
+1433,1,6,1/22/2024,Housekeeping supplies,1508.63,Sanitech Co.,Credit Card,Paid
+1434,1,6,1/25/2024,Cleaning chemicals,4378.74,Laundry Services,Credit Card,Paid
+1435,1,6,1/28/2024,Housekeeping supplies,4432.98,Restaurant Supply,Bank Transfer,Paid
+1436,1,7,1/20/2024,Employee insurance,9901.93,Professional Development,Check,Paid
+1437,1,7,1/13/2024,Equipment insurance,10958.26,Cleaning Solutions,Cash,Paid
+1438,1,7,1/27/2024,Liability insurance,11502.75,Municipal Water Authority,Credit Card,Paid
+1439,1,8,1/12/2024,Hardware purchases,5360.61,Maintenance Plus,Credit Card,Pending
+1440,1,8,1/9/2024,IT support,7180.37,Sanitech Co.,Credit Card,Paid
+1441,1,9,1/27/2024,Staff training programs,1349.19,Laundry Services,Credit Card,Paid
+1442,1,9,1/10/2024,Staff training programs,1598.07,Accounting Firm,Cash,Paid
+1443,1,9,1/10/2024,Training materials,2298.66,Bank of Egypt,Bank Transfer,Paid
+1444,1,9,1/28/2024,Training materials,1594.65,Damietta Electric Co.,Credit Card,Paid
+1445,1,10,1/12/2024,Legal fees,7481.63,Bank of Egypt,Cash,Paid
+1446,1,10,1/25/2024,Bank charges,5771.61,Damietta Electric Co.,Bank Transfer,Pending
+1447,1,1,2/25/2024,Staff salaries,54151.33,Legal Associates,Bank Transfer,Pending
+1448,1,1,2/17/2024,Staff salaries,126797.83,Software Corp.,Credit Card,Paid
+1449,1,1,2/18/2024,Management salaries,95522.5,Municipal Water Authority,Cash,Paid
+1450,1,2,2/13/2024,Telecommunications,22146.62,System Integrators,Cash,Paid
+1451,1,2,2/21/2024,Electricity bill,15748.89,Building Services Co.,Cash,Paid
+1452,1,3,2/4/2024,Print advertising,13431.21,Liability Solutions,Check,Pending
+1453,1,3,2/9/2024,Print advertising,12060.16,Training Institute,Credit Card,Pending
+1454,1,3,2/24/2024,Social media marketing,13977.1,Elevator Tech,Bank Transfer,Paid
+1455,1,3,2/10/2024,Print advertising,11319.06,Building Services Co.,Bank Transfer,Pending
+1456,1,4,2/20/2024,Elevator service,6287.7,Laundry Services,Credit Card,Pending
+1457,1,4,2/20/2024,HVAC maintenance,2217.89,IT Support Services,Credit Card,Paid
+1458,1,4,2/9/2024,Building maintenance,4073.87,Legal Associates,Cash,Paid
+1459,1,4,2/9/2024,Building maintenance,1512.02,Maintenance Plus,Check,Pending
+1460,1,5,2/20/2024,Kitchen equipment,9507.7,Office Depot Egypt,Credit Card,Paid
+1461,1,5,2/11/2024,Beverage purchases,10447.02,Marketing Solutions Ltd.,Credit Card,Paid
+1462,1,5,2/3/2024,Beverage purchases,16883.44,System Integrators,Credit Card,Paid
+1463,1,6,2/20/2024,Sanitization products,4459.98,Kitchen Equipment Co.,Credit Card,Paid
+1464,1,6,2/13/2024,Cleaning chemicals,1955.56,Restaurant Supply,Credit Card,Paid
+1465,1,6,2/22/2024,Cleaning chemicals,2868.14,Telecom Egypt,Bank Transfer,Paid
+1466,1,6,2/21/2024,Laundry supplies,3751.22,Education Plus,Credit Card,Paid
+1467,1,7,2/15/2024,Equipment insurance,9836.04,Delta Gas Company,Bank Transfer,Paid
+1468,1,7,2/28/2024,Employee insurance,3599.59,Damietta Electric Co.,Cash,Paid
+1469,1,8,2/23/2024,IT support,5278.91,Professional Development,Credit Card,Paid
+1470,1,8,2/5/2024,IT support,5634.51,Laundry Services,Check,Paid
+1471,1,9,2/27/2024,External trainers,1349.06,Damietta Electric Co.,Bank Transfer,Paid
+1472,1,9,2/8/2024,Certification courses,2334.03,Maintenance Plus,Credit Card,Paid
+1473,1,9,2/1/2024,Training materials,2496.96,Accounting Firm,Credit Card,Paid
+1474,1,10,2/27/2024,Accounting services,4995.11,Beverage Suppliers,Cash,Paid
+1475,1,10,2/4/2024,Legal fees,6606.82,Elevator Tech,Bank Transfer,Paid
+1476,1,1,3/11/2024,Staff salaries,78115.41,Print House Co.,Cash,Paid
+1477,1,1,3/28/2024,Management salaries,58180.81,Bank of Egypt,Cash,Paid
+1478,1,1,3/24/2024,Staff salaries,127718.44,Office Depot Egypt,Cash,Paid
+1479,1,2,3/6/2024,Gas bill,18971.69,Kitchen Equipment Co.,Bank Transfer,Paid
+1480,1,2,3/12/2024,Electricity bill,21114.31,System Integrators,Cash,Paid
+1481,1,2,3/12/2024,Electricity bill,16670.52,Telecom Egypt,Credit Card,Paid
+1482,1,3,3/14/2024,Print advertising,2720.28,Laundry Services,Credit Card,Paid
+1483,1,3,3/13/2024,Print advertising,4257.24,Liability Solutions,Cash,Paid
+1484,1,3,3/28/2024,Online advertising,10235.32,Restaurant Supply,Cash,Paid
+1485,1,3,3/13/2024,Social media marketing,8077.59,HVAC Systems Ltd.,Bank Transfer,Paid
+1486,1,4,3/21/2024,Equipment repair,5688.32,Maintenance Plus,Bank Transfer,Paid
+1487,1,4,3/12/2024,Building maintenance,3534.56,Print House Co.,Cash,Paid
+1488,1,4,3/8/2024,Elevator service,1814.04,Sanitech Co.,Cash,Pending
+1489,1,4,3/11/2024,HVAC maintenance,5608.29,HVAC Systems Ltd.,Cash,Paid
+1490,1,5,3/27/2024,Restaurant supplies,12186.44,Office Depot Egypt,Check,Paid
+1491,1,5,3/8/2024,Beverage purchases,21519.51,Software Corp.,Bank Transfer,Pending
+1492,1,6,3/7/2024,Laundry supplies,2381.21,Creative Agency,Check,Paid
+1493,1,6,3/23/2024,Sanitization products,1646.51,Housekeeping Supplies Ltd.,Check,Paid
+1494,1,6,3/26/2024,Housekeeping supplies,2236.53,Insurance Group Egypt,Bank Transfer,Paid
+1495,1,6,3/17/2024,Laundry supplies,4301.01,Certification Center,Bank Transfer,Paid
+1496,1,7,3/24/2024,Equipment insurance,7709.82,Print House Co.,Cash,Paid
+1497,1,7,3/4/2024,Liability insurance,4531.65,Municipal Water Authority,Credit Card,Paid
+1498,1,8,3/16/2024,IT support,4155.29,Laundry Services,Credit Card,Paid
+1499,1,8,3/21/2024,System upgrades,3694.19,Certification Center,Check,Pending
+1500,1,8,3/13/2024,IT support,2738.42,Telecom Egypt,Credit Card,Paid
+1501,1,9,3/15/2024,Staff training programs,2190.79,Professional Development,Bank Transfer,Paid
+1502,1,9,3/12/2024,Staff training programs,1109.98,Accounting Firm,Bank Transfer,Paid
+1503,1,10,3/13/2024,Legal fees,6595,Creative Agency,Credit Card,Paid
+1504,1,10,3/17/2024,Legal fees,1275.41,Education Plus,Credit Card,Paid
+1505,1,10,3/2/2024,Accounting services,7828.97,Bank of Egypt,Bank Transfer,Paid
+1506,1,10,3/21/2024,Accounting services,4892.36,Certification Center,Credit Card,Paid
+1507,1,1,4/8/2024,Management salaries,50578,Liability Solutions,Cash,Paid
+1508,1,1,4/21/2024,Bonus payments,129204.62,Professional Development,Bank Transfer,Paid
+1509,1,1,4/1/2024,Overtime payments,126382.59,Laundry Services,Bank Transfer,Paid
+1510,1,1,4/17/2024,Overtime payments,102200.01,Certification Center,Bank Transfer,Paid
+1511,1,2,4/23/2024,Water bill,5104.41,Creative Agency,Cash,Paid
+1512,1,2,4/18/2024,Water bill,19063.33,Elevator Tech,Bank Transfer,Paid
+1513,1,2,4/9/2024,Electricity bill,17557.24,Certification Center,Bank Transfer,Paid
+1514,1,3,4/26/2024,Promotional materials,14711.99,Certification Center,Credit Card,Paid
+1515,1,3,4/12/2024,Promotional materials,7981.69,Training Institute,Check,Paid
+1516,1,3,4/16/2024,Social media marketing,10723.2,Training Institute,Bank Transfer,Paid
+1517,1,4,4/25/2024,HVAC maintenance,8241.36,Employee Benefits Co.,Check,Pending
+1518,1,4,4/13/2024,Equipment repair,9385.85,Property Guard,Credit Card,Pending
+1519,1,4,4/15/2024,Equipment repair,6557.33,System Integrators,Cash,Paid
+1520,1,5,4/25/2024,Restaurant supplies,17430.78,Elevator Tech,Credit Card,Paid
+1521,1,5,4/19/2024,Beverage purchases,19541.66,Sanitech Co.,Cash,Paid
+1522,1,5,4/23/2024,Beverage purchases,23483.18,Delta Gas Company,Credit Card,Paid
+1523,1,6,4/1/2024,Laundry supplies,1920.39,Municipal Water Authority,Credit Card,Paid
+1524,1,6,4/9/2024,Housekeeping supplies,1900.05,Elevator Tech,Bank Transfer,Paid
+1525,1,7,4/27/2024,Property insurance,5408.36,Digital Media Group,Bank Transfer,Paid
+1526,1,7,4/1/2024,Employee insurance,11427.37,Building Services Co.,Check,Paid
+1527,1,7,4/22/2024,Liability insurance,4666.88,Food Distributors Egypt,Check,Pending
+1528,1,7,4/2/2024,Property insurance,8967.57,Building Services Co.,Credit Card,Paid
+1529,1,8,4/18/2024,Software licenses,2365.62,Delta Gas Company,Credit Card,Paid
+1530,1,8,4/28/2024,Hardware purchases,6455.2,Tech Solutions,Check,Paid
+1531,1,8,4/28/2024,System upgrades,6207.71,Beverage Suppliers,Check,Paid
+1532,1,8,4/13/2024,Hardware purchases,2187.31,Tech Solutions,Credit Card,Pending
+1533,1,9,4/3/2024,Certification courses,1547.91,Municipal Water Authority,Credit Card,Paid
+1534,1,9,4/24/2024,External trainers,1944.02,Beverage Suppliers,Cash,Paid
+1535,1,9,4/5/2024,Certification courses,1684.89,Building Services Co.,Check,Paid
+1536,1,10,4/6/2024,Accounting services,5662.6,Damietta Electric Co.,Credit Card,Paid
+1537,1,10,4/24/2024,Office supplies,5206.14,Tech Solutions,Cash,Paid
+1538,1,10,4/2/2024,Bank charges,5926.11,Digital Media Group,Cash,Paid
+1539,1,10,4/4/2024,Bank charges,1659.45,Cleaning Solutions,Credit Card,Paid
+1540,1,1,5/27/2024,Staff salaries,139254.59,Elevator Tech,Credit Card,Paid
+1541,1,1,5/21/2024,Overtime payments,79879.45,Certification Center,Bank Transfer,Paid
+1542,1,1,5/2/2024,Staff salaries,100774.78,Kitchen Equipment Co.,Credit Card,Pending
+1543,1,1,5/4/2024,Management salaries,138499.62,Sanitech Co.,Bank Transfer,Pending
+1544,1,2,5/10/2024,Electricity bill,17345.22,Tech Solutions,Cash,Paid
+1545,1,2,5/11/2024,Electricity bill,20306.45,Marketing Solutions Ltd.,Bank Transfer,Paid
+1546,1,3,5/18/2024,Online advertising,12856.35,Education Plus,Bank Transfer,Paid
+1547,1,3,5/26/2024,Promotional materials,9826.1,System Integrators,Cash,Overdue
+1548,1,4,5/16/2024,HVAC maintenance,6315.53,Employee Benefits Co.,Bank Transfer,Paid
+1549,1,4,5/17/2024,Equipment repair,5862.63,Software Corp.,Check,Paid
+1550,1,4,5/14/2024,Equipment repair,5078.22,Sanitech Co.,Credit Card,Paid
+1551,1,4,5/4/2024,Elevator service,8438.87,Print House Co.,Credit Card,Paid
+1552,1,5,5/9/2024,Food supplies,14103.39,Creative Agency,Credit Card,Paid
+1553,1,5,5/12/2024,Food supplies,25941.26,Housekeeping Supplies Ltd.,Check,Pending
+1554,1,6,5/24/2024,Cleaning chemicals,4218.71,Telecom Egypt,Credit Card,Paid
+1555,1,6,5/20/2024,Housekeeping supplies,3926.92,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+1556,1,6,5/10/2024,Housekeeping supplies,4599.38,Insurance Group Egypt,Credit Card,Paid
+1557,1,6,5/12/2024,Laundry supplies,4407.07,IT Support Services,Bank Transfer,Paid
+1558,1,7,5/8/2024,Liability insurance,4459.51,Liability Solutions,Cash,Paid
+1559,1,7,5/24/2024,Property insurance,11712.94,Damietta Electric Co.,Check,Paid
+1560,1,7,5/28/2024,Employee insurance,11365.38,Creative Agency,Cash,Paid
+1561,1,8,5/22/2024,Software licenses,5601.67,Training Institute,Check,Paid
+1562,1,8,5/20/2024,Hardware purchases,3306.31,Telecom Egypt,Credit Card,Paid
+1563,1,8,5/17/2024,Hardware purchases,6517.46,Office Depot Egypt,Check,Paid
+1564,1,9,5/7/2024,Training materials,1056.66,Liability Solutions,Check,Paid
+1565,1,9,5/13/2024,External trainers,1742.69,System Integrators,Bank Transfer,Pending
+1566,1,9,5/10/2024,Training materials,1381.71,Kitchen Equipment Co.,Check,Paid
+1567,1,10,5/3/2024,Accounting services,3293.95,Elevator Tech,Check,Paid
+1568,1,10,5/24/2024,Office supplies,3567.13,Office Depot Egypt,Bank Transfer,Pending
+1569,1,10,5/6/2024,Legal fees,7605.67,IT Support Services,Check,Pending
+1570,1,1,6/5/2024,Bonus payments,73547.61,Food Distributors Egypt,Check,Pending
+1571,1,1,6/27/2024,Staff salaries,96851.29,Insurance Group Egypt,Bank Transfer,Paid
+1572,1,2,6/1/2024,Gas bill,7650.5,Maintenance Plus,Credit Card,Paid
+1573,1,2,6/20/2024,Electricity bill,8449.25,Cleaning Solutions,Credit Card,Paid
+1574,1,3,6/13/2024,Online advertising,13567.78,Print House Co.,Cash,Paid
+1575,1,3,6/8/2024,Promotional materials,12952.18,Office Depot Egypt,Cash,Paid
+1576,1,4,6/7/2024,HVAC maintenance,8722.37,Maintenance Plus,Cash,Paid
+1577,1,4,6/5/2024,Equipment repair,1439.2,Legal Associates,Bank Transfer,Paid
+1578,1,4,6/1/2024,HVAC maintenance,6874.58,Software Corp.,Check,Paid
+1579,1,4,6/11/2024,Elevator service,1292.07,Telecom Egypt,Check,Paid
+1580,1,5,6/12/2024,Kitchen equipment,13721.57,Employee Benefits Co.,Cash,Paid
+1581,1,5,6/10/2024,Food supplies,8545.98,Property Guard,Bank Transfer,Overdue
+1582,1,5,6/18/2024,Food supplies,27280.43,Legal Associates,Bank Transfer,Paid
+1583,1,5,6/13/2024,Restaurant supplies,29627.71,Bank of Egypt,Check,Paid
+1584,1,6,6/20/2024,Housekeeping supplies,2656.88,Delta Gas Company,Credit Card,Overdue
+1585,1,6,6/27/2024,Cleaning chemicals,2925.81,Tech Solutions,Bank Transfer,Overdue
+1586,1,7,6/3/2024,Liability insurance,10261.71,Accounting Firm,Bank Transfer,Paid
+1587,1,7,6/15/2024,Equipment insurance,9222.56,Software Corp.,Check,Paid
+1588,1,7,6/21/2024,Equipment insurance,4615.24,Certification Center,Bank Transfer,Pending
+1589,1,7,6/10/2024,Property insurance,8913.17,Kitchen Equipment Co.,Check,Paid
+1590,1,8,6/17/2024,System upgrades,4858.81,Insurance Group Egypt,Check,Overdue
+1591,1,8,6/2/2024,IT support,5523.5,Maintenance Plus,Check,Paid
+1592,1,8,6/3/2024,IT support,7724.02,Training Institute,Check,Pending
+1593,1,8,6/8/2024,IT support,7591.92,IT Support Services,Credit Card,Paid
+1594,1,9,6/28/2024,External trainers,2243.5,Building Services Co.,Check,Paid
+1595,1,9,6/28/2024,Training materials,1138.16,Building Services Co.,Check,Paid
+1596,1,10,6/8/2024,Legal fees,5573.67,Maintenance Plus,Cash,Paid
+1597,1,10,6/10/2024,Bank charges,7958.84,Beverage Suppliers,Bank Transfer,Paid
+1598,1,10,6/28/2024,Bank charges,7296.72,Sanitech Co.,Check,Pending
+1599,1,1,7/26/2024,Management salaries,148879.47,Education Plus,Credit Card,Paid
+1600,1,1,7/2/2024,Management salaries,96149.96,Tech Solutions,Credit Card,Paid
+1601,1,2,7/2/2024,Gas bill,15451.94,Cleaning Solutions,Check,Pending
+1602,1,2,7/17/2024,Water bill,8992.98,Accounting Firm,Check,Pending
+1603,1,2,7/24/2024,Telecommunications,5903.68,Cleaning Solutions,Cash,Paid
+1604,1,2,7/6/2024,Telecommunications,24593.38,Accounting Firm,Bank Transfer,Overdue
+1605,1,3,7/13/2024,Online advertising,12675.94,Maintenance Plus,Credit Card,Overdue
+1606,1,3,7/20/2024,Print advertising,14087.85,Property Guard,Bank Transfer,Paid
+1607,1,4,7/28/2024,Elevator service,4096.93,Software Corp.,Credit Card,Paid
+1608,1,4,7/21/2024,Elevator service,9337.55,Office Depot Egypt,Bank Transfer,Paid
+1609,1,4,7/20/2024,Building maintenance,8407.71,Elevator Tech,Credit Card,Paid
+1610,1,4,7/10/2024,Building maintenance,5010.39,Property Guard,Credit Card,Paid
+1611,1,5,7/27/2024,Kitchen equipment,24733.89,Delta Gas Company,Credit Card,Paid
+1612,1,5,7/10/2024,Beverage purchases,10724.14,Beverage Suppliers,Credit Card,Paid
+1613,1,5,7/11/2024,Beverage purchases,25964.04,Cleaning Solutions,Bank Transfer,Pending
+1614,1,5,7/12/2024,Beverage purchases,10599.87,Accounting Firm,Credit Card,Paid
+1615,1,6,7/10/2024,Housekeeping supplies,2148.32,HVAC Systems Ltd.,Check,Paid
+1616,1,6,7/11/2024,Housekeeping supplies,2971.58,Digital Media Group,Check,Paid
+1617,1,7,7/21/2024,Equipment insurance,5091.78,Education Plus,Cash,Paid
+1618,1,7,7/28/2024,Employee insurance,10475.59,Liability Solutions,Cash,Paid
+1619,1,7,7/9/2024,Property insurance,8788.24,Building Services Co.,Check,Paid
+1620,1,7,7/5/2024,Property insurance,10583.16,Employee Benefits Co.,Check,Paid
+1621,1,8,7/14/2024,System upgrades,2357.62,Education Plus,Cash,Pending
+1622,1,8,7/12/2024,Hardware purchases,2969.21,Laundry Services,Check,Pending
+1623,1,8,7/2/2024,Software licenses,7145.53,Software Corp.,Check,Paid
+1624,1,8,7/13/2024,Hardware purchases,3256.93,Tech Solutions,Bank Transfer,Paid
+1625,1,9,7/25/2024,Training materials,2179.78,Marketing Solutions Ltd.,Credit Card,Paid
+1626,1,9,7/8/2024,Certification courses,606.09,Municipal Water Authority,Bank Transfer,Paid
+1627,1,9,7/2/2024,Staff training programs,2708.67,Elevator Tech,Cash,Pending
+1628,1,9,7/28/2024,Certification courses,2153.46,Property Guard,Check,Paid
+1629,1,10,7/27/2024,Bank charges,1236.63,Education Plus,Bank Transfer,Paid
+1630,1,10,7/21/2024,Accounting services,6155.49,Bank of Egypt,Cash,Pending
+1631,1,10,7/1/2024,Legal fees,5005.14,Print House Co.,Check,Paid
+1632,1,1,8/27/2024,Overtime payments,57393.38,Elevator Tech,Bank Transfer,Paid
+1633,1,1,8/27/2024,Management salaries,127927.41,Legal Associates,Cash,Paid
+1634,1,1,8/11/2024,Overtime payments,110070.6,Kitchen Equipment Co.,Credit Card,Paid
+1635,1,2,8/12/2024,Telecommunications,12523.06,Legal Associates,Bank Transfer,Pending
+1636,1,2,8/26/2024,Telecommunications,12967.08,Beverage Suppliers,Bank Transfer,Paid
+1637,1,3,8/22/2024,Social media marketing,13384.18,Municipal Water Authority,Check,Paid
+1638,1,3,8/5/2024,Promotional materials,14298.39,Housekeeping Supplies Ltd.,Cash,Paid
+1639,1,3,8/3/2024,Online advertising,12771.8,Legal Associates,Cash,Paid
+1640,1,3,8/6/2024,Print advertising,3036.35,System Integrators,Credit Card,Paid
+1641,1,4,8/2/2024,Equipment repair,7451.12,Kitchen Equipment Co.,Cash,Pending
+1642,1,4,8/1/2024,HVAC maintenance,8504.8,Food Distributors Egypt,Cash,Paid
+1643,1,4,8/18/2024,Equipment repair,2459.93,Property Guard,Credit Card,Paid
+1644,1,5,8/13/2024,Restaurant supplies,16035.86,Damietta Electric Co.,Cash,Paid
+1645,1,5,8/8/2024,Kitchen equipment,29180.29,IT Support Services,Check,Paid
+1646,1,5,8/27/2024,Beverage purchases,29035.41,Software Corp.,Bank Transfer,Paid
+1647,1,6,8/20/2024,Laundry supplies,4858.21,Laundry Services,Credit Card,Paid
+1648,1,6,8/12/2024,Housekeeping supplies,2664.21,Building Services Co.,Check,Paid
+1649,1,6,8/21/2024,Cleaning chemicals,2645.76,Sanitech Co.,Cash,Paid
+1650,1,6,8/23/2024,Cleaning chemicals,3378.54,Creative Agency,Credit Card,Paid
+1651,1,7,8/25/2024,Liability insurance,11573.03,Sanitech Co.,Check,Paid
+1652,1,7,8/1/2024,Equipment insurance,8789.73,IT Support Services,Cash,Paid
+1653,1,7,8/8/2024,Liability insurance,4496.38,Food Distributors Egypt,Bank Transfer,Paid
+1654,1,8,8/26/2024,Software licenses,6278.22,Education Plus,Credit Card,Paid
+1655,1,8,8/7/2024,IT support,2450.43,Delta Gas Company,Bank Transfer,Paid
+1656,1,8,8/2/2024,Software licenses,6593.16,Print House Co.,Check,Overdue
+1657,1,8,8/10/2024,System upgrades,4706.62,Creative Agency,Check,Paid
+1658,1,9,8/4/2024,Certification courses,536.73,Software Corp.,Check,Paid
+1659,1,9,8/4/2024,External trainers,768.9,Training Institute,Check,Paid
+1660,1,10,8/13/2024,Accounting services,7372.33,Laundry Services,Credit Card,Pending
+1661,1,10,8/27/2024,Legal fees,4874.66,Sanitech Co.,Cash,Paid
+1662,1,10,8/25/2024,Office supplies,5319.13,Property Guard,Credit Card,Paid
+1663,1,1,9/21/2024,Bonus payments,140632.89,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+1664,1,1,9/20/2024,Overtime payments,146303.78,Maintenance Plus,Cash,Paid
+1665,1,2,9/12/2024,Gas bill,9353.55,Elevator Tech,Check,Paid
+1666,1,2,9/14/2024,Water bill,19133,Kitchen Equipment Co.,Bank Transfer,Paid
+1667,1,2,9/5/2024,Water bill,15680.65,Insurance Group Egypt,Check,Paid
+1668,1,3,9/23/2024,Promotional materials,7371.34,Telecom Egypt,Check,Paid
+1669,1,3,9/15/2024,Social media marketing,11527.54,Employee Benefits Co.,Cash,Paid
+1670,1,3,9/2/2024,Promotional materials,13742.94,Liability Solutions,Cash,Overdue
+1671,1,4,9/24/2024,HVAC maintenance,4754.64,IT Support Services,Check,Paid
+1672,1,4,9/27/2024,Elevator service,6420.51,Legal Associates,Cash,Paid
+1673,1,4,9/12/2024,Elevator service,6813.6,IT Support Services,Bank Transfer,Paid
+1674,1,5,9/5/2024,Food supplies,9888.7,Municipal Water Authority,Cash,Paid
+1675,1,5,9/12/2024,Kitchen equipment,21597.73,Creative Agency,Bank Transfer,Paid
+1676,1,6,9/14/2024,Sanitization products,2268.2,Creative Agency,Check,Paid
+1677,1,6,9/28/2024,Laundry supplies,4871.25,HVAC Systems Ltd.,Credit Card,Paid
+1678,1,6,9/5/2024,Cleaning chemicals,2323.13,Education Plus,Check,Paid
+1679,1,6,9/17/2024,Cleaning chemicals,2521.11,Cleaning Solutions,Cash,Paid
+1680,1,7,9/11/2024,Liability insurance,4258.39,Sanitech Co.,Cash,Paid
+1681,1,7,9/19/2024,Employee insurance,3602.52,Accounting Firm,Bank Transfer,Paid
+1682,1,7,9/6/2024,Equipment insurance,3751.52,Professional Development,Cash,Paid
+1683,1,8,9/1/2024,Software licenses,3900.56,Food Distributors Egypt,Bank Transfer,Paid
+1684,1,8,9/2/2024,Hardware purchases,4789.16,Liability Solutions,Check,Paid
+1685,1,8,9/11/2024,Software licenses,5752.81,Software Corp.,Cash,Paid
+1686,1,8,9/4/2024,System upgrades,7416.16,Insurance Group Egypt,Check,Paid
+1687,1,9,9/18/2024,External trainers,2503.3,Training Institute,Cash,Paid
+1688,1,9,9/3/2024,Staff training programs,1962.53,Education Plus,Bank Transfer,Paid
+1689,1,9,9/19/2024,External trainers,2802.23,Municipal Water Authority,Cash,Paid
+1690,1,10,9/17/2024,Office supplies,6768.31,Cleaning Solutions,Check,Paid
+1691,1,10,9/9/2024,Accounting services,7766.02,Elevator Tech,Bank Transfer,Pending
+1692,1,10,9/9/2024,Accounting services,2337.81,Telecom Egypt,Cash,Paid
+1693,1,10,9/4/2024,Office supplies,6077.2,Professional Development,Check,Pending
+1694,1,1,10/25/2024,Management salaries,99190.05,Property Guard,Credit Card,Paid
+1695,1,1,10/16/2024,Bonus payments,114937.84,Beverage Suppliers,Check,Paid
+1696,1,2,10/25/2024,Telecommunications,21997.86,System Integrators,Check,Paid
+1697,1,2,10/2/2024,Gas bill,5681.62,Office Depot Egypt,Check,Paid
+1698,1,3,10/5/2024,Promotional materials,6555.9,Digital Media Group,Cash,Paid
+1699,1,3,10/6/2024,Online advertising,8800.62,Damietta Electric Co.,Check,Paid
+1700,1,3,10/15/2024,Promotional materials,8097.02,Municipal Water Authority,Bank Transfer,Pending
+1701,1,3,10/2/2024,Online advertising,7650.56,IT Support Services,Check,Overdue
+1702,1,4,10/2/2024,Elevator service,7165.14,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+1703,1,4,10/3/2024,Elevator service,6697.44,Print House Co.,Check,Pending
+1704,1,4,10/4/2024,Equipment repair,4240.79,Print House Co.,Cash,Paid
+1705,1,5,10/12/2024,Beverage purchases,18237.86,Maintenance Plus,Cash,Paid
+1706,1,5,10/11/2024,Food supplies,25045.29,Training Institute,Bank Transfer,Paid
+1707,1,6,10/4/2024,Laundry supplies,2033.05,HVAC Systems Ltd.,Cash,Paid
+1708,1,6,10/28/2024,Housekeeping supplies,4945.75,IT Support Services,Check,Paid
+1709,1,7,10/15/2024,Property insurance,5493.31,Accounting Firm,Bank Transfer,Paid
+1710,1,7,10/19/2024,Equipment insurance,6046.8,Beverage Suppliers,Credit Card,Paid
+1711,1,7,10/7/2024,Employee insurance,8083.77,Kitchen Equipment Co.,Bank Transfer,Paid
+1712,1,8,10/18/2024,Hardware purchases,4429.93,Legal Associates,Cash,Paid
+1713,1,8,10/6/2024,System upgrades,4232,Creative Agency,Check,Paid
+1714,1,8,10/18/2024,System upgrades,7002.17,Liability Solutions,Check,Paid
+1715,1,8,10/23/2024,IT support,3332.64,Bank of Egypt,Check,Paid
+1716,1,9,10/5/2024,Training materials,2540.27,System Integrators,Credit Card,Paid
+1717,1,9,10/16/2024,Training materials,2142.39,Digital Media Group,Credit Card,Paid
+1718,1,9,10/13/2024,Training materials,694.93,Sanitech Co.,Cash,Paid
+1719,1,9,10/19/2024,Staff training programs,1679.7,Professional Development,Bank Transfer,Paid
+1720,1,10,10/19/2024,Bank charges,4212.53,Building Services Co.,Cash,Paid
+1721,1,10,10/16/2024,Accounting services,2487.91,Training Institute,Credit Card,Overdue
+1722,1,1,11/5/2024,Staff salaries,133641.77,Restaurant Supply,Credit Card,Paid
+1723,1,1,11/13/2024,Bonus payments,75812.36,Food Distributors Egypt,Check,Paid
+1724,1,1,11/11/2024,Management salaries,129900.32,Municipal Water Authority,Check,Paid
+1725,1,2,11/25/2024,Water bill,8215.6,Professional Development,Credit Card,Pending
+1726,1,2,11/8/2024,Electricity bill,20141.55,Professional Development,Cash,Paid
+1727,1,2,11/7/2024,Telecommunications,5890.06,Employee Benefits Co.,Cash,Overdue
+1728,1,2,11/22/2024,Telecommunications,6849.51,HVAC Systems Ltd.,Credit Card,Paid
+1729,1,3,11/9/2024,Print advertising,2200.23,System Integrators,Cash,Paid
+1730,1,3,11/1/2024,Online advertising,5587.66,Education Plus,Bank Transfer,Paid
+1731,1,3,11/20/2024,Promotional materials,13944.45,Training Institute,Credit Card,Paid
+1732,1,3,11/16/2024,Print advertising,11015.5,Liability Solutions,Credit Card,Overdue
+1733,1,4,11/28/2024,HVAC maintenance,4399.93,Professional Development,Credit Card,Paid
+1734,1,4,11/4/2024,Building maintenance,8605.39,Tech Solutions,Bank Transfer,Pending
+1735,1,4,11/3/2024,Elevator service,9075.36,Liability Solutions,Check,Paid
+1736,1,4,11/9/2024,Building maintenance,8946.6,HVAC Systems Ltd.,Credit Card,Paid
+1737,1,5,11/27/2024,Restaurant supplies,15750.15,IT Support Services,Bank Transfer,Paid
+1738,1,5,11/19/2024,Beverage purchases,17106.33,System Integrators,Credit Card,Paid
+1739,1,6,11/12/2024,Sanitization products,4581.99,Creative Agency,Cash,Paid
+1740,1,6,11/9/2024,Housekeeping supplies,4024.38,Maintenance Plus,Check,Paid
+1741,1,7,11/3/2024,Property insurance,10442.89,Bank of Egypt,Bank Transfer,Paid
+1742,1,7,11/9/2024,Liability insurance,5204.57,Cleaning Solutions,Credit Card,Paid
+1743,1,8,11/7/2024,System upgrades,6211.82,Print House Co.,Credit Card,Paid
+1744,1,8,11/16/2024,Hardware purchases,2895.01,Education Plus,Cash,Paid
+1745,1,8,11/18/2024,Hardware purchases,7600.47,Legal Associates,Credit Card,Paid
+1746,1,9,11/9/2024,Staff training programs,933.38,Certification Center,Bank Transfer,Paid
+1747,1,9,11/5/2024,Training materials,2432.56,Maintenance Plus,Check,Paid
+1748,1,10,11/5/2024,Legal fees,4998.79,Digital Media Group,Check,Pending
+1749,1,10,11/20/2024,Legal fees,2106.46,Bank of Egypt,Check,Paid
+1750,1,1,12/14/2024,Staff salaries,129414.08,Damietta Electric Co.,Bank Transfer,Paid
+1751,1,1,12/3/2024,Staff salaries,62893.8,Tech Solutions,Credit Card,Paid
+1752,1,1,12/12/2024,Staff salaries,138151.02,Elevator Tech,Credit Card,Paid
+1753,1,2,12/14/2024,Telecommunications,8518.38,Digital Media Group,Bank Transfer,Paid
+1754,1,2,12/13/2024,Gas bill,10860.9,Training Institute,Cash,Paid
+1755,1,2,12/6/2024,Electricity bill,24367.84,Digital Media Group,Cash,Paid
+1756,1,3,12/25/2024,Promotional materials,9268.49,Office Depot Egypt,Check,Paid
+1757,1,3,12/10/2024,Promotional materials,8425.84,Kitchen Equipment Co.,Cash,Paid
+1758,1,4,12/21/2024,Elevator service,6899.7,Laundry Services,Bank Transfer,Paid
+1759,1,4,12/23/2024,HVAC maintenance,3241.29,Certification Center,Cash,Pending
+1760,1,5,12/3/2024,Food supplies,15459.18,Municipal Water Authority,Bank Transfer,Paid
+1761,1,5,12/16/2024,Kitchen equipment,27933.67,Legal Associates,Cash,Paid
+1762,1,5,12/2/2024,Restaurant supplies,11145.88,Software Corp.,Bank Transfer,Paid
+1763,1,5,12/7/2024,Beverage purchases,10654.21,Office Depot Egypt,Check,Paid
+1764,1,6,12/25/2024,Cleaning chemicals,4662.84,Insurance Group Egypt,Bank Transfer,Pending
+1765,1,6,12/14/2024,Sanitization products,4075.58,Marketing Solutions Ltd.,Cash,Paid
+1766,1,7,12/5/2024,Equipment insurance,10247.74,Building Services Co.,Credit Card,Paid
+1767,1,7,12/26/2024,Property insurance,9347.42,Cleaning Solutions,Check,Pending
+1768,1,7,12/24/2024,Equipment insurance,8030.69,Laundry Services,Bank Transfer,Paid
+1769,1,7,12/10/2024,Property insurance,3165.57,Kitchen Equipment Co.,Credit Card,Pending
+1770,1,8,12/23/2024,Software licenses,4549.67,HVAC Systems Ltd.,Credit Card,Pending
+1771,1,8,12/25/2024,IT support,6888.41,Training Institute,Credit Card,Paid
+1772,1,9,12/28/2024,Staff training programs,1717.63,Elevator Tech,Bank Transfer,Paid
+1773,1,9,12/5/2024,Training materials,2582.3,Print House Co.,Check,Paid
+1774,1,9,12/25/2024,Certification courses,2978.28,Insurance Group Egypt,Cash,Paid
+1775,1,9,12/2/2024,External trainers,1224.06,HVAC Systems Ltd.,Check,Paid
+1776,1,10,12/27/2024,Legal fees,7403.21,Cleaning Solutions,Credit Card,Paid
+1777,1,10,12/3/2024,Legal fees,3519.54,Software Corp.,Check,Pending
+1778,1,1,1/20/2025,Overtime payments,100941.95,Liability Solutions,Check,Paid
+1779,1,1,1/20/2025,Management salaries,88761.73,Cleaning Solutions,Bank Transfer,Paid
+1780,1,1,1/5/2025,Staff salaries,147377.55,Beverage Suppliers,Bank Transfer,Paid
+1781,1,2,1/25/2025,Electricity bill,5111.66,Telecom Egypt,Cash,Paid
+1782,1,2,1/16/2025,Telecommunications,21766.37,Sanitech Co.,Cash,Paid
+1783,1,3,1/18/2025,Promotional materials,14616.41,Print House Co.,Cash,Paid
+1784,1,3,1/26/2025,Print advertising,7989.59,Damietta Electric Co.,Cash,Pending
+1785,1,4,1/28/2025,Building maintenance,8454.71,Employee Benefits Co.,Credit Card,Paid
+1786,1,4,1/7/2025,Equipment repair,9652.83,Kitchen Equipment Co.,Credit Card,Paid
+1787,1,4,1/20/2025,Elevator service,6531.16,Creative Agency,Check,Paid
+1788,1,5,1/9/2025,Restaurant supplies,29612.45,Delta Gas Company,Check,Pending
+1789,1,5,1/26/2025,Restaurant supplies,8942.99,Maintenance Plus,Bank Transfer,Paid
+1790,1,6,1/13/2025,Housekeeping supplies,3061.34,Cleaning Solutions,Check,Overdue
+1791,1,6,1/28/2025,Sanitization products,3688.29,Creative Agency,Credit Card,Paid
+1792,1,6,1/11/2025,Housekeeping supplies,4592.72,Accounting Firm,Cash,Paid
+1793,1,6,1/12/2025,Sanitization products,3822.22,Delta Gas Company,Credit Card,Paid
+1794,1,7,1/21/2025,Property insurance,8164.58,Training Institute,Check,Pending
+1795,1,7,1/26/2025,Employee insurance,8913.99,Telecom Egypt,Cash,Paid
+1796,1,7,1/10/2025,Property insurance,3883.07,Marketing Solutions Ltd.,Credit Card,Pending
+1797,1,8,1/16/2025,Software licenses,7571.02,Employee Benefits Co.,Check,Pending
+1798,1,8,1/28/2025,Software licenses,5224.16,Beverage Suppliers,Cash,Paid
+1799,1,8,1/2/2025,System upgrades,4115.77,Municipal Water Authority,Cash,Paid
+1800,1,9,1/13/2025,Staff training programs,1838.76,Restaurant Supply,Bank Transfer,Paid
+1801,1,9,1/25/2025,Training materials,1314.32,Cleaning Solutions,Cash,Paid
+1802,1,9,1/15/2025,External trainers,2981.72,Property Guard,Check,Paid
+1803,1,10,1/19/2025,Legal fees,5852.33,Building Services Co.,Bank Transfer,Paid
+1804,1,10,1/2/2025,Legal fees,1880.74,Delta Gas Company,Bank Transfer,Paid
+1805,1,10,1/15/2025,Legal fees,2738.7,Restaurant Supply,Bank Transfer,Paid
+1806,1,1,2/17/2025,Staff salaries,116166.27,Tech Solutions,Credit Card,Paid
+1807,1,1,2/28/2025,Overtime payments,61917.88,Liability Solutions,Bank Transfer,Overdue
+1808,1,2,2/16/2025,Gas bill,19912.74,Software Corp.,Credit Card,Paid
+1809,1,2,2/22/2025,Electricity bill,21822.5,IT Support Services,Cash,Paid
+1810,1,2,2/4/2025,Electricity bill,21007.53,Insurance Group Egypt,Credit Card,Pending
+1811,1,2,2/6/2025,Water bill,8207.69,Elevator Tech,Credit Card,Paid
+1812,1,3,2/1/2025,Social media marketing,6197.58,Office Depot Egypt,Bank Transfer,Paid
+1813,1,3,2/17/2025,Promotional materials,7502.54,Laundry Services,Bank Transfer,Paid
+1814,1,4,2/12/2025,Equipment repair,5104.91,Training Institute,Check,Paid
+1815,1,4,2/14/2025,HVAC maintenance,8935.37,Marketing Solutions Ltd.,Cash,Paid
+1816,1,4,2/16/2025,Equipment repair,1059.56,Print House Co.,Check,Paid
+1817,1,5,2/26/2025,Kitchen equipment,13304.69,Bank of Egypt,Cash,Paid
+1818,1,5,2/6/2025,Food supplies,20591.79,Damietta Electric Co.,Credit Card,Paid
+1819,1,5,2/27/2025,Restaurant supplies,14947.04,Marketing Solutions Ltd.,Credit Card,Paid
+1820,1,6,2/18/2025,Sanitization products,2190.54,Bank of Egypt,Check,Pending
+1821,1,6,2/2/2025,Laundry supplies,3156.58,Beverage Suppliers,Cash,Pending
+1822,1,6,2/15/2025,Housekeeping supplies,4415.07,Accounting Firm,Cash,Paid
+1823,1,6,2/19/2025,Sanitization products,1812.25,Damietta Electric Co.,Check,Paid
+1824,1,7,2/22/2025,Equipment insurance,5843.52,Certification Center,Cash,Pending
+1825,1,7,2/11/2025,Employee insurance,11658.95,Housekeeping Supplies Ltd.,Cash,Paid
+1826,1,8,2/3/2025,Hardware purchases,4285.55,Property Guard,Bank Transfer,Paid
+1827,1,8,2/27/2025,Hardware purchases,7093.77,Marketing Solutions Ltd.,Credit Card,Paid
+1828,1,8,2/20/2025,IT support,2315.73,Beverage Suppliers,Credit Card,Paid
+1829,1,8,2/6/2025,System upgrades,7167.14,Property Guard,Check,Paid
+1830,1,9,2/10/2025,Certification courses,942.58,Creative Agency,Bank Transfer,Paid
+1831,1,9,2/17/2025,Staff training programs,2351.68,Damietta Electric Co.,Credit Card,Paid
+1832,1,9,2/9/2025,Certification courses,1097.67,Maintenance Plus,Bank Transfer,Paid
+1833,1,9,2/22/2025,Training materials,2011.09,Beverage Suppliers,Credit Card,Pending
+1834,1,10,2/19/2025,Bank charges,3516.02,Software Corp.,Bank Transfer,Paid
+1835,1,10,2/14/2025,Bank charges,5631.31,Municipal Water Authority,Check,Paid
+1836,1,10,2/21/2025,Accounting services,3074.87,Municipal Water Authority,Credit Card,Pending
+1837,1,1,3/4/2025,Management salaries,80402.38,Print House Co.,Cash,Paid
+1838,1,1,3/12/2025,Bonus payments,61804.2,Professional Development,Bank Transfer,Paid
+1839,1,1,3/7/2025,Bonus payments,68294.45,Telecom Egypt,Bank Transfer,Paid
+1840,1,1,3/11/2025,Overtime payments,87121.07,IT Support Services,Credit Card,Paid
+1841,1,2,3/17/2025,Telecommunications,23572.1,Maintenance Plus,Cash,Pending
+1842,1,2,3/12/2025,Gas bill,14814.17,Software Corp.,Check,Paid
+1843,1,2,3/22/2025,Telecommunications,15839.46,Marketing Solutions Ltd.,Bank Transfer,Paid
+1844,1,3,3/24/2025,Print advertising,7324.66,Training Institute,Cash,Paid
+1845,1,3,3/1/2025,Print advertising,2970.51,Liability Solutions,Check,Paid
+1846,1,3,3/9/2025,Social media marketing,10892.58,Kitchen Equipment Co.,Cash,Overdue
+1847,1,3,3/3/2025,Social media marketing,11082.06,Kitchen Equipment Co.,Cash,Paid
+1848,1,4,3/8/2025,Elevator service,3561.41,Marketing Solutions Ltd.,Check,Paid
+1849,1,4,3/16/2025,HVAC maintenance,6067.93,Software Corp.,Credit Card,Paid
+1850,1,4,3/17/2025,HVAC maintenance,4270.18,Accounting Firm,Credit Card,Paid
+1851,1,4,3/21/2025,Elevator service,4832.29,Professional Development,Check,Paid
+1852,1,5,3/22/2025,Food supplies,19885.93,Elevator Tech,Bank Transfer,Paid
+1853,1,5,3/16/2025,Food supplies,27850.52,Certification Center,Cash,Paid
+1854,1,6,3/6/2025,Cleaning chemicals,3747.89,Tech Solutions,Cash,Pending
+1855,1,6,3/9/2025,Cleaning chemicals,4051.85,System Integrators,Credit Card,Pending
+1856,1,6,3/26/2025,Laundry supplies,3691.62,Telecom Egypt,Check,Paid
+1857,1,6,3/7/2025,Sanitization products,3190.36,Delta Gas Company,Check,Pending
+1858,1,7,3/8/2025,Equipment insurance,4165.68,IT Support Services,Credit Card,Paid
+1859,1,7,3/12/2025,Liability insurance,9551.29,Building Services Co.,Bank Transfer,Paid
+1860,1,8,3/23/2025,Software licenses,5743.81,Professional Development,Bank Transfer,Paid
+1861,1,8,3/8/2025,Hardware purchases,4700.1,Elevator Tech,Check,Paid
+1862,1,9,3/18/2025,Training materials,2558.42,Delta Gas Company,Cash,Paid
+1863,1,9,3/11/2025,External trainers,1330.67,Laundry Services,Credit Card,Paid
+1864,1,10,3/5/2025,Office supplies,3019.97,Cleaning Solutions,Cash,Paid
+1865,1,10,3/15/2025,Office supplies,2601.96,Digital Media Group,Check,Paid
+1866,1,10,3/25/2025,Legal fees,5616.12,Beverage Suppliers,Credit Card,Paid
+1867,1,10,3/15/2025,Legal fees,4374.06,Housekeeping Supplies Ltd.,Check,Paid
+1868,1,1,4/5/2025,Staff salaries,58221.68,Certification Center,Credit Card,Paid
+1869,1,1,4/2/2025,Overtime payments,134149.16,Maintenance Plus,Cash,Paid
+1870,1,2,4/14/2025,Telecommunications,18117.35,Employee Benefits Co.,Credit Card,Paid
+1871,1,2,4/26/2025,Electricity bill,21309.92,Accounting Firm,Bank Transfer,Paid
+1872,1,2,4/4/2025,Water bill,12459.01,Liability Solutions,Bank Transfer,Paid
+1873,1,2,4/26/2025,Telecommunications,7006.57,Accounting Firm,Bank Transfer,Paid
+1874,1,3,4/25/2025,Online advertising,5717.02,Print House Co.,Check,Paid
+1875,1,3,4/19/2025,Promotional materials,3594.61,System Integrators,Credit Card,Paid
+1876,1,3,4/25/2025,Print advertising,6235.97,Laundry Services,Bank Transfer,Paid
+1877,1,3,4/22/2025,Print advertising,9635.85,Kitchen Equipment Co.,Cash,Paid
+1878,1,4,4/2/2025,Building maintenance,6704.86,Liability Solutions,Bank Transfer,Paid
+1879,1,4,4/19/2025,Equipment repair,5644.62,Cleaning Solutions,Check,Paid
+1880,1,5,4/26/2025,Food supplies,22471.53,Legal Associates,Credit Card,Paid
+1881,1,5,4/11/2025,Beverage purchases,20188.38,Laundry Services,Check,Paid
+1882,1,5,4/17/2025,Food supplies,22475.38,Office Depot Egypt,Credit Card,Pending
+1883,1,5,4/2/2025,Beverage purchases,25278.45,Restaurant Supply,Credit Card,Paid
+1884,1,6,4/8/2025,Cleaning chemicals,2045.06,Professional Development,Bank Transfer,Paid
+1885,1,6,4/26/2025,Laundry supplies,4096.12,Property Guard,Cash,Paid
+1886,1,7,4/17/2025,Equipment insurance,4687.24,IT Support Services,Check,Paid
+1887,1,7,4/22/2025,Equipment insurance,9357.58,Telecom Egypt,Credit Card,Paid
+1888,1,7,4/4/2025,Employee insurance,6269.78,Digital Media Group,Bank Transfer,Paid
+1889,1,8,4/27/2025,Hardware purchases,6833.49,IT Support Services,Check,Paid
+1890,1,8,4/5/2025,Software licenses,4891.33,Elevator Tech,Cash,Paid
+1891,1,8,4/22/2025,Hardware purchases,3298.32,Creative Agency,Cash,Paid
+1892,1,9,4/12/2025,External trainers,1879.94,Restaurant Supply,Check,Paid
+1893,1,9,4/20/2025,External trainers,2758.86,Beverage Suppliers,Check,Paid
+1894,1,10,4/15/2025,Office supplies,7141.94,Maintenance Plus,Bank Transfer,Paid
+1895,1,10,4/4/2025,Accounting services,7463.84,Restaurant Supply,Credit Card,Paid
+1896,1,10,4/18/2025,Accounting services,1296.63,Certification Center,Bank Transfer,Paid
+1897,1,10,4/13/2025,Accounting services,6707.27,Municipal Water Authority,Cash,Pending
+1898,1,1,5/22/2025,Overtime payments,137433.01,HVAC Systems Ltd.,Check,Paid
+1899,1,1,5/21/2025,Staff salaries,62078.87,IT Support Services,Bank Transfer,Paid
+1900,1,1,5/7/2025,Overtime payments,111994.75,Marketing Solutions Ltd.,Credit Card,Paid
+1901,1,1,5/16/2025,Bonus payments,60463.49,Print House Co.,Check,Paid
+1902,1,2,5/19/2025,Electricity bill,10162.04,HVAC Systems Ltd.,Cash,Pending
+1903,1,2,5/26/2025,Electricity bill,11219.82,Laundry Services,Bank Transfer,Paid
+1904,1,2,5/18/2025,Electricity bill,10610.75,Creative Agency,Credit Card,Paid
+1905,1,3,5/5/2025,Online advertising,5377.45,Property Guard,Check,Paid
+1906,1,3,5/18/2025,Print advertising,14420.36,Liability Solutions,Check,Paid
+1907,1,4,5/9/2025,HVAC maintenance,5549.49,Food Distributors Egypt,Check,Paid
+1908,1,4,5/27/2025,Equipment repair,2841.26,Cleaning Solutions,Bank Transfer,Paid
+1909,1,5,5/25/2025,Restaurant supplies,10374.73,IT Support Services,Cash,Paid
+1910,1,5,5/6/2025,Kitchen equipment,16513.13,Tech Solutions,Check,Paid
+1911,1,5,5/4/2025,Kitchen equipment,17346.49,Certification Center,Bank Transfer,Paid
+1912,1,5,5/23/2025,Restaurant supplies,8924.96,HVAC Systems Ltd.,Cash,Paid
+1913,1,6,5/12/2025,Sanitization products,3709.47,Education Plus,Check,Paid
+1914,1,6,5/24/2025,Cleaning chemicals,2790.42,Training Institute,Cash,Paid
+1915,1,6,5/23/2025,Sanitization products,2893.73,Digital Media Group,Credit Card,Paid
+1916,1,7,5/20/2025,Liability insurance,8558.33,Digital Media Group,Credit Card,Paid
+1917,1,7,5/26/2025,Property insurance,5370.5,IT Support Services,Check,Paid
+1918,1,7,5/12/2025,Liability insurance,5692.04,Legal Associates,Check,Paid
+1919,1,7,5/28/2025,Liability insurance,10380.27,Food Distributors Egypt,Bank Transfer,Paid
+1920,1,8,5/7/2025,System upgrades,5992.61,Employee Benefits Co.,Credit Card,Pending
+1921,1,8,5/24/2025,Software licenses,7767.13,Software Corp.,Credit Card,Paid
+1922,1,9,5/28/2025,Certification courses,2002.85,IT Support Services,Credit Card,Paid
+1923,1,9,5/5/2025,Training materials,1537.76,Marketing Solutions Ltd.,Check,Paid
+1924,1,10,5/27/2025,Office supplies,4551.44,Legal Associates,Bank Transfer,Pending
+1925,1,10,5/22/2025,Bank charges,6061.4,Damietta Electric Co.,Cash,Paid
+1926,1,10,5/5/2025,Office supplies,2137.68,Kitchen Equipment Co.,Credit Card,Pending
+1927,1,1,6/24/2025,Bonus payments,98035.71,Bank of Egypt,Cash,Paid
+1928,1,1,6/25/2025,Management salaries,73372.34,Print House Co.,Credit Card,Paid
+1929,1,1,6/23/2025,Overtime payments,93394.68,Municipal Water Authority,Bank Transfer,Paid
+1930,1,2,6/22/2025,Gas bill,17340.87,Kitchen Equipment Co.,Bank Transfer,Paid
+1931,1,2,6/27/2025,Water bill,12219.68,Office Depot Egypt,Credit Card,Paid
+1932,1,3,6/25/2025,Print advertising,8971.95,Kitchen Equipment Co.,Check,Paid
+1933,1,3,6/20/2025,Promotional materials,8912.48,System Integrators,Check,Overdue
+1934,1,4,6/13/2025,Elevator service,8913.66,Property Guard,Bank Transfer,Paid
+1935,1,4,6/6/2025,HVAC maintenance,1810.87,Legal Associates,Cash,Pending
+1936,1,5,6/7/2025,Restaurant supplies,20092.69,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+1937,1,5,6/25/2025,Beverage purchases,18430.43,Professional Development,Credit Card,Paid
+1938,1,5,6/26/2025,Kitchen equipment,29321.05,Damietta Electric Co.,Check,Paid
+1939,1,6,6/22/2025,Housekeeping supplies,4783,Building Services Co.,Credit Card,Paid
+1940,1,6,6/5/2025,Housekeeping supplies,4679.59,Beverage Suppliers,Cash,Paid
+1941,1,6,6/18/2025,Sanitization products,2480.48,Training Institute,Credit Card,Paid
+1942,1,6,6/13/2025,Housekeeping supplies,2319.59,Food Distributors Egypt,Bank Transfer,Pending
+1943,1,7,6/15/2025,Property insurance,5982.29,Building Services Co.,Cash,Pending
+1944,1,7,6/20/2025,Property insurance,10259.83,Office Depot Egypt,Check,Paid
+1945,1,8,6/4/2025,Software licenses,4635.97,Bank of Egypt,Bank Transfer,Paid
+1946,1,8,6/6/2025,Software licenses,3445.65,HVAC Systems Ltd.,Check,Paid
+1947,1,8,6/27/2025,Hardware purchases,6090.37,Building Services Co.,Cash,Paid
+1948,1,8,6/20/2025,System upgrades,3122.97,System Integrators,Cash,Paid
+1949,1,9,6/8/2025,Training materials,539.6,Professional Development,Credit Card,Paid
+1950,1,9,6/1/2025,Certification courses,1727.53,HVAC Systems Ltd.,Cash,Paid
+1951,1,9,6/15/2025,Certification courses,2275.57,Sanitech Co.,Cash,Paid
+1952,1,9,6/16/2025,Training materials,712.15,Housekeeping Supplies Ltd.,Cash,Paid
+1953,1,10,6/9/2025,Bank charges,1049.7,Food Distributors Egypt,Cash,Paid
+1954,1,10,6/20/2025,Accounting services,1533.6,Professional Development,Bank Transfer,Paid
+1955,1,10,6/5/2025,Bank charges,4269.2,Sanitech Co.,Bank Transfer,Paid
+1956,1,10,6/24/2025,Bank charges,6089.86,Elevator Tech,Check,Paid
+1957,1,1,7/12/2025,Overtime payments,90922.77,Kitchen Equipment Co.,Bank Transfer,Overdue
+1958,1,1,7/6/2025,Overtime payments,81667.11,Accounting Firm,Check,Paid
+1959,1,1,7/11/2025,Bonus payments,115982.71,Sanitech Co.,Cash,Paid
+1960,1,2,7/12/2025,Gas bill,16685.8,Sanitech Co.,Bank Transfer,Paid
+1961,1,2,7/10/2025,Water bill,21581.96,Software Corp.,Cash,Paid
+1962,1,3,7/23/2025,Promotional materials,14352.69,Legal Associates,Credit Card,Paid
+1963,1,3,7/11/2025,Online advertising,8654.06,Software Corp.,Bank Transfer,Paid
+1964,1,3,7/2/2025,Social media marketing,2086.3,Accounting Firm,Credit Card,Paid
+1965,1,3,7/2/2025,Print advertising,14615.98,Delta Gas Company,Bank Transfer,Paid
+1966,1,4,7/19/2025,Building maintenance,3593.15,Tech Solutions,Cash,Paid
+1967,1,4,7/9/2025,HVAC maintenance,4839.41,HVAC Systems Ltd.,Bank Transfer,Paid
+1968,1,5,7/1/2025,Restaurant supplies,15084.9,Bank of Egypt,Cash,Paid
+1969,1,5,7/5/2025,Beverage purchases,15395.79,Telecom Egypt,Credit Card,Paid
+1970,1,5,7/8/2025,Kitchen equipment,23507.08,Kitchen Equipment Co.,Check,Paid
+1971,1,5,7/9/2025,Restaurant supplies,23757.83,Certification Center,Check,Paid
+1972,1,6,7/25/2025,Housekeeping supplies,3845.3,Property Guard,Cash,Paid
+1973,1,6,7/13/2025,Sanitization products,3954.93,Print House Co.,Cash,Paid
+1974,1,6,7/8/2025,Cleaning chemicals,3442.96,Maintenance Plus,Bank Transfer,Paid
+1975,1,7,7/23/2025,Equipment insurance,11494.84,Training Institute,Cash,Paid
+1976,1,7,7/23/2025,Property insurance,4501.3,Municipal Water Authority,Credit Card,Pending
+1977,1,7,7/6/2025,Equipment insurance,11872.29,Laundry Services,Bank Transfer,Paid
+1978,1,7,7/20/2025,Equipment insurance,3999.79,Training Institute,Bank Transfer,Paid
+1979,1,8,7/1/2025,Hardware purchases,2790.69,Building Services Co.,Cash,Paid
+1980,1,8,7/26/2025,Hardware purchases,3769.58,Delta Gas Company,Bank Transfer,Paid
+1981,1,8,7/23/2025,Software licenses,3851.64,Digital Media Group,Cash,Paid
+1982,1,9,7/21/2025,Staff training programs,1901.07,Housekeeping Supplies Ltd.,Bank Transfer,Paid
+1983,1,9,7/22/2025,Staff training programs,1892.64,Insurance Group Egypt,Credit Card,Paid
+1984,1,9,7/4/2025,External trainers,1410.73,Housekeeping Supplies Ltd.,Credit Card,Paid
+1985,1,10,7/8/2025,Legal fees,2265.67,Office Depot Egypt,Cash,Paid
+1986,1,10,7/10/2025,Legal fees,2863.82,Elevator Tech,Check,Paid
+1987,1,10,7/22/2025,Office supplies,2871,Food Distributors Egypt,Bank Transfer,Paid
+1988,1,1,8/14/2025,Management salaries,112542.22,Tech Solutions,Credit Card,Paid
+1989,1,1,8/16/2025,Staff salaries,91237.44,Beverage Suppliers,Cash,Pending
+1990,1,1,8/22/2025,Management salaries,81618.72,Employee Benefits Co.,Bank Transfer,Paid
+1991,1,2,8/24/2025,Water bill,18216.94,Telecom Egypt,Cash,Paid
+1992,1,2,8/28/2025,Water bill,14947.7,Kitchen Equipment Co.,Cash,Paid
+1993,1,2,8/22/2025,Electricity bill,12509.22,Sanitech Co.,Credit Card,Paid
+1994,1,3,8/24/2025,Social media marketing,9875.6,Telecom Egypt,Bank Transfer,Paid
+1995,1,3,8/1/2025,Promotional materials,9788.06,Property Guard,Cash,Paid
+1996,1,4,8/7/2025,HVAC maintenance,3315.97,Housekeeping Supplies Ltd.,Credit Card,Paid
+1997,1,4,8/6/2025,Elevator service,9734.34,Sanitech Co.,Bank Transfer,Paid
+1998,1,4,8/22/2025,Building maintenance,1733,Tech Solutions,Credit Card,Pending
+1999,1,5,8/18/2025,Kitchen equipment,20269.04,Laundry Services,Cash,Paid
+2000,1,5,8/6/2025,Kitchen equipment,27067.04,Professional Development,Bank Transfer,Paid
+2001,1,6,8/18/2025,Sanitization products,2461.23,Maintenance Plus,Check,Paid
+2002,1,6,8/4/2025,Housekeeping supplies,4557.83,Telecom Egypt,Credit Card,Paid
+2003,1,7,8/6/2025,Equipment insurance,4671.29,Kitchen Equipment Co.,Credit Card,Paid
+2004,1,7,8/7/2025,Employee insurance,4973.59,IT Support Services,Check,Paid
+2005,1,7,8/14/2025,Employee insurance,5161.49,Accounting Firm,Check,Paid
+2006,1,7,8/18/2025,Property insurance,3267.38,Professional Development,Bank Transfer,Pending
+2007,1,8,8/25/2025,IT support,4775.24,Municipal Water Authority,Cash,Paid
+2008,1,8,8/6/2025,Hardware purchases,4207.45,Food Distributors Egypt,Check,Paid
+2009,1,9,8/24/2025,Training materials,2725.69,Food Distributors Egypt,Check,Paid
+2010,1,9,8/25/2025,Training materials,2346.28,Sanitech Co.,Bank Transfer,Paid
+2011,1,9,8/24/2025,Certification courses,534.69,Liability Solutions,Bank Transfer,Paid
+2012,1,10,8/1/2025,Accounting services,7976.45,Damietta Electric Co.,Cash,Pending
+2013,1,10,8/18/2025,Bank charges,1420.97,Creative Agency,Cash,Paid
+2014,1,10,8/25/2025,Office supplies,3053.45,Creative Agency,Credit Card,Paid
+2015,1,10,8/28/2025,Accounting services,3786.32,Insurance Group Egypt,Bank Transfer,Paid
+2016,1,1,9/5/2025,Staff salaries,70142.67,Liability Solutions,Check,Paid
+2017,1,1,9/5/2025,Management salaries,77050.78,Municipal Water Authority,Credit Card,Paid
+2018,1,1,9/10/2025,Overtime payments,68293.96,Insurance Group Egypt,Cash,Paid
+2019,1,2,9/26/2025,Gas bill,14948.96,Employee Benefits Co.,Check,Paid
+2020,1,2,9/8/2025,Telecommunications,11794.04,Restaurant Supply,Cash,Paid
+2021,1,2,9/7/2025,Gas bill,10465.46,Telecom Egypt,Cash,Paid
+2022,1,3,9/12/2025,Online advertising,3450.23,Tech Solutions,Check,Paid
+2023,1,3,9/1/2025,Online advertising,3955.79,Beverage Suppliers,Credit Card,Paid
+2024,1,3,9/11/2025,Social media marketing,12764.23,Creative Agency,Credit Card,Paid
+2025,1,4,9/5/2025,Building maintenance,8757.72,Telecom Egypt,Bank Transfer,Paid
+2026,1,4,9/10/2025,Building maintenance,7074.25,Food Distributors Egypt,Cash,Paid
+2027,1,4,9/23/2025,Building maintenance,4321.77,Tech Solutions,Credit Card,Paid
+2028,1,4,9/7/2025,Equipment repair,3496.46,IT Support Services,Bank Transfer,Paid
+2029,1,5,9/26/2025,Beverage purchases,9133.76,Training Institute,Cash,Paid
+2030,1,5,9/14/2025,Kitchen equipment,23620.54,Insurance Group Egypt,Credit Card,Paid
+2031,1,5,9/15/2025,Food supplies,29675.81,Tech Solutions,Bank Transfer,Paid
+2032,1,6,9/8/2025,Sanitization products,3418.75,Creative Agency,Credit Card,Paid
+2033,1,6,9/8/2025,Cleaning chemicals,1596.38,System Integrators,Cash,Paid
+2034,1,6,9/20/2025,Sanitization products,2414.12,Office Depot Egypt,Credit Card,Paid
+2035,1,7,9/4/2025,Equipment insurance,8242.57,HVAC Systems Ltd.,Check,Paid
+2036,1,7,9/19/2025,Property insurance,5184.79,Municipal Water Authority,Check,Paid
+2037,1,8,9/28/2025,System upgrades,4871.48,System Integrators,Cash,Paid
+2038,1,8,9/18/2025,Hardware purchases,5767.63,Education Plus,Bank Transfer,Paid
+2039,1,8,9/13/2025,Software licenses,5417.28,Marketing Solutions Ltd.,Check,Paid
+2040,1,8,9/16/2025,Software licenses,7619.82,Property Guard,Cash,Pending
+2041,1,9,9/27/2025,Certification courses,1379,Bank of Egypt,Credit Card,Paid
+2042,1,9,9/28/2025,Certification courses,741.54,Accounting Firm,Bank Transfer,Paid
+2043,1,9,9/18/2025,Certification courses,2439.11,Food Distributors Egypt,Cash,Paid
+2044,1,9,9/25/2025,Training materials,1660.01,Education Plus,Cash,Paid
+2045,1,10,9/24/2025,Bank charges,1700.38,Training Institute,Bank Transfer,Paid
+2046,1,10,9/21/2025,Office supplies,7216.71,Tech Solutions,Bank Transfer,Paid
+2047,1,10,9/5/2025,Office supplies,4660.7,Professional Development,Check,Paid
+2048,1,1,10/22/2025,Staff salaries,133021.86,Restaurant Supply,Bank Transfer,Pending
+2049,1,1,10/11/2025,Management salaries,111567.07,Training Institute,Check,Paid
+2050,1,1,10/18/2025,Overtime payments,136714.37,Training Institute,Bank Transfer,Pending
+2051,1,2,10/14/2025,Electricity bill,8127.43,Property Guard,Credit Card,Paid
+2052,1,2,10/12/2025,Electricity bill,13759.13,Tech Solutions,Check,Paid
+2053,1,2,10/27/2025,Electricity bill,14142.37,Education Plus,Bank Transfer,Paid
+2054,1,3,10/2/2025,Online advertising,3801.97,Kitchen Equipment Co.,Cash,Paid
+2055,1,3,10/15/2025,Online advertising,9650.54,Municipal Water Authority,Cash,Paid
+2056,1,4,10/18/2025,Building maintenance,1147.33,Bank of Egypt,Cash,Paid
+2057,1,4,10/8/2025,HVAC maintenance,7615.32,Insurance Group Egypt,Check,Pending
+2058,1,4,10/24/2025,Elevator service,3538.49,Marketing Solutions Ltd.,Bank Transfer,Paid
+2059,1,5,10/14/2025,Kitchen equipment,23436.41,Building Services Co.,Bank Transfer,Pending
+2060,1,5,10/25/2025,Beverage purchases,14354.28,Beverage Suppliers,Check,Paid
+2061,1,6,10/9/2025,Laundry supplies,3591.9,Software Corp.,Cash,Pending
+2062,1,6,10/17/2025,Housekeeping supplies,3909.69,Laundry Services,Bank Transfer,Paid
+2063,1,6,10/12/2025,Housekeeping supplies,1948.26,Housekeeping Supplies Ltd.,Credit Card,Paid
+2064,1,6,10/1/2025,Sanitization products,3510.2,Beverage Suppliers,Cash,Paid
+2065,1,7,10/16/2025,Liability insurance,3482.73,Food Distributors Egypt,Credit Card,Paid
+2066,1,7,10/24/2025,Employee insurance,5442.97,Building Services Co.,Check,Paid
+2067,1,7,10/8/2025,Equipment insurance,7918.9,Legal Associates,Check,Paid
+2068,1,7,10/14/2025,Equipment insurance,8778.51,System Integrators,Cash,Paid
+2069,1,8,10/22/2025,Software licenses,6314.42,Laundry Services,Check,Paid
+2070,1,8,10/17/2025,Software licenses,7574.96,Restaurant Supply,Check,Pending
+2071,1,8,10/11/2025,IT support,2332.38,Accounting Firm,Bank Transfer,Paid
+2072,1,8,10/2/2025,IT support,5226.72,Professional Development,Bank Transfer,Paid
+2073,1,9,10/17/2025,Certification courses,999.06,Housekeeping Supplies Ltd.,Check,Paid
+2074,1,9,10/1/2025,Certification courses,992.48,Insurance Group Egypt,Credit Card,Paid
+2075,1,9,10/1/2025,Training materials,2638.94,Damietta Electric Co.,Check,Paid
+2076,1,9,10/3/2025,Certification courses,2759.87,Delta Gas Company,Credit Card,Paid
+2077,1,10,10/3/2025,Accounting services,1744.57,Housekeeping Supplies Ltd.,Cash,Paid
+2078,1,10,10/7/2025,Bank charges,5228.75,Telecom Egypt,Check,Paid
+2079,1,10,10/8/2025,Legal fees,5578,Food Distributors Egypt,Credit Card,Paid
+2080,1,10,10/1/2025,Legal fees,4512.9,Beverage Suppliers,Check,Paid
+2081,1,1,11/18/2025,Management salaries,50753.33,Accounting Firm,Cash,Paid
+2082,1,1,11/24/2025,Management salaries,120389.07,Elevator Tech,Credit Card,Paid
+2083,1,1,11/11/2025,Staff salaries,134113.42,Elevator Tech,Cash,Paid
+2084,1,1,11/28/2025,Management salaries,77660.79,Building Services Co.,Check,Paid
+2085,1,2,11/3/2025,Water bill,11071.41,Digital Media Group,Credit Card,Paid
+2086,1,2,11/18/2025,Electricity bill,21892.98,Tech Solutions,Cash,Paid
+2087,1,2,11/27/2025,Telecommunications,16199.53,Tech Solutions,Cash,Paid
+2088,1,2,11/18/2025,Telecommunications,17717.63,Insurance Group Egypt,Check,Paid
+2089,1,3,11/2/2025,Print advertising,8284.4,Employee Benefits Co.,Cash,Paid
+2090,1,3,11/28/2025,Promotional materials,2619.59,Creative Agency,Check,Paid
+2091,1,3,11/26/2025,Print advertising,8527.38,Food Distributors Egypt,Cash,Paid
+2092,1,3,11/7/2025,Print advertising,8781.52,Bank of Egypt,Check,Paid
+2093,1,4,11/27/2025,Equipment repair,9539.25,Digital Media Group,Bank Transfer,Paid
+2094,1,4,11/17/2025,Elevator service,1217.42,Telecom Egypt,Credit Card,Paid
+2095,1,5,11/7/2025,Food supplies,9967.35,Housekeeping Supplies Ltd.,Cash,Paid
+2096,1,5,11/3/2025,Kitchen equipment,21078.07,Restaurant Supply,Credit Card,Paid
+2097,1,6,11/20/2025,Sanitization products,3975.15,Creative Agency,Cash,Paid
+2098,1,6,11/26/2025,Sanitization products,3546.03,Office Depot Egypt,Cash,Overdue
+2099,1,6,11/27/2025,Housekeeping supplies,4813.59,Sanitech Co.,Bank Transfer,Paid
+2100,1,6,11/23/2025,Laundry supplies,4759.13,Beverage Suppliers,Check,Paid
+2101,1,7,11/19/2025,Liability insurance,5514,Housekeeping Supplies Ltd.,Cash,Paid
+2102,1,7,11/25/2025,Equipment insurance,3598.67,Training Institute,Credit Card,Paid
+2103,1,7,11/18/2025,Property insurance,11192.87,Employee Benefits Co.,Check,Pending
+2104,1,7,11/12/2025,Employee insurance,10430.09,Employee Benefits Co.,Bank Transfer,Paid
+2105,1,8,11/18/2025,Software licenses,2842.33,Beverage Suppliers,Cash,Paid
+2106,1,8,11/17/2025,Hardware purchases,5053.89,System Integrators,Credit Card,Paid
+2107,1,9,11/28/2025,Staff training programs,1397.05,Print House Co.,Credit Card,Paid
+2108,1,9,11/6/2025,Training materials,2708.67,Certification Center,Cash,Paid
+2109,1,10,11/4/2025,Office supplies,7696.58,Professional Development,Cash,Paid
+2110,1,10,11/25/2025,Legal fees,6666.83,Building Services Co.,Bank Transfer,Paid
+2111,1,10,11/4/2025,Accounting services,1559.1,Damietta Electric Co.,Cash,Overdue
+2112,1,10,11/23/2025,Accounting services,4746.02,Damietta Electric Co.,Check,Paid
+2113,1,1,12/6/2025,Management salaries,94407.02,Maintenance Plus,Credit Card,Paid
+2114,1,1,12/4/2025,Bonus payments,89295.13,Digital Media Group,Cash,Paid
+2115,1,1,12/4/2025,Bonus payments,103071.08,Accounting Firm,Cash,Paid
+2116,1,2,12/2/2025,Electricity bill,23475.56,Telecom Egypt,Check,Paid
+2117,1,2,12/1/2025,Gas bill,16401.68,Food Distributors Egypt,Bank Transfer,Paid
+2118,1,2,12/1/2025,Electricity bill,8429.21,Food Distributors Egypt,Bank Transfer,Paid
+2119,1,3,12/17/2025,Promotional materials,3628.7,Municipal Water Authority,Credit Card,Paid
+2120,1,3,12/25/2025,Promotional materials,5343.34,System Integrators,Check,Paid
+2121,1,3,12/13/2025,Print advertising,11090.88,Bank of Egypt,Bank Transfer,Paid
+2122,1,3,12/5/2025,Online advertising,5305.52,Kitchen Equipment Co.,Credit Card,Paid
+2123,1,4,12/19/2025,HVAC maintenance,1929.55,Bank of Egypt,Bank Transfer,Overdue
+2124,1,4,12/26/2025,Elevator service,9011.45,Housekeeping Supplies Ltd.,Check,Paid
+2125,1,5,12/27/2025,Food supplies,9673.43,Education Plus,Cash,Paid
+2126,1,5,12/6/2025,Food supplies,16575.22,Print House Co.,Cash,Paid
+2127,1,5,12/7/2025,Restaurant supplies,15536.06,Software Corp.,Cash,Paid
+2128,1,6,12/2/2025,Housekeeping supplies,3691.67,Accounting Firm,Credit Card,Overdue
+2129,1,6,12/28/2025,Laundry supplies,2565.82,Beverage Suppliers,Cash,Paid
+2130,1,6,12/22/2025,Sanitization products,2012.26,Professional Development,Bank Transfer,Paid
+2131,1,7,12/18/2025,Equipment insurance,9951.92,Telecom Egypt,Bank Transfer,Paid
+2132,1,7,12/12/2025,Equipment insurance,5426.25,Liability Solutions,Cash,Pending
+2133,1,7,12/23/2025,Equipment insurance,8498.07,Property Guard,Credit Card,Paid
+2134,1,8,12/26/2025,IT support,4161.18,Municipal Water Authority,Check,Paid
+2135,1,8,12/9/2025,Software licenses,5989.06,Elevator Tech,Check,Pending
+2136,1,8,12/5/2025,IT support,3597.55,Delta Gas Company,Credit Card,Paid
+2137,1,8,12/4/2025,System upgrades,2075.62,Print House Co.,Check,Paid
+2138,1,9,12/17/2025,External trainers,1724.35,Employee Benefits Co.,Cash,Paid
+2139,1,9,12/17/2025,Certification courses,1830.33,Creative Agency,Cash,Paid
+2140,1,9,12/2/2025,Certification courses,670.35,Marketing Solutions Ltd.,Credit Card,Paid
+2141,1,9,12/24/2025,Training materials,1736.38,Employee Benefits Co.,Bank Transfer,Paid
+2142,1,10,12/11/2025,Accounting services,5574.18,Software Corp.,Bank Transfer,Paid
+2143,1,10,12/9/2025,Bank charges,3791.62,Legal Associates,Cash,Paid
+2144,1,10,12/6/2025,Office supplies,6403,Municipal Water Authority,Bank Transfer,Pending
