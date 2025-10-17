@@ -31,7 +31,7 @@ To generate **clear, actionable insights** that support **data-driven decision-m
 ---
 
 ## 👥 Team Members  
-- **[Add Name Here]** – [LinkedIn]()  
+- **Mariam Taha** – [LinkedIn](https://www.linkedin.com/in/mariiamtaha/)  
 - **[Add Name Here]** – [LinkedIn]()  
 - **[Add Name Here]** – [LinkedIn]()
 - **[Add Name Here]** – [LinkedIn]()
