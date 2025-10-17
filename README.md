@@ -31,13 +31,12 @@ To generate **clear, actionable insights** that support **data-driven decision-m
 ---
 
 ## 👥 Team Members  
+- **[Add Name Here]** – [LinkedIn]()  
+- **[Add Name Here]** – [LinkedIn]()  
+- **[Add Name Here]** – [LinkedIn]()
+- **[Add Name Here]** – [LinkedIn]()
+- **[Add Name Here]** – [LinkedIn]()  
 - **Kareem Shaaban** – [LinkedIn](https://www.linkedin.com/in/kareem-shaaban-)  
-- **[Add Name Here]** – [LinkedIn]()  
-- **[Add Name Here]** – [LinkedIn]()  
-- **[Add Name Here]** – [LinkedIn]()
-- **[Add Name Here]** – [LinkedIn]()
-- **[Add Name Here]** – [LinkedIn]()  
-
 ---
 
 ## 📈 Expected Outcomes  
