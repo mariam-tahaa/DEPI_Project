@@ -32,7 +32,7 @@ To generate **clear, actionable insights** that support **data-driven decision-m
 
 ## 👥 Team Members  
 - **Mariam Taha** – [LinkedIn](https://www.linkedin.com/in/mariiamtaha/)  
-- **[Shahd Mohammed]** – [LinkedIn](https://www.linkedin.com/in/shahd-m-kordy-847633385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Shahd Mohammed** – [LinkedIn](https://www.linkedin.com/in/shahd-m-kordy-847633385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **[Add Name Here]** – [LinkedIn]()
 - **[Add Name Here]** – [LinkedIn]()
 - **[Add Name Here]** – [LinkedIn]()  
